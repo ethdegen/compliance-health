@@ -1,0 +1,69 @@
+{
+    "version": "0.2.0",
+    "compounds": [
+        {
+            "name": "fastapi + nextapp",
+            "configurations": ["fastapi_launch_src", "nextapp_launch_server"],
+            "stopAll": true
+        }
+    ],
+    "configurations": [
+        {
+            "name": "fastapi_attach",
+            "type": "debugpy",
+            "request": "attach",
+            "processId": "${command:pickProcess}",
+            "logToFile": true
+        },
+        {
+            "name": "fastapi_launch",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "internalConsole",
+            "logToFile": true,
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}${pathSeparator}fastapi${pathSeparator}src"
+            }
+        },
+        {
+            "name": "fastapi_launch_src",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "uvicorn",
+            "args": ["app:app"],
+            "console": "internalConsole",
+            "logToFile": true,
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}${pathSeparator}fastapi${pathSeparator}src"
+            }
+        },
+        {
+            "name": "nextapp_attach_browser",
+            "type": "chrome",
+            "request": "attach",
+            "webRoot": "${workspaceFolder}${pathSeparator}nextapp",
+            "port": 9222
+        },
+        {
+            "name": "nextapp_launch_browser",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "npm run dev",
+            "cwd": "${workspaceFolder}${pathSeparator}nextapp",
+            "serverReadyAction": {
+                "pattern": "started server on .+, url: (https?://.+)",
+                "uriFormat": "%s",
+                "webRoot": "${workspaceFolder}${pathSeparator}nextapp",
+                "action": "debugWithChrome"
+            }
+        },
+        {
+            "name": "nextapp_launch_server",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "npm run dev",
+            "cwd": "${workspaceFolder}${pathSeparator}nextapp"
+        }
+    ]
+}

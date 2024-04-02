@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "src"
+version = "0.1.0"
+description = ""
+authors = ["name <email>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.109.2"
+uvicorn = {extras = ["standard"], version = "^0.27.1"}
+prisma = "^0.12.0"
+python-dotenv = "^1.0.1"
+llama-index = "^0.10.26"
+llmsherpa = "^0.1.4"
+unstructured-client = "^0.22.0"
+roman = "^4.1"
+
+[virtualenvs]
+in-project = true
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

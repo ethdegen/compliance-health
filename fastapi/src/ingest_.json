@@ -1,0 +1,439 @@
+[
+    {
+        "type": "UncategorizedText",
+        "element_id": "ee42308e5a3827625b9c3b5d48319c19",
+        "text": "DATE:",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "b631b40307fffba3df827a3e5313371a",
+        "text": "March 28, 2024",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "01b0d5d0513375eb2c7ce721e452c688",
+        "text": "ALL PLAN LETTER 24-003 SUPERSEDES ALL PLAN LETTER 22-022",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "0e7e901f4b9739d094434ca9b375f7a2",
+        "text": "TO:",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "01b0d5d0513375eb2c7ce721e452c688",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "fa2840581b4d839d70a9ea35f476cc21",
+        "text": "ALL MEDI-CAL MANAGED CARE PLANS",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e6a5d10e11da99e5d4fb56feebdb9f30",
+        "text": "SUBJECT: ABORTION SERVICES",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b34a8e15ea79a57ad66bf761dbefe442",
+        "text": "PURPOSE: The purpose of this All Plan Letter (APL) is to provide Medi-Cal managed care plans (MCP) with information regarding their responsibility to provide Members with timely access to abortion services.",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "e6a5d10e11da99e5d4fb56feebdb9f30",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3026cfcd49c85848de1f566feedbd081",
+        "text": "BACKGROUND: The Reproductive Privacy Act provides that the state, and thus MCPs as contractors, may not deny or interfere with a person’s right to choose or obtain an abortion prior to viability of the fetus or when an abortion is necessary to protect the life or health of the pregnant individual.1",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "e6a5d10e11da99e5d4fb56feebdb9f30",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d514b7ac515d41934a85c76b9d98b330",
+        "text": "Abortion services are covered by the Medi-Cal program, as outlined in the Medi-Cal provider manual.2",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "e6a5d10e11da99e5d4fb56feebdb9f30",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2f488eecb838950d3d14abc0b6217e29",
+        "text": "Senate Bill 245 (Chapter 11, Statutes of 2022) prohibits the imposition of deductibles, coinsurance, copayments, or any other cost-sharing requirements on the coverage of abortion and abortion-related services. It also prohibits the application of utilization management or Utilization Reviews on the coverage for outpatient abortion services.",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "e6a5d10e11da99e5d4fb56feebdb9f30",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "40e8d6c10621fd6ed42f57c58d9f6b70",
+        "text": "POLICY: MCPs must cover abortion services, as well as, the medical services and supplies incidental or preliminary to an abortion, consistent with the requirements outlined in the Medi-Cal Provider Manual. MCPs and their Network Providers and Subcontractors are prohibited from requiring medical justification, or imposing any utilization management or Utilization Review requirements, including Prior Authorization and annual or lifetime limits, on the coverage of outpatient abortion services. However, non-emergency",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "e6a5d10e11da99e5d4fb56feebdb9f30",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7310a3babb4baa765cc64fb19f08c948",
+        "text": "1 California Legislative Information is available at: https://leginfo.legislature.ca.gov/faces/home.xhtml. 2 The Medi-Cal Provider Manual for abortions can be found at: https://mcweb.apps.prd.cammis.medi-cal.ca.gov/assets/26092CC9-AAAF-432E-A672- 85D649215F8A/abort.pdf?access_token=6UyVkRRfByXTZEWIh8j8QaYylPyP5ULO",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "links": [
+                {
+                    "text": "https :// leginfo . legislature . ca . gov / faces / home . xhtml .",
+                    "url": "https://leginfo.legislature.ca.gov/faces/home.xhtml",
+                    "start_index": 54
+                },
+                {
+                    "text": "https :// mcweb . apps . prd . cammis . medi - cal . ca . gov / assets / 26092CC9 - AAAF - 432E - A672",
+                    "url": "https://mcweb.apps.prd.cammis.medi-cal.ca.gov/assets/26092CC9-AAAF-432E-A672-85D649215F8A/abort.pdf?access_token=6UyVkRRfByXTZEWIh8j8QaYylPyP5ULO",
+                    "start_index": 169
+                }
+            ],
+            "page_number": 1,
+            "parent_id": "e6a5d10e11da99e5d4fb56feebdb9f30",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Footer",
+        "element_id": "a05e088f0c5fb53edbd46b23092ee7d2",
+        "text": "California Department of Health Care Services Managed Care Quality and Monitoring Division 1501 Capitol Avenue, P.O. Box 997413 Sacramento, CA | 95899-7413 MS 4410 | Phone (916) 449-5000 | www.dhcs.ca.gov",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "links": [
+                {
+                    "text": "www . dhcs . ca . gov",
+                    "url": "https://www.dhcs.ca.gov",
+                    "start_index": 189
+                }
+            ],
+            "page_number": 1,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "0a57390172d2f9b09a8e7105447ee972",
+        "text": "State of California Gavin Newsom, Governor",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Footer",
+        "element_id": "da3d18b8f541ff2591832335a35efd39",
+        "text": "California Health and Human Services Agency",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f52831e2bd19cfca2af518dca2680920",
+        "text": "ALL PLAN LETTER 24-003 Page 2",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "33903bf8b47bdeaad2d9a9b89ee13c57",
+        "text": "inpatient hospitalization for the performance of an abortion may require Prior Authorization under the same criteria as other medical procedures.3",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "f52831e2bd19cfca2af518dca2680920",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a94db83bed14575d5b22764564e2a31a",
+        "text": "Abortion services are, by nature, sensitive services. Minors who wish to receive abortion services may do so without parental consent under the Medi-Cal Minor Consent Program.4 All MCPs must implement and maintain procedures that ensure a Member’s confidentiality in accessing abortion services. Members may go to any Medi-Cal Provider of their choice for abortion services, at any time for any reason, regardless of network affiliation. However, no MCP may require a Physician, health care provider, or person to perform or participate in the performance of an abortion, and no person refusing to perform or participate in performing an abortion is to be subject to penalty or discipline in any form for such a choice.5 Furthermore, MCPs and their Network Providers and Subcontractors must inform Members when they enroll that some hospitals, clinics, and other Providers in their Network may refuse to provide abortion services. In such case, MCPs must help the Member find another Provider for the needed services. All MCPs have an obligation to ensure Members have timely access to abortion services.",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "f52831e2bd19cfca2af518dca2680920",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3760ee299a5a12d38dc886565975a2e2",
+        "text": "MCPs must make payments in compliance with the clean claims requirements and timeframes outlined in the MCP Contract.6 These requirements apply to both the MCPs and their Network Providers and Subcontractors. If a Member chooses to see an Out-of- Network Provider for abortion services, the reimbursement rate must not be lower, and is not required to be higher, than the Medi-Cal Fee-For-Service rate, unless the Out-of- Network Provider and the MCP mutually agree to a different reimbursement rate.",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "f52831e2bd19cfca2af518dca2680920",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4b6c835e0a387ba46161c0b0e35c3def",
+        "text": "MCPs must review their contractually required policies and procedures (P&Ps) to determine if amendments are needed to comply with this APL. If the requirements contained in this APL, including any updates or revisions to this APL, necessitate a change in an MCP’s contractually required (P&Ps), the MCP must submit its updated P&Ps to its Managed Care Operations Division (MCOD) Contract Manager within 90 days of the release of this APL. If an MCP determines that no changes to its P&Ps are necessary, the MCP must submit an email confirmation to its MCOD contract manager within 90 days of the release of this APL, stating that the MCP’s P&Ps have been",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "f52831e2bd19cfca2af518dca2680920",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a8aea162a4a63ed9ea1a8e1fc1a23134",
+        "text": "3 Title 22, California Code of Regulations (CCR), Section 51327. The CCR is searchable at: https://govt.westlaw.com/calregs/index?__lrTS=20210423013246097&transitionType=Default&c ontextData=%28sc.Default%29 4 The Medi-Cal Provider Manual for the Minor Consent Program can be found at: https://files.medi-cal.ca.gov/pubsdoco/publications/masters-mtp/part2/minor.pdf 5 Health and Safety Code section 123420 6 MCP boilerplate Contracts are available at: https://www.dhcs.ca.gov/provgovpart/Pages/MMCDBoilerplateContracts.aspx",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "links": [
+                {
+                    "text": "https :// govt . westlaw . com / calregs / index ?__ lrTS = 20210423013246097 & transitionType = Default &",
+                    "url": "https://govt.westlaw.com/calregs/index?__lrTS=20210423013246097&transitionType=Default&contextData=%28sc.Default%29",
+                    "start_index": 91
+                },
+                {
+                    "text": "https :// files . medi - cal . ca . gov / pubsdoco / publications / masters - mtp / part2 / minor . pdf",
+                    "url": "https://files.medi-cal.ca.gov/pubsdoco/publications/masters-mtp/part2/minor.pdf",
+                    "start_index": 286
+                },
+                {
+                    "text": "https :// www . dhcs . ca . gov / provgovpart / Pages / MMCDBoilerplateContracts . aspx",
+                    "url": "https://www.dhcs.ca.gov/provgovpart/Pages/MMCDBoilerplateContracts.aspx",
+                    "start_index": 452
+                }
+            ],
+            "page_number": 2,
+            "parent_id": "f52831e2bd19cfca2af518dca2680920",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c2d8209999a906a88c5ff5b8f554ef8e",
+        "text": "ALL PLAN LETTER 24-003 Page 3",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a412dfe7c9e126a3b493ec80f00af15a",
+        "text": "reviewed and no changes are necessary. The email confirmation must include the title of this APL as well as the applicable APL release date in the subject line.",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "c2d8209999a906a88c5ff5b8f554ef8e",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6d9e73020f6e9dd33e0cf988f791bb7b",
+        "text": "MCPs are responsible for ensuring that their Subcontractors and Network Providers comply with all applicable state and federal laws and regulations, Contract requirements, and other DHCS guidance, including APLs and Policy Letters.7 These requirements must be communicated by each MCP to all Subcontractors and Network Providers. DHCS may impose Corrective Action Plans (CAP), as well as administrative and/or monetary sanctions for non-compliance. For additional information regarding administrative and monetary sanctions, see APL 23-012, and any subsequent iterations on this topic. Any failure to meet the requirements of this APL may result in a CAP and subsequent sanctions.",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "c2d8209999a906a88c5ff5b8f554ef8e",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4a25a0a5a6534168816d5dae40dc993a",
+        "text": "If you have any questions regarding this APL, please contact your MCOD Contract Manager.",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "c2d8209999a906a88c5ff5b8f554ef8e",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "694566f2b82aa11bbb338c6946c68f22",
+        "text": "Sincerely,",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "c2d8209999a906a88c5ff5b8f554ef8e",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "39a8ce97635fd098f779e71d1d63c543",
+        "text": "Original Signed by Dana Durham",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6a3273abfd50645c9a7a1be90bc905b7",
+        "text": "Dana Durham, Chief Managed Care Quality and Monitoring Division",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5f28a2498c60aae4758868b1d9a9c8a4",
+        "text": "7 For more information on Subcontractors and Network Providers, including the definition and applicable requirements, see APL 19-001, and any subsequent APLs on this topic. APLs are available at: https://www.dhcs.ca.gov/formsandpubs/Pages/AllPlanLetters.aspx.",
+        "metadata": {
+            "languages": [
+                "eng"
+            ],
+            "links": [
+                {
+                    "text": "https :// www . dhcs . ca . gov / formsandpubs / Pages / AllPlanLetters . aspx",
+                    "url": "https://www.dhcs.ca.gov/formsandpubs/Pages/AllPlanLetters.aspx",
+                    "start_index": 196
+                }
+            ],
+            "page_number": 3,
+            "parent_id": "6a3273abfd50645c9a7a1be90bc905b7",
+            "filename": "parse.pdf",
+            "filetype": "application/pdf"
+        }
+    }
+]

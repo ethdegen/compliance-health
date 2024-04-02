@@ -1,0 +1,36 @@
+version: "3.7"
+
+services:
+    postgres:
+        init: true
+        build: "."
+        volumes:
+            - "/var/run/docker.sock:/var/run/docker.sock"
+            - "data_postgres:/var/lib/postgresql/data"
+            - "node_modules:/workspace/nextapp/node_modules"
+            - "./..:/workspace"
+        ports:
+            - "3000:3000"
+            - "8000:8000"
+            - "5432:5432"
+        environment:
+            - "DATABASE_URL=postgresql://postgres:me@localhost:5432/postgres"
+            - "POSTGRES_PASSWORD=me"
+            - "REDIS_URL=redis://redis:6379"
+            - "PRISMA_SKIP_POSTINSTALL_GENERATE=true"
+
+    redis:
+        image: "bitnami/redis"
+        ports:
+            - "6379:6379"
+        environment:
+            - "ALLOW_EMPTY_PASSWORD=yes"
+
+    ingestor:
+        image: "ghcr.io/nlmatics/nlm-ingestor:latest"
+        ports:
+            - "5010:5001"
+
+volumes:
+    data_postgres:
+    node_modules:

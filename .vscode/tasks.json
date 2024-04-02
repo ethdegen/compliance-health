@@ -1,0 +1,273 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": false,
+                "clear": true,
+                "group": "built"
+            },
+            "dependsOn": ["build_fastapi", "build_nextapp"],
+            "dependsOrder": "parallel"
+        },
+        {
+            "label": "build_fastapi",
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "built"
+            },
+            "dependsOn": ["build_fastapi_install", "build_fastapi_migrate"],
+            "dependsOrder": "sequence"
+        },
+        {
+            "label": "build_fastapi_install",
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "built"
+            },
+            "type": "process",
+            "command": "poetry",
+            "args": ["install"],
+            "options": {
+                "cwd": "${workspaceFolder}${pathSeparator}fastapi"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "build_fastapi_migrate",
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "built"
+            },
+            "type": "process",
+            "command": "prisma",
+            "args": ["migrate", "dev"],
+            "options": {
+                "cwd": "${workspaceFolder}${pathSeparator}fastapi"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "build_nextapp",
+            "group": "build",
+            "presentation": {
+                "reveal": "never",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "built"
+            },
+            "dependsOn": ["build_nextapp_install"],
+            "dependsOrder": "sequence"
+        },
+        {
+            "label": "build_nextapp_install",
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "built"
+            },
+            "type": "process",
+            "command": "npm",
+            "args": ["install"],
+            "options": {
+                "cwd": "${workspaceFolder}${pathSeparator}nextapp"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "test",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "dependsOn": ["test_fastapi", "test_nextapp"],
+            "dependsOrder": "sequence"
+        },
+        {
+            "label": "test_fastapi",
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "dependsOn": ["test_fastapi_prisma_format", "test_fastapi_prisma_generate"],
+            "dependsOrder": "sequence"
+        },
+        {
+            "label": "test_fastapi_prisma_format",
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "type": "process",
+            "command": "prisma",
+            "args": ["format"],
+            "options": {
+                "cwd": "${workspaceFolder}${pathSeparator}fastapi"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "test_fastapi_prisma_generate",
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "type": "process",
+            "command": "prisma",
+            "args": ["generate"],
+            "options": {
+                "cwd": "${workspaceFolder}${pathSeparator}fastapi"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "test_nextapp",
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "dependsOn": [
+                "test_nextapp_compile",
+                "test_nextapp_run_build",
+                "test_nextapp_run_test",
+                "test_nextapp_run_lint"
+            ],
+            "dependsOrder": "sequence"
+        },
+        {
+            "label": "test_nextapp_run_build",
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "type": "process",
+            "command": "npm",
+            "args": ["run", "build"],
+            "options": {
+                "cwd": "${workspaceFolder}${pathSeparator}nextapp"
+            },
+            "problemMatcher": ["$tsc"]
+        },
+        {
+            "label": "test_nextapp_run_test",
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "type": "process",
+            "command": "npm",
+            "args": ["run", "test"],
+            "options": {
+                "cwd": "${workspaceFolder}${pathSeparator}nextapp"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "test_nextapp_run_lint",
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "type": "process",
+            "command": "npm",
+            "args": ["run", "lint"],
+            "options": {
+                "cwd": "${workspaceFolder}${pathSeparator}nextapp"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "test_nextapp_compile",
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "type": "process",
+            "command": "npx",
+            "args": ["tsc", "--noEmit"],
+            "options": {
+                "cwd": "${workspaceFolder}${pathSeparator}nextapp"
+            },
+            "problemMatcher": ["$tsc"]
+        },
+        {
+            "label": "test_database_cli",
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "showReuseMessage": false,
+                "panel": "shared",
+                "clear": true,
+                "group": "tested"
+            },
+            "type": "process",
+            "command": "psql",
+            "args": ["postgresql://postgres:me@localhost:5432/postgres"],
+            "problemMatcher": []
+        }
+    ]
+}

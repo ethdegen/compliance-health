@@ -1,0 +1,65 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "editor.detectIndentation": true,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "editor.rulers": [120],
+    "editor.semanticHighlighting.enabled": true,
+    "editor.tabSize": 4,
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/Thumbs.db": true,
+        "**/__pycache__/": true
+    },
+    "prettier.resolveGlobalModules": true,
+    "python.envFile": "${workspaceFolder}/fastapi/.env",
+    "python.languageServer": "Pylance",
+    "search.exclude": {
+        "**/.next/": true,
+        "**/node_modules/": true
+    },
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "${workspaceFolder}${pathSeparator}fastapi${pathSeparator}src"
+    },
+    "terminal.integrated.env.osx": {
+        "PYTHONPATH": "${workspaceFolder}${pathSeparator}fastapi${pathSeparator}src"
+    },
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder}${pathSeparator}fastapi${pathSeparator}src"
+    },
+    "typescript.enablePromptUseWorkspaceTsdk": false,
+    "[dockercompose]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

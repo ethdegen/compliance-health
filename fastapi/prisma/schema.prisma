@@ -1,0 +1,28 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client_js {
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
+  output          = "./../../nextapp/node_modules/.prisma/client"
+}
+
+generator client_py {
+  provider             = "prisma-client-py"
+  previewFeatures      = ["postgresqlExtensions"]
+  interface            = "asyncio"
+  recursive_type_depth = -1
+}
+
+datasource db {
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  directUrl  = env("DATABASE_URL")
+  extensions = [vector]
+}
+
+model augmentation {
+  id                   String                      @id @default(cuid())
+  content              String
+  embed_openai_3_small Unsupported("vector(1536)") // vector(n) for a n-dimensional vector.
+}

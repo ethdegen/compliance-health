@@ -1,0 +1,57 @@
+name: CI
+on: push
+
+jobs:
+    fastapi:
+        runs-on: ubuntu-latest
+        container: python:3.10
+
+        defaults:
+            run:
+                shell: bash
+                working-directory: fastapi
+
+        env:
+            DATABASE_URL: postgresql://postgres:me@database:5432/postgres
+
+        services:
+            database:
+                image: postgres:16-bookworm
+                env:
+                    POSTGRES_PASSWORD: me
+                options: >-
+                    --health-cmd pg_isready
+                    --health-interval 10s
+                    --health-timeout 5s
+                    --health-retries 5
+
+        steps:
+            - name: Git Checkout
+              uses: actions/checkout@v4
+            - name: Install Poetry
+              uses: abatilo/actions-poetry@v2
+            - name: Poetry Install
+              run: poetry install
+            - name: Prisma Format
+              run: poetry run prisma format
+            - name: Prisma Generate
+              run: poetry run prisma generate
+
+    nextapp:
+        runs-on: ubuntu-latest
+        container: node:20
+
+        defaults:
+            run:
+                shell: bash
+                working-directory: nextapp
+
+        steps:
+            - name: Git Checkout
+              uses: actions/checkout@v4
+            - name: NPM Install
+              run: npm install
+            - name: NPM Run Build
+              run: npm run build
+            - name: NPM Run Test
+              run: npm run test

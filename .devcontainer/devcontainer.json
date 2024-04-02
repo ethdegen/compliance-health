@@ -1,0 +1,20 @@
+{
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "bradlc.vscode-tailwindcss",
+                "dbaeumer.vscode-eslint",
+                "eamodio.gitlens",
+                "esbenp.prettier-vscode",
+                "golang.go",
+                "ms-azuretools.vscode-docker",
+                "ms-python.black-formatter",
+                "ms-python.python"
+            ]
+        }
+    },
+    "dockerComposeFile": ["./docker-compose.yml"],
+    "service": "postgres",
+    "shutdownAction": "stopCompose",
+    "workspaceFolder": "/workspace"
+}
