@@ -1,0 +1,1367 @@
+[
+    {
+        "type": "Image",
+        "element_id": "0ec4e9d136ef2d94f98bda23b319b08c",
+        "text": "PHCS CALIFORNIA DEPARTMENT OF HEALTH CARE SERVICES Michelle Baass | Director",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "ListItem",
+        "element_id": "ee2fc989beb89e012153a0e2b3768b54",
+        "text": "DATE: September 26, 2023",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2206d324cf33322f10f38497fe051dbc",
+        "text": "ALL PLAN LETTER 23-027",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2b2272f3dbf84c08c27f746f2ed919f7",
+        "text": "TO: ALL MEDI-CAL MANAGED CARE PLANS",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "ListItem",
+        "element_id": "c2585a585610a48a548a75b7a9211598",
+        "text": "SUBJECT: SUBACUTE CARE FACILITIES -- LONG TERM CARE BENEFIT STANDARDIZATION AND TRANSITION OF MEMBERS TO MANAGED CARE",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b157c6d57666d95814c22a42a1b5a7dd",
+        "text": "PURPOSE: The purpose of this All Plan Letter (APL) is to provide requirements to all Medi-Cal managed care plans (MCPs) on the Subacute Care Facility Long Term Care (LTC) benefit standardization provisions of the California Advancing and Innovating Medi-Cal (CalAIM) initiative, including the mandatory transition of Medi-Cal members to managed care.1",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6c8a66e4699decc7b7bf4f4760799148",
+        "text": "BACKGROUND: Subacute Care Facility services include those provided to both adult and pediatric populations, that are provided by a licensed general acute care hospital with distinct- part skilled nursing beds, or by a freestanding certified nursing facility.2 In each case, the facility must have the necessary contract with the Department of Health Care Services (DHCS).3",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f459344d50e5d076aba1c8952c66357f",
+        "text": "Subacute care patients are medically fragile and require special services, such as inhalation therapy, tracheotomy care, intravenous tube feeding, and complex wound management care. Adult subacute care is defined as a level of care needed by a patient who does not require hospital acute care but who requires more intensive licensed skilled nursing care than is provided to the majority of patients in a skilled nursing facility. Pediatric subacute care is a level of care needed by a person less than 21 years",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d3dc9b8c7a12435db0a3f7076f707e52",
+        "text": "1 The CalAIM proposal can be found on DHCS’ website at the following link: https://www.dhcs.ca.gov/CalAIM/Pages/calaim.aspx. 2 Subacute level of care refers to very intensive, licensed, skilled nursing care provided in Distinct-Part/Nursing Facilities Level B (DP/NF-B) in acute hospitals, or in Free-Standing Nursing Facilities Level B (FS/NF-B). Beds designated for pediatric subacute care cannot be used for swing beds. 3 Title 22, California Code of Regulations (CCR) section 51215.6. The CCR is searchable at: https://govt.westlaw.com/calregs/Search/Index.",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "Title",
+        "element_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+        "text": "California Department of Health Care Services",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2f7f1daf1316223c504805017dc6c161",
+        "text": "California Department of Health Care Services Managed Care Quality and Monitoring Division 1501 Capitol Avenue, P.O. Box 997413 Sacramento, CA | 95899-7413 MS 4410 | Phone (916) 449-5000 | www.dhcs.ca.gov",
+        "page_number": 1,
+        "parent_id": "db7bf732f8b0af0800eaaa27aad2ca00"
+    },
+    {
+        "type": "Title",
+        "element_id": "0a57390172d2f9b09a8e7105447ee972",
+        "text": "State of California Gavin Newsom, Governor",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "Image",
+        "element_id": "6c179f21e6f62b629055d8ab40f454ed",
+        "text": "  ",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ba0c0c6b4acbc157e578eab414ad0dc3",
+        "text": "California Health and Human Services Agency",
+        "page_number": 1,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "55249a597390be10e0ed73c0818d41fb",
+        "text": "ALL PLAN LETTER 23-027 Page 2",
+        "page_number": 2,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "28b5a3288a8377fabd73fea17bd3129f",
+        "text": "of age who uses a medical technology that compensates for the loss of a vital bodily function.4",
+        "page_number": 2,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f6105d6c7af54ecded76a7d8b86b598d",
+        "text": "Currently, MCPs have varying levels of coverage for adult and pediatric Subacute Care Facility services.",
+        "page_number": 2,
+        "parent_id": null
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "444bc1c61b28a2cf1164d5d84b3bafc1",
+        "text": "L]",
+        "page_number": 2,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c09b8e1514e82a8c20fa4a15fd177fed",
+        "text": "In the 22 County Operated Health Systems (COHS) counties, MCPs provide coverage for both adult and pediatric subacute services under the institutional LTC services benefit.5 In the five, non-COHS counties, only adult subacute services are covered.6 In these five counties, MCPs cover Medically Necessary pediatric subacute care services for Members from the time of admission into a Subacute Care Facility and up to one month after the month of admission, after which the Members are disenrolled from Medi-Cal managed care and transferred to Medi-Cal Fee-For- Service (FFS) to continue receiving pediatric subacute care services. In the remaining 31 counties, MCPs cover Medically Necessary adult subacute services and pediatric subacute care services for Members from the time of admission into a Subacute Care Facility and up to one month after the month of admission, after which the Members are disenrolled from Medi-Cal managed care and transferred to Medi-Cal FFS to continue receiving subacute care services.7,8,9",
+        "page_number": 2,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a56d92de93618de3e1b6c8ab2c48996e",
+        "text": "4 More information on Subacute Care is available at: https://www.dhcs.ca.gov/provgovpart/Pages/SubacuteCare.aspx. 5 The 22 counties where MCPs cover both adult and pediatric subacute services are: Del Norte, Humboldt, Lake, Lassen, Marin, Mendocino, Merced, Modoc, Monterey, Napa, Orange, San Luis Obispo, San Mateo, Santa Barbara, Santa Cruz, Shasta, Siskiyou, Solano, Sonoma, Trinity, Ventura, and Yolo. 6 The five counties where MCPs cover only adult subacute services are: Los Angeles, Riverside, San Bernardino, San Diego, and Santa Clara. 7 The 31 counties where MCPs cover pediatric subacute services temporarily are: Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, El Dorado, Fresno, Glenn, Imperial, Inyo, Kern, Kings, Madera, Mariposa, Mono, Nevada, Placer, Plumas, Sacramento, San Benito, San Francisco, San Joaquin, Sierra, Stanislaus, Sutter, Tehama, Tulare, Tuolumne, and Yuba. 8 The 36 counties where MCPs cover both adult and pediatric subacute services are: Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, El Dorado, Fresno, Glenn, Imperial, Inyo, Kern, Kings, Los Angeles, Madera, Mariposa, Mono, Nevada, Placer, Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Francisco, San Joaquin, Santa Clara, Sierra, Stanislaus, Sutter, Tehama, Tulare, Tuolumne, and Yuba. 9 See the County Organized Health System, Non-CCI MCP boilerplate Contracts at Exhibit A, Attachment 11, Provision 18(A). MCP boilerplate Contracts are available at: https://www.dhcs.ca.gov/provgovpart/Pages/MMCDBoilerplateContracts.aspx. MCPs are advised to refer to their own MCP Contract and any amendments thereto.",
+        "page_number": 2,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cd84c613cc0314998566d484c349cba2",
+        "text": "ALL PLAN LETTER 23-027 Page 3",
+        "page_number": 3,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9b5cfe74a8154b8f3b502e1497b5681c",
+        "text": "CalAIM seeks to move Medi-Cal to a more consistent and seamless system by reducing complexity and increasing flexibility through benefit standardization. Benefit standardization will help ensure consistency in the benefits delivered by Medi-Cal managed care and FFS statewide.10",
+        "page_number": 3,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b365dbd1f2402249058ab6ec90df92fb",
+        "text": "Effective January 1, 2024, DHCS will require non-dual and dual LTC Members (including those with a Share of Cost) receiving institutional LTC services in a Subacute Care Facility or Intermediate Care Facility for the Developmentally Disabled (ICF/DD) to be enrolled in an MCP.11,12 This APL focuses on subacute care services as part of institutional LTC services. An APL specific to ICF/DD services was released.13",
+        "page_number": 3,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f9fcbf5e34f31b631034010759b18cba",
+        "text": "DHCS will ensure MCP readiness before the transition of these populations into Medi- Cal managed care. Readiness will include, but not be limited to, requiring MCPs to submit data and information to DHCS to confirm there is an adequate Network in place to meet anticipated utilization for their Members. Additionally, DHCS will provide a deliverables matrix to MCPs with relevant readiness requirements.",
+        "page_number": 3,
+        "parent_id": null
+    },
+    {
+        "type": "Title",
+        "element_id": "626c1c4aa35499b858db6915a747274e",
+        "text": "POLICY:",
+        "page_number": 3,
+        "parent_id": null
+    },
+    {
+        "type": "Title",
+        "element_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6",
+        "text": "I. Benefits Requirements",
+        "page_number": 3,
+        "parent_id": null
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2d87542a70e9ed9ba2d778be04e8aae2",
+        "text": "1. Subacute Care Services Benefits Requirements",
+        "page_number": 3,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5064dc388c8b8ed636a45eb143bc2bc4",
+        "text": "Effective January 1, 2024, MCPs in all counties must authorize and cover Medically Necessary adult and pediatric subacute care services (provided in both freestanding and hospital-based facilities).14 MCPs must determine Medical Necessity consistent with definitions in 22 Code of California Regulations (CCR) sections 51124.5 and 51124.6, Welfare and Institutions",
+        "page_number": 3,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6d94ed95687048f4c8584b3a513f04ee",
+        "text": "10 See Attachment 1 of APL 21-015, or any superseding APL, for more detailed information on Mandatory Managed Care Enrollment. APLs and associated attachments are searchable at: https://www.dhcs.ca.gov/formsandpubs/Pages/AllPlanLetters.aspx. 11 “Dual” Members are Members enrolled in both Medi-Cal and Medicare. “Non-dual” Members are only enrolled in Medi-Cal. 12 Assembly Bill (AB) 118 (Committee on Budget, Chapter 42, Statutes of 2023), the Health Omnibus Trailer Bill, part of the enacted 2023-24 Budget for DHCS, delayed the implementation of the carve-in of Subacute Care Facility and ICF/DD services from July 1, 2023, to January 1, 2024. State law is searchable at: https://leginfo.legislature.ca.gov/. 13 See APL 23-023, or any superseding APL. 14 Accommodation codes for LTC facilities are listed at: https://mcweb.apps.prd.cammis.medi- cal.ca.gov/file/manual?fn=accomcdltc.pdf. Medi-Cal Provider Manuals are located at: https://mcweb.apps.prd.cammis.medi-cal.ca.gov/publications/manual.",
+        "page_number": 3,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c9d9a26d08e7704090f0653b48308559",
+        "text": "ALL PLAN LETTER 23-027 Page 4",
+        "page_number": 4,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "69d7ce25324893ec0dacae04db7daa59",
+        "text": "Code (W&I) section 14132.25, and the Medi-Cal Manual of Criteria.15 Additionally, Members who are admitted into a Subacute Care Facility will remain enrolled in Medi-Cal managed care instead of being disenrolled to Medi-Cal FFS. All MCPs must ensure that Members in need of adult or pediatric subacute care services are placed in a health care facility that provides the level of care most appropriate to the Member's medical needs, as outlined in the MCP Contract and as documented by the Member’s Provider(s). MCPs must ensure that if a Member needs adult or pediatric subacute care services, they are placed in a health care facility that is under contract for subacute care with DHCS’ Subacute Contracting Unit (SCU) or is actively in the process of applying for a contract with DHCS’ SCU.",
+        "page_number": 4,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "e35a78d8aa866244711c7da1ba934261",
+        "text": "2. Other Benefits Requirements for Residents of Subacute Care Facilities",
+        "page_number": 4,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2537dfbff0d7cd6ffd0f5ffe592a04a3",
+        "text": "Consistent with guidance in APL 22-012, Governor’s Executive Order N-01- 19, Regarding Transitioning Medi-Cal Pharmacy Benefits from Managed Care to Medi-Cal Rx, or any superseding APL, the financial responsibility for prescription drugs is determined by the claim type on which they are billed. If certain drugs are dispensed by a pharmacy and billed on a pharmacy claim, they are carved out and paid by Medi-Cal Rx. If the drugs are provided by the Subacute Care Facility and billed on a medical or institutional claim, including physician administered drugs, the MCP is responsible.",
+        "page_number": 4,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c89413d8e12f8cde40cb99ba9cdf3030",
+        "text": "For MCPs newly covering adult and pediatric subacute care services effective January 1, 2024, financial responsibility for prescription drugs is determined by claim type, as discussed above, since the Medi-Cal FFS Subacute Care Facility per diem rate does not include legend drugs (prescription drugs).16 MCPs may choose to cover drugs not covered by Medi-Cal Rx, inclusive of over-the-counter drugs and other therapies otherwise not covered by Medi- Cal.",
+        "page_number": 4,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f358b814b2c4bc8c215222f10a4747aa",
+        "text": "15 The Manual of Criteria for Medi-Cal Authorization is available at https://www.dhcs.ca.gov/formsandpubs/publications/Documents/Medi- Cal_PDFs/Manual_of_Criteria.pdf. 16 22 CCR sections 51510 and 51511.",
+        "page_number": 4,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d045fdf15a16266865abab599bf2eecf",
+        "text": "ALL PLAN LETTER 23-027 Page 5",
+        "page_number": 5,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d79ecea509acb769391fa3aad1139e85",
+        "text": "MCPs must comply with Population Health Management (PHM) requirements as set forth in Part X below, which include the coordination of Medically Necessary drugs or medications on behalf of the Member.17,18",
+        "page_number": 5,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3d29f5b8253bbb7e1a7dcb6be532981b",
+        "text": "MCPs must cover all Medically Necessary services covered under the MCP Contract for Members residing in or obtaining care in a Subacute Care Facility, including facility services, professional services, and ancillary services. MCPs must also provide the appropriate level of care coordination, including for carved-out Medi-Cal services, as outlined in this APL and in adherence to contractual requirements and the DHCS PHM Policy Guide.19",
+        "page_number": 5,
+        "parent_id": "b792d9a7c7b55681c97cbb0bb5f1a9a6"
+    },
+    {
+        "type": "Title",
+        "element_id": "2c37c55d8c61c6b5da09143d3c45c6ea",
+        "text": "II. Network Readiness Requirements",
+        "page_number": 5,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9f2ae58242d34833f01e8dc8c89457b0",
+        "text": "As part of readiness, MCPs must offer a contract to all Subacute Care Facilities within the MCP’s service area(s) that have a Subacute Care Contract with DHCS’ SCU or are actively in the process of applying for a Medi-Cal Subacute Care Contract and are enrolled in Medi-Cal. These requirements ensure MCPs meet and maintain Subacute Care Facility Network Readiness Requirements and standards and Members currently residing in a Subacute Care Facility do not experience disruptions in access to care. DHCS will issue Subacute Care Facility Network Readiness Requirements guidance to MCPs. DHCS will also issue MCPs a reporting template with a list of approved and active Subacute Care Facilities to assist with Network readiness and to provide contracting options for MCPs to develop Subacute Care Facility Networks. MCPs may instruct non-DHCS contracted Subacute Care Facilities that they must contract with DHCS or be actively in the process of applying for a Medi-Cal Subacute Care Facility contract in order to receive payment. A list of approved and active Subacute Care Facilities can be found on the DHCS SCU website.20",
+        "page_number": 5,
+        "parent_id": "2c37c55d8c61c6b5da09143d3c45c6ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9ade362efd33d40d1e41788c4b7799aa",
+        "text": "MCPs must develop sufficient Network capacity to enable timely Member placement in Subacute Care Facilities within 5 business days, 7 business days, or 14 calendar days",
+        "page_number": 5,
+        "parent_id": "2c37c55d8c61c6b5da09143d3c45c6ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "48bd1db10a1c885733e81d040ceafd7b",
+        "text": "17 See Part X below, titled Population Health Management Requirements for further information. 18 More information on coverage of Medi-Cal pharmacy services through Medi-Cal Rx is available at: https://medi-calrx.dhcs.ca.gov/home/ and https://mcweb.apps.prd.cammis.medi- cal.ca.gov/file/manual?fn=ratefacilmisc.pdf. 19 The PHM Policy Guide is available at: https://www.dhcs.ca.gov/CalAIM/Documents/2023- PHM-Policy-Guide.pdf. 20 The list of adult and pediatric Subacute Care Facilities contracted with DHCS can be found under the Additional Resources section of the DHCS SCU website at: https://www.dhcs.ca.gov/provgovpart/Pages/SubacuteCare.aspx.",
+        "page_number": 5,
+        "parent_id": "2c37c55d8c61c6b5da09143d3c45c6ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "024a9c41955fb794f13e6dd8499a9748",
+        "text": "ALL PLAN LETTER 23-027 Page 6",
+        "page_number": 6,
+        "parent_id": "2c37c55d8c61c6b5da09143d3c45c6ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8e4c7b54e374d915da067bd9af0d7f68",
+        "text": "of a request, depending on the county of residence, as outlined in W&I section 14197(d).21 A Letter of Agreement does not constitute a Network Provider Agreement.22",
+        "page_number": 6,
+        "parent_id": "2c37c55d8c61c6b5da09143d3c45c6ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d596e712421988c656a4bbfe5fcc64ee",
+        "text": "MCPs must make every effort to assess the various provider types currently serving Members residing in Subacute Care Facilities and maintain an adequate Network with them to ensure care is not disrupted and Members receive timely care. For example, when Medically Necessary, it is the MCP’s responsibility to cover a Member’s transportation to dialysis, as well as dialysis services provided outside the Subacute Care Facility.",
+        "page_number": 6,
+        "parent_id": "2c37c55d8c61c6b5da09143d3c45c6ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6c4134664c4610fa29634f65edd745fd",
+        "text": "In accordance with APL 21-003, Medi-Cal Network Provider and Subcontractor Terminations, or any superseding APL, MCPs must comply with requirements relating to California Department of Public Health (CDPH)-initiated facility de-certifications and suspensions to ensure that impacted Members have appropriate transition options and do not experience disruption in access to care.",
+        "page_number": 6,
+        "parent_id": "2c37c55d8c61c6b5da09143d3c45c6ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "dcbe4c5d29f6a09fe25e2e9d2aa31466",
+        "text": "MCPs must also ensure Members have appropriate transition options and continue to have access to care when there is a Medi-Cal Subacute Care Facility contract termination. MCPs must create policies to ensure no new admissions of Members occur in facilities that have bans of admissions from DHCS’ SCU.",
+        "page_number": 6,
+        "parent_id": "2c37c55d8c61c6b5da09143d3c45c6ea"
+    },
+    {
+        "type": "Title",
+        "element_id": "5fa9a9906d9b51c3600a88ee874c3d4a",
+        "text": "III. Leave of Absence or Bed Hold Requirements",
+        "page_number": 6,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "78e66f5cb66e68ea51f27b36c0ed21ab",
+        "text": "MCPs must provide continuity of care for Members that are transferred from a Subacute Care Facility to a general acute care hospital, and then require a return to a Subacute Care Facility level of care due to Medical Necessity.23",
+        "page_number": 6,
+        "parent_id": "5fa9a9906d9b51c3600a88ee874c3d4a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ce504304ccd75c572c70ebb78aafe083",
+        "text": "MCPs must ensure the provision of a leave of absence (LOA)/bed hold by a Subacute Care Facility in accordance with the requirements of 22 CCR section 72520 and California’s Medicaid State Plan.24 MCPs must allow the Member to return to the same Subacute Care Facility where they previously resided under the LOA/bed hold policies subject to Medical Necessity in accordance with the Medi-Cal requirements for LOA and bed hold, which are detailed in 22 CCR sections 51535 and 51535.1. MCPs must",
+        "page_number": 6,
+        "parent_id": "5fa9a9906d9b51c3600a88ee874c3d4a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "58d503d0b3712097386b4eac91055df1",
+        "text": "21 State law is searchable at: https://leginfo.legislature.ca.gov/. 22 See APL 19-001, Medi-Cal Managed Care Health Plan Guidance on Network Provider Status, or any superseding APL. 23 See Health and Safety Code (H&S) sections 1367.09 (return to skilled nursing) and 1373.96 (completion of covered services). 24 The California Medicaid State Plan can be accessed at the following link: http://www.dhcs.ca.gov/formsandpubs/laws/Pages/CaliforniStatePlan.aspx.",
+        "page_number": 6,
+        "parent_id": "5fa9a9906d9b51c3600a88ee874c3d4a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "130ae721b6b75be3ca83cb7d936a9df6",
+        "text": "ALL PLAN LETTER 23-027 Page 7",
+        "page_number": 7,
+        "parent_id": "5fa9a9906d9b51c3600a88ee874c3d4a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8c3a31d5c2d6ab262eb5dec1792654e3",
+        "text": "ensure that a Subacute Care Facility notifies the Member or the Member’s authorized representative in writing of the right to exercise the bed hold provision.25",
+        "page_number": 7,
+        "parent_id": "5fa9a9906d9b51c3600a88ee874c3d4a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "eb9aa353143a633ed347a302982b8cac",
+        "text": "In a similar protection for Members who have been transferred from a Subacute Care Facility to a general acute care hospital, MCPs must ensure that Members have the right to return to the Subacute Care Facility and to the same bed, if available, or at a minimum to the next available room in the facility, regardless of the duration of the hospitalization, pursuant to 42 Code of Federal Regulations (CFR) section 483.15(e).26",
+        "page_number": 7,
+        "parent_id": "5fa9a9906d9b51c3600a88ee874c3d4a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "df8858f08f1c808d2369aa8849458252",
+        "text": "MCPs must regularly review all denials of bed holds. Additionally, MCPs must provide transition assistance and care coordination to a new Subacute Care Facility when a Subacute Care Facility claims an exception under the bed hold regulations or fails to comply with the regulations.",
+        "page_number": 7,
+        "parent_id": "5fa9a9906d9b51c3600a88ee874c3d4a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "211d044ad88e98ad9f818a354b6aadfc",
+        "text": "MCPs must ensure that the Subacute Care Facility and its staff have appropriate training on LOA and bed hold requirements, including knowledge of the required clinical documentation to exercise these rights.",
+        "page_number": 7,
+        "parent_id": "5fa9a9906d9b51c3600a88ee874c3d4a"
+    },
+    {
+        "type": "Title",
+        "element_id": "b3401e7418c81185fb3427998115d0ea",
+        "text": "IV. Continuity of Care Requirements: Facility Placement",
+        "page_number": 7,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "152950ba152aa5251aaad1f19d1a62b6",
+        "text": "Effective January 1, 2024, through June 30, 2024, for Members residing in a Subacute Care Facility and transitioning from Medi-Cal FFS to Medi-Cal managed care, MCPs must automatically provide 12 months of continuity of care for the Subacute Care Facility placement. Automatic continuity of care means that if the Member is currently residing in a Subacute Care Facility, they do not have to request continuity of care to continue to reside in that facility. While Members must meet Medical Necessity criteria for adult or pediatric subacute care services, MCPs must automatically ensure the provision of continuity of care.",
+        "page_number": 7,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4b478c72c058cd86cdc04c0b1733d8b5",
+        "text": "MCPs must allow Members to stay in the same Subacute Care Facility under continuity of care if all of the following apply:",
+        "page_number": 7,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "12bb146b7551b98125fcc13d980fbcfb",
+        "text": "• The facility is contracted or actively in the process of being contracted by DHCS’ SCU;",
+        "page_number": 7,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "f41d4dcae31bc29572dda3e991419071",
+        "text": "The facility is licensed by CDPH; • The facility is enrolled as a Medi-Cal Provider; • The Subacute Care Facility and MCP agree to payment rates; and",
+        "page_number": 7,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f57d78d7ad92c4b4d3961240fbc1a874",
+        "text": "25 See 22 CCR section 72520(b) for more information. 26 The CFR is searchable at: https://www.ecfr.gov/.",
+        "page_number": 7,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9ba159a03c093e645723e879efcf4264",
+        "text": "ALL PLAN LETTER 23-027 Page 8",
+        "page_number": 8,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "17a41736d0874f2176687e607fe095d9",
+        "text": "• The facility meets the MCP’s applicable professional standards and has no disqualifying quality-of-care issues.27",
+        "page_number": 8,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8de25ef4049044db44591567705a41a5",
+        "text": "MCPs must determine if Members are eligible for automatic continuity of care before the transition from Medi-Cal FFS to Medi-Cal managed care by identifying the Member’s Subacute Care Facility residency and pre-existing relationship through historical utilization data or documentation provided by DHCS, such as Medi-Cal FFS utilization data, or by using information from the Member or Provider. A pre-existing relationship means that the Member has resided in the Subacute Care Facility at some point during the 12 months prior to the date of the Member’s enrollment in the MCP.",
+        "page_number": 8,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "464329d5676e3d2dc07b4945a4ae1e4e",
+        "text": "Following their initial 12-month automatic continuity of care period, Members may request an additional 12 months of continuity of care pursuant to the process established by APL 23-022, Continuity of Care for Medi-Cal Beneficiaries Who Newly Enroll in Medi-Cal Managed Care from Medi-Cal Fee-for-Service, on or After January 1, 2023, or any superseding APL.",
+        "page_number": 8,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8bccc0fd0c4c8f580b066aa99ab9f57f",
+        "text": "A Member residing in a Subacute Care Facility who newly enrolls in an MCP on or after July 1, 2024, does not receive automatic continuity of care and must instead request continuity of care, following the process established by APL 23-022, or any superseding APL. Pursuant to APL 23-022, or any superseding APL, MCPs must notify the Member or their authorized representative of the Member’s right to request continuity of care and furnish a copy of the notification to the Subacute Care Facility in which the Member resides.",
+        "page_number": 8,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "baaa98bc83429c7d42b773e22b86b95e",
+        "text": "If a Member is unable to access continuity of care as requested, the MCP must provide the Member or their authorized representative with a written Notice of Action of an adverse benefit determination in accordance with APL 21-011, Grievance and Appeals Requirements, Notice and “Your Rights” Templates, or any superseding APL. A copy of the notification must also be provided to the Subacute Care Facility in which the Member resides.",
+        "page_number": 8,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8f60da1ed5cf6d466cf08b25d321027b",
+        "text": "MCPs must also comply with continuity of care and discharge requirements in Health and Safety Code (H&S) section 1373.96 and W&I section 14186.3(c)(4).",
+        "page_number": 8,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "64e8a01b1592e37ce6bb7c17bf6f630e",
+        "text": "27 W&I section 14182.17.",
+        "page_number": 8,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "91364b4f631887510e5db1bc327c5864",
+        "text": "ALL PLAN LETTER 23-027 Page 9",
+        "page_number": 9,
+        "parent_id": "b3401e7418c81185fb3427998115d0ea"
+    },
+    {
+        "type": "Title",
+        "element_id": "0fedd003739a1ae4ff249862695f7862",
+        "text": "V. Continuity of Care Requirements: Medi-Cal Covered Services for Subacute Care Members with Existing Treatment Authorization Requests",
+        "page_number": 9,
+        "parent_id": null
+    },
+    {
+        "type": "ListItem",
+        "element_id": "a57f1c75cf723606ae51d8d036812c3c",
+        "text": "1. Treatment Authorization Requests for Adult and Pediatric Subacute Care Services Under Per Diem Rate",
+        "page_number": 9,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "762e595759cd20f4b83412f8db0b630d",
+        "text": "Effective January 1, 2024, for Members residing in a Subacute Care Facility and transitioning from Medi-Cal FFS to Medi-Cal managed care, MCPs are responsible for covering treatment authorization requests (TARs) that are approved by DHCS and provided under the Subacute Care Facility per diem rate for a period of six months after enrollment in the MCP, or for the duration of the TAR approval, whichever is shorter. The MCP must honor and cover the service(s) under the DHCS-approved TAR without a request by the Member, authorized representative, or Provider in accordance with the requirements in APL 23-022, or any superseding APL.",
+        "page_number": 9,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "64d2563c4cefb1db4864ebd65bef2999",
+        "text": "MCPs may approve subsequent reauthorizations for up to six months.28,29,30 Reauthorizations may be approved for one year for Members who have been identified or meet the criteria of “prolonged care.” Prolonged Care classification recognizes that the medical condition of selected Members requires a prolonged period of skilled nursing care.31",
+        "page_number": 9,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a2caded158b235166533a4ff474bbf0d",
+        "text": "A new assessment is considered complete by the MCP if the Member has been seen in-person and/or via synchronous Telehealth by a Network Provider and the Provider has reviewed the Member’s current condition and completed a new treatment plan that includes assessment of the services specified by the pre-transition TAR approval.",
+        "page_number": 9,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5c00c90accf53eb92dc4a25735606748",
+        "text": "Approval for pediatric subacute care services cease once the Member turns 21 years of age. Discharge planning to an adult Subacute Care Facility must be completed at least two months prior to the Member turning 21 years of age.32",
+        "page_number": 9,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "238941c5356d484c4313a42badab109a",
+        "text": "28 The Medi-Cal Provider Manual, Part 2 Long Term Care, Subacute Care Programs: Level of Care for Adults and Children is available at: https://mcweb.apps.prd.cammis.medi- cal.ca.gov/file/manual?fn=subacutlev.pdf. 29 22 CCR section 51335.5 30 22 CCR section 51335.6 31 The Manual of Criteria for Medi-Cal Authorization is available at https://www.dhcs.ca.gov/formsandpubs/publications/Documents/Medi- Cal_PDFs/Manual_of_Criteria.pdf. 32 22 CCR section 51124.6(a)",
+        "page_number": 9,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b526341f39340376eb60a19191ca5fe8",
+        "text": "ALL PLAN LETTER 23-027 Page 10",
+        "page_number": 10,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "9aa996e6bcbc3590237b72325afde5e2",
+        "text": "2. Treatment Authorization Requests for Other Services",
+        "page_number": 10,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "eb43f122078867b0f932322e2cae7e23",
+        "text": "Effective January 1, 2024, for Members residing in a Subacute Care Facility and transitioning from Medi-Cal FFS to Medi-Cal managed care, MCPs are responsible for covering all other services in TARs approved by DHCS (except for supplemental rehabilitation therapy services and ventilator weaning services for Members in pediatric Subacute Care Facilities, as discussed below) provided in a Subacute Care Facility exclusive of the Subacute Care Facility per diem rate for a period of six months after enrollment in the MCP, or for the duration of the TAR, whichever is shorter. The MCP must honor and cover the service(s) under the DHCS-approved TAR without a request by the Member, authorized representative, or Provider in accordance with the requirements in APL 23-022, or any superseding APL.",
+        "page_number": 10,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "62bfa3c0b0621eadabb909f43c22b5ec",
+        "text": "MCPs may approve subsequent reauthorizations for up to six months.33,34,35 Reauthorizations may be approved for one year for Members who have been identified or meet the criteria of “prolonged care.” Prolonged Care classification recognizes that the medical condition of selected Members requires a prolonged period of skilled nursing care.36",
+        "page_number": 10,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a2caded158b235166533a4ff474bbf0d",
+        "text": "A new assessment is considered complete by the MCP if the Member has been seen in-person and/or via synchronous Telehealth by a Network Provider and the Provider has reviewed the Member’s current condition and completed a new treatment plan that includes assessment of the services specified by the pre-transition TAR approval.",
+        "page_number": 10,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "54cbd506afb2bad66b12f7a402c187dd",
+        "text": "Approval for pediatric subacute care services ceases once the Member turns 21 years of age. Discharge planning to an adult Subacute Care Facility must be completed at least two months prior to the Member turning 21 years of age.37",
+        "page_number": 10,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3423c9cad51dc4638b527ec7d64014af",
+        "text": "33 The Medi-Cal Provider Manual, Part 2 Long Term Care, Subacute Care Programs: Level of Care for Adults and Children is available at https://mcweb.apps.prd.cammis.medi- cal.ca.gov/file/manual?fn=subacutlev.pdf. 34 22 CCR section 51335.5 35 22 CCR section 51335.6 36 The Manual of Criteria for Medi-Cal Authorization is available at https://www.dhcs.ca.gov/formsandpubs/publications/Documents/Medi- Cal_PDFs/Manual_of_Criteria.pdf. 37 22 CCR section 51124.6(a)",
+        "page_number": 10,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "25014c500b637007f29a540942cc1a63",
+        "text": "ALL PLAN LETTER 23-027 Page 11",
+        "page_number": 11,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "f36064034bc2ce75d9f70e37070e9c03",
+        "text": "3. Treatment Authorization Requests for Pediatric Supplemental Rehabilitation Therapy and Ventilator Weaning Services",
+        "page_number": 11,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5fb6c93e4bf5f0b8f79a0bf8e839f6c9",
+        "text": "Supplemental rehabilitation therapy services and ventilator weaning services may be separately authorized and reimbursed for eligible pediatric subacute patients. Reimbursement for these services is in addition to the per diem rate for pediatric subacute level of care services. An approved TAR is required for these services and is the responsibility of the nursing facility.",
+        "page_number": 11,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0db9348c76a0666cbe42a243eaa0b60f",
+        "text": "Effective January 1, 2024, for pediatric Members residing in a Subacute Care Facility who are transitioning from Medi-Cal FFS to Medi-Cal managed care, MCPs are responsible for covering supplemental rehabilitation therapy services and ventilator weaning services for TARs approved by DHCS in a Subacute Care Facility for a period of three months after enrollment in the MCP. The MCP must honor and cover the service(s) under the DHCS- approved TAR without a request by the Member, authorized representative, or Provider in accordance with the requirements in APL 23-022, or any superseding APL.",
+        "page_number": 11,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e7ccadf834212b45c29c38c9b976e314",
+        "text": "MCPs may approve subsequent reauthorizations for up to three months. A new assessment is considered complete by the MCP if the Member has been seen in-person and/or via synchronous Telehealth by a Network Provider and the Provider has reviewed the Member’s current condition and completed a new treatment plan that includes assessment of the services specified by the pre-transition TAR approval.",
+        "page_number": 11,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6bb4eb557396b17d789db9632084fb98",
+        "text": "Approval for pediatric subacute care services ceases once the Member turns 21 years of age. Discharge planning to an adult Subacute Care Facility must be completed at least two months prior to the Member turning 21 years of age.38",
+        "page_number": 11,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "e05514507c85a4185f39481971cc938c",
+        "text": "4. Expedited Prior Authorization Requests",
+        "page_number": 11,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7e8cc736ab6c75a2d16425fbef7c8cd0",
+        "text": "Effective January 1, 2024, all MCPs in all counties must expedite Prior Authorization requests for Members who are transitioning from an acute care hospital to a Subacute Care Facility. MCPs must make all authorization decisions in a timeframe appropriate for the nature of the Member’s condition,",
+        "page_number": 11,
+        "parent_id": "0fedd003739a1ae4ff249862695f7862"
+    },
+    {
+        "type": "Footer",
+        "element_id": "6b72227f2ee8e9f6b0815f0cb664f98d",
+        "text": "38 22 CCR section 51124.6(a)",
+        "page_number": 11,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "34a7bd7fba43ff94f81d8dd4b1dbc2b3",
+        "text": "ALL PLAN LETTER 23-027 Page 12",
+        "page_number": 12,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4caf29c1c17ebc042d8b5263b7ccebfd",
+        "text": "and all authorization decisions must be made within 72 hours after the MCP receives relevant information needed to make an authorization decision.39,40",
+        "page_number": 12,
+        "parent_id": null
+    },
+    {
+        "type": "Title",
+        "element_id": "1009e18866edd12e5ac0eea80eff55f1",
+        "text": "VI. The Preadmission Screening and Resident Review",
+        "page_number": 12,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "df0f04150f990a9e210916286b374a9f",
+        "text": "To prevent an individual from being erroneously admitted or retained in a Subacute Care Facility, federal law requires proper screening and evaluation before such placement. These Preadmission Screening and Resident Review (PASRR) requirements are applicable for all admissions at Medicaid-certified nursing facilities (regardless of payer source). The PASRR process is required to ensure that individuals who may be admitted into a nursing facility for a long-term stay be preliminarily assessed for serious mental illness and/or intellectual/developmental disability or related conditions.",
+        "page_number": 12,
+        "parent_id": "1009e18866edd12e5ac0eea80eff55f1"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ae7eccfa73e42d7079e209a3dea00ffe",
+        "text": "MCPs are required to work with DHCS and Network Providers, including discharging facilities or admitting nursing facilities, to obtain documentation validating PASRR process completions.41",
+        "page_number": 12,
+        "parent_id": "1009e18866edd12e5ac0eea80eff55f1"
+    },
+    {
+        "type": "Title",
+        "element_id": "504c7960302afde5648980aed282b4a5",
+        "text": "VII. Facility Payment",
+        "page_number": 12,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7e6d157f54cb29c730c80d1633f663b4",
+        "text": "In accordance with W&I section 14184.201(c)(2), for Contract periods from January 1, 2024, to December 31, 2025, inclusive, each MCP must reimburse a Network Provider furnishing adult or pediatric subacute care services to a Member, and each Network Provider of adult or pediatric subacute care services must accept, the payment amount the Network Provider would be paid for those services in the Medi-Cal FFS delivery system, as defined by DHCS in the California’s Medicaid State Plan and in guidance issued as authorized by W&I section 14184.102(d). This reimbursement requirement is subject to approval by the Centers for Medicare and Medicaid Services (CMS) as a state-directed payment arrangement in accordance with 42 CFR section 438.6(c), and is subject to future budgetary authorization and appropriation by the California Legislature.",
+        "page_number": 12,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "84921e322069ebe3d5bd162df8287fda",
+        "text": "MCPs in counties where extended coverage of adult or pediatric subacute care services is newly transitioning from Medi-Cal FFS to Medi-Cal managed care on January 1,",
+        "page_number": 12,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4993ac6c6827954fbd7889d3b5be05c9",
+        "text": "39 The 72-hour resolution timeframe includes weekends. 40 MCPs remain subject to timely access obligations under H&S section 1367.01, 28 CCR section 1300.67.2.2(c), and the MCP Contract at Exhibit A, Attachment 5, Provision 3. 41 Additional information regarding the PASRR process can be found at: https://www.dhcs.ca.gov/services/MH/Pages/PASRR.aspx",
+        "page_number": 12,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "913609d99a6a1326c45075ea31805b6a",
+        "text": "ALL PLAN LETTER 23-027 Page 13",
+        "page_number": 13,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "941aa6234c865431e8b1f17f722fce8c",
+        "text": "2024,42,43 must reimburse Network Providers of adult or pediatric subacute care services for those services at exactly the applicable Medi-Cal FFS per diem rates for dates of service from January 1, 2024, through December 31, 2025, in accordance with W&I section 14184.201(c)(2), this APL or any superseding APL, and the terms of the CMS-approved state-directed payment preprint.44",
+        "page_number": 13,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5a6c4967a0cc80ba8a5ff71dcca6c9ca",
+        "text": "MCPs in counties where extended adult or pediatric subacute care services are already included as a Covered Service under the MCP Contract prior to January 1, 2024, must reimburse Network Providers of adult or pediatric subacute care services for those services at no less than the applicable Medi-Cal FFS per diem rates for dates of service from January 1, 2024, through December 31, 2025, in accordance with W&I section 14184.201(c)(2), this APL, or any superseding APL, and the terms of the CMS- approved state-directed payment preprint as applicable.45",
+        "page_number": 13,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "41b184cf894ee8c5bd527f94e5c6f975",
+        "text": "The reimbursement requirement applies to adult or pediatric subacute care services starting on the first day of a Member’s stay (please see Attachment A). Medi-Cal FFS per diem rates for adult subacute care services are all-inclusive rates differentiated between ventilator and non-ventilator accommodation codes. Medi-Cal FFS per diem rates for pediatric subacute care services are all-inclusive rates differentiated between ventilator, non-ventilator, ventilator weaning, and rehab therapy accommodation codes.",
+        "page_number": 13,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8cec508b067096f3698e149a9d2fc1be",
+        "text": "This reimbursement requirement applies only to payments made directly for adult or pediatric subacute care services rendered, and does not apply to other types of payments, including but not limited to, Provider incentive and pay-for-performance payments.",
+        "page_number": 13,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "438fb5248241e84bf417f448df36b76c",
+        "text": "42 For adult subacute care services, this requirement applies to MCPs in the 31 counties listed in footnote 7. 43 For pediatric subacute care services, this requirement applies to MCPs in the counties listed in footnote 8. 44 Medi-Cal FFS per diem rates for Skilled Nursing Facilities (SNFs), Subacute Care Facilities, pediatric Subacute Care Facilities, and Intermediate Care Facilities are available at: https://www.dhcs.ca.gov/services/medi-cal/Pages/LTCRU.aspx and https://www.dhcs.ca.gov/services/medi-cal/Pages/AB1629/LTCAB1629.aspx. 45 For adult subacute care services, this requirement applies to MCPs in the following 27 counties: Del Norte, Humboldt, Lake, Lassen, Los Angeles, Marin, Merced, Mendocino, Modoc, Monterey, Napa, Orange, Riverside, San Bernardino, San Diego, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Siskiyou, Solano, Sonoma, Trinity, Ventura, and Yolo. For pediatric subacute care services, this requirement applies to MCPs in the following 22 counties: Del Norte, Humboldt, Lake, Lassen, Marin, Mendocino, Merced, Modoc, Monterey, Napa, Orange, San Luis Obispo, San Mateo, Santa Barbara, Santa Cruz, Shasta, Siskiyou, Solano, Sonoma, Trinity, Ventura, and Yolo.",
+        "page_number": 13,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "900ebcd0e3780611566005869cdd65a1",
+        "text": "ALL PLAN LETTER 23-027 Page 14",
+        "page_number": 14,
+        "parent_id": "504c7960302afde5648980aed282b4a5"
+    },
+    {
+        "type": "Title",
+        "element_id": "edcfed510644162512ae0d2f58ce191d",
+        "text": "VIII. Payments for Medi-Cal Covered Services for Members Residing in a Subacute Care Facility",
+        "page_number": 14,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4aa2aad8f4cdc3ae70f03e7ed318d3e0",
+        "text": "The state-directed payment requirements do not apply to any other services provided to a Member receiving adult or pediatric subacute care services such as, but not limited to, subacute services provided by an Out-of-Network Provider or non-subacute care services. Such non-qualifying services are not subject to the terms of this state directed payment and are payable by MCPs in accordance with the terms negotiated between the MCP and the Provider. For a list of adult and pediatric subacute care services that are included and excluded in the per diem rate, please refer to Attachment A.",
+        "page_number": 14,
+        "parent_id": "edcfed510644162512ae0d2f58ce191d"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b80ad6fc6b9d541b39eac5c3dc72fd98",
+        "text": "MCPs must coordinate benefits with Other Health Coverage (OHC) programs or entitlements in accordance with APL 22-027, Cost Avoidance and Post-Payment Recovery for Other Health Coverage, or any superseding APL.",
+        "page_number": 14,
+        "parent_id": "edcfed510644162512ae0d2f58ce191d"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9b56f15ae17b97c5aa12b50e6aec174d",
+        "text": "For adult or pediatric subacute care services provided to Members who are dually eligible for Medi-Cal and Medicare, MCPs must pay the full deductible and coinsurance in accordance with APL 13-003, Coordination of Benefits: Medicare and Medi-Cal, or any superseding APL. The existence of OHC must not impede access to adult or pediatric subacute care services. Providers contracted through OHC need not contract with the MCP in order to see the Member and bill the MCP for OHC-related costs.",
+        "page_number": 14,
+        "parent_id": "edcfed510644162512ae0d2f58ce191d"
+    },
+    {
+        "type": "Title",
+        "element_id": "7992bc83a6961512af538b7936dfb256",
+        "text": "IX. Payment Processes Including Timely Payment of Claims",
+        "page_number": 14,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b4ebab953e16d53c8a6e4925947d244f",
+        "text": "MCPs must provide a process for Network Providers to submit electronic claims and to receive payments electronically if a Network Provider requests electronic processing, which must include, but not be limited to, processing automatic crossover payments for Members who are dually eligible for Medicare and Medi-Cal. MCPs must ensure that the Subacute Care Facility and its staff have appropriate training on benefits coordination, including balanced billing prohibitions.",
+        "page_number": 14,
+        "parent_id": "7992bc83a6961512af538b7936dfb256"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "13c37dddfc171441d36c122ffc18f4e6",
+        "text": "MCPs must pay timely, in accordance with the prompt payment standards within their respective Contracts and APL 23-020, Requirements for Timely Payment of Claims, or any superseding APL. MCPs are highly encouraged to remit claims and invoices in the same frequency in which they are received. If, as the result of retroactive adjustments to the Medi-Cal FFS per diem rates by DHCS, additional amounts are owed in accordance with this APL to a Network Provider of adult or pediatric subacute care services, then MCPs must make such adjustments in a timely manner.",
+        "page_number": 14,
+        "parent_id": "7992bc83a6961512af538b7936dfb256"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "df9f04b042b5f241c88a8faad03c1d5e",
+        "text": "Assembly Bill (AB) 186 (Chapter 46, Statutes of 2022) establishes a new Workforce and Quality Incentive Program (WQIP) performance-based state-directed payment under",
+        "page_number": 14,
+        "parent_id": "7992bc83a6961512af538b7936dfb256"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4e953bbdc6300bdeee5aebf05d29da1b",
+        "text": "ALL PLAN LETTER 23-027 Page 15",
+        "page_number": 15,
+        "parent_id": "7992bc83a6961512af538b7936dfb256"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b7777905abf43f9cc0caad84918b2814",
+        "text": "the managed care delivery system. An APL specific to the WQIP will be released separately.",
+        "page_number": 15,
+        "parent_id": "7992bc83a6961512af538b7936dfb256"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "af187e522ca7ff844afba93f34c0c018",
+        "text": "MCPs must ensure that Providers of adult or pediatric subacute care services receive reimbursement in accordance with these requirements for all qualifying services regardless of any Subcontractor arrangements.",
+        "page_number": 15,
+        "parent_id": "7992bc83a6961512af538b7936dfb256"
+    },
+    {
+        "type": "Title",
+        "element_id": "a88ddd8865392b55c712ccb5ef91422b",
+        "text": "X. Population Health Management Requirements",
+        "page_number": 15,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8b1ab49cdc876c070ebacbb288949f4e",
+        "text": "In addition to benefit standardization, effective January 1, 2023, MCPs must implement a PHM Program that ensures all Members, including those using adult or pediatric subacute care services, have access to a comprehensive set of services based on their needs and preferences across the continuum of care, including Basic Population Health Management (BPHM), transitional care services (TCS), care management programs, and Community Supports, as appropriate.",
+        "page_number": 15,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "dbc1f03d0cb30eff55466980e97fdf17",
+        "text": "BPHM applies an approach to care that ensures needed programs and services, including primary care, are made available to each Member at the right time and in the right setting. In contrast to care management, which is focused on populations with significant or emerging needs, all MCP Members receive BPHM, regardless of their level of need. BPHM replaces DHCS’ previous “Basic Case Management” requirements.",
+        "page_number": 15,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "398de8f4802041490dc979ed2be90706",
+        "text": "As part of their PHM Program, MCPs must provide strengthened TCS that will be implemented in a phased approach. MCPs must ensure that Prior Authorizations are rendered in a timely manner for all Members, and know when all Members are admitted, discharged, or transferred from Subacute Care Facilities. MCPs must also ensure that all TCS are completed for all high-risk Members,46 including assigning a single point of contact, referred to as a care manager, to assist Members throughout their transition and ensure all required services are complete. MCPs and their assigned care managers must ensure Member transitions to and from a Subacute Care Facility are timely and do not delay or interrupt any Medically Necessary services or care, and that TCS are completed. Effective January 1, 2024, MCPs must ensure all TCS are completed for all Members.",
+        "page_number": 15,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2280f60a4053ceaa940be2680db57ec5",
+        "text": "Care management beyond transitions consists of two programs: (1) Complex Care Management (CCM) and (2) Enhanced Care Management (ECM). If a Member is enrolled in either CCM or ECM, TCS must be provided by the Member’s assigned care",
+        "page_number": 15,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3c25d6da495d674ce5827fece1894319",
+        "text": "46 Members receiving long term services and supports (LTSS), including adult and pediatric subacute care services, are one of the groups considered to be “high risk”.",
+        "page_number": 15,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d659167074bf2b786e22fb6860d5321d",
+        "text": "ALL PLAN LETTER 23-027 Page 16",
+        "page_number": 16,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "988aa0490cb2f552d52533d8c83cfc1f",
+        "text": "manager. MCPs must also continue to provide all elements of BPHM to Members enrolled in care management programs.",
+        "page_number": 16,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e8828f594c266148279d2d0157d7e01c",
+        "text": "CCM is a service for Medi-Cal managed care Members who need extra support to avoid adverse outcomes but who are not in the highest risk group. CCM provides both ongoing chronic care coordination and interventions for episodic, temporary needs with a goal of regaining optimum health or improved functional capability, in the right setting and in a cost-effective manner.",
+        "page_number": 16,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2111ee23885d6afd292039fc46163ed1",
+        "text": "ECM is a whole-person, interdisciplinary approach to comprehensive care management for Medi-Cal managed care Members who meet the Populations of Focus criteria. It is intended to address the clinical and non-clinical needs of high-cost, high-need Members through systematic coordination of services and it is community-based, interdisciplinary, high-touch, and person-centered. Members residing in Subacute Care Facilities are excluded from receiving ECM during their stay on the basis that the care they are receiving in the Subacute Care Facilities is comprehensive and highly specialized.",
+        "page_number": 16,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "26b1f1a32e161ddc0d8c57ee764451e6",
+        "text": "Community Supports are medically appropriate and cost-effective alternatives to traditional medical services or settings that are designed to address Social Drivers of Health. MCPs are strongly encouraged to offer Community Supports services to all Members who meet applicable criteria. All MCPs are encouraged to offer as many as possible of the Community Supports approved by DHCS.",
+        "page_number": 16,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "eabbe496eb5d25f7fa6e5c039ed2df95",
+        "text": "For more information about PHM, please refer to the DHCS PHM website47; the PHM Policy Guide; APL 22-024, or any superseding APL; and the operative MCP Contract (as amended). For more information about ECM or Community Supports, please refer to the DHCS ECM and Community Supports website48; APL 21-012, or any superseding APL; APL 21-017, or any superseding APL; the Finalized ECM and Community Supports MCP Contract Template49; the ECM Policy Guide50; and the Community Supports Policy Guide.51",
+        "page_number": 16,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "97ed2b81e71587b08609d42813ae16c3",
+        "text": "47 The DHCS PHM webpage is located at: https://www.dhcs.ca.gov/CalAIM/Pages/PopulationHealthManagement.aspx 48 The ECM and Community Supports webpage is located at: https://www.dhcs.ca.gov/Pages/ECMandILOS.aspx. 49 The finalized ECM and Community Supports MCP Contract Template is available at https://www.dhcs.ca.gov/Documents/MCQMD/MCP-ECM-and-ILOS-Contract-Template- Provisions.pdf. 50 The ECM Policy Guide is available at: https://www.dhcs.ca.gov/Documents/MCQMD/ECM- Policy-Guide.pdf. 51 The Community Supports Policy Guide is available at: https://www.dhcs.ca.gov/Documents/MCQMD/DHCS-Community-Supports-Policy-Guide.pdf.",
+        "page_number": 16,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2856bf14f4b46620f973c3c5e7fb0618",
+        "text": "ALL PLAN LETTER 23-027 Page 17",
+        "page_number": 17,
+        "parent_id": "a88ddd8865392b55c712ccb5ef91422b"
+    },
+    {
+        "type": "Title",
+        "element_id": "7f6ad2d320da83b4b5d9e16049bdf0ab",
+        "text": "XI. Long-Term Services and Supports Liaison",
+        "page_number": 17,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "dcd7ae1c278d74c00a25718c4d0038d7",
+        "text": "MCPs must identify an individual or set of individuals as part of their Provider Relations or related functions to serve as the liaison for LTSS Providers. For the purpose of this APL, LTSS refers to LTC facilities, including Subacute Care Facilities. LTSS liaisons must receive training on the full spectrum of rules and regulations pertaining to Medi-Cal covered LTC, including resident rights under State and federal law, payment and coverage policies, prompt claims payment requirements, Provider resolutions policies and procedures, and care management, coordination, and transition policies. LTSS liaisons must assist facilities in addressing claims and payment inquiries and assist with care transitions among the LTSS Provider community to best support Members’ needs. LTSS liaisons do not have to be clinical licensed professionals. MCPs must identify their respective LTSS liaisons and must disseminate their LTSS liaisons’ contact information to relevant Network Providers, including Subacute Care Facilities that are within Network.",
+        "page_number": 17,
+        "parent_id": "7f6ad2d320da83b4b5d9e16049bdf0ab"
+    },
+    {
+        "type": "Title",
+        "element_id": "2a9ffc74ed6d46e261fbf3c707de8557",
+        "text": "XII. MCP Quality Monitoring",
+        "page_number": 17,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e5bed0bd37ece0b3743fc5c84a440c1f",
+        "text": "MCPs are responsible for maintaining a comprehensive Quality Assurance Performance Improvement (QAPI) program for LTC services provided. MCPs must have a system in place to collect quality assurance and improvement findings from CDPH and DHCS’ SCU to include, but not be limited to, survey deficiency results, site visit findings, and complaint findings. The MCP’s comprehensive QAPI program must incorporate the following:",
+        "page_number": 17,
+        "parent_id": "2a9ffc74ed6d46e261fbf3c707de8557"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "af66fd150df7ffe9d67e312ed379e41c",
+        "text": "• Contracted Subacute Care Facility’s QAPI programs, which must include five key elements identified by CMS.52",
+        "page_number": 17,
+        "parent_id": "2a9ffc74ed6d46e261fbf3c707de8557"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "82e8014a7a69f7eafbbd70540f221ab1",
+        "text": "• Claims data for Subacute Care Facility residents, including but not limited to",
+        "page_number": 17,
+        "parent_id": "2a9ffc74ed6d46e261fbf3c707de8557"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6204f0ae6ab66510c2bc4017b5135d9d",
+        "text": "emergency room visits, health care associated infections requiring hospitalization, and potentially preventable readmissions as well as DHCS- supplied WQIP data via a template provided by DHCS on a quarterly basis. • Mechanisms to assess the quality and appropriateness of care furnished to",
+        "page_number": 17,
+        "parent_id": "2a9ffc74ed6d46e261fbf3c707de8557"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "88a4c74e39f8e1241331ca8eae121aeb",
+        "text": "Members using LTSS, including assessment of care between care settings and a comparison of services and supports received with those set forth in the Member’s treatment/service plan.",
+        "page_number": 17,
+        "parent_id": "2a9ffc74ed6d46e261fbf3c707de8557"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "6a1f875e5dc12eb2d3a92a0f48a1bed5",
+        "text": "Efforts supporting Member community integration. • DHCS and CDPH efforts to prevent, detect, and remediate identified critical",
+        "page_number": 17,
+        "parent_id": "2a9ffc74ed6d46e261fbf3c707de8557"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "83a3ab98e44763b968874959e8bc2901",
+        "text": "incidents.",
+        "page_number": 17,
+        "parent_id": "2a9ffc74ed6d46e261fbf3c707de8557"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "383bc1ff19b9959c026030a2e3210097",
+        "text": "52 The QAPI five key elements are available at: https://www.cms.gov/Medicare/Provider- Enrollment-and-Certification/QAPI/Downloads/qapifiveelements.pdf",
+        "page_number": 17,
+        "parent_id": "2a9ffc74ed6d46e261fbf3c707de8557"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b80ebb4f382b6f49ed7c090f523bcbc9",
+        "text": "ALL PLAN LETTER 23-027 Page 18",
+        "page_number": 18,
+        "parent_id": "2a9ffc74ed6d46e261fbf3c707de8557"
+    },
+    {
+        "type": "Title",
+        "element_id": "b2fe7d83d0519f82bd81a09ed75d08c4",
+        "text": "XIII. Monitoring and Reporting",
+        "page_number": 18,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a9e229c0ab2314ec22926b34e1f7c0b7",
+        "text": "MCPs are required to report on LTC measures within the Managed Care Accountability Set (MCAS) of performance measures.53 MCPs are required to calculate the rates for each MCAS LTC measure for each Subacute Care Facility within their Network for each reporting unit. MCPs will be held to quality and enforcement standards in APL 19-017 and APL 23-012, respectively, or any superseding APLs.",
+        "page_number": 18,
+        "parent_id": "b2fe7d83d0519f82bd81a09ed75d08c4"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f1561656a84083d7b6dc4997f8c42722",
+        "text": "MCPs are also required to annually submit QAPI program reports with outcome and trending data as specified by DHCS.",
+        "page_number": 18,
+        "parent_id": "b2fe7d83d0519f82bd81a09ed75d08c4"
+    },
+    {
+        "type": "Title",
+        "element_id": "c1d080d2f10ff8f91da9592aa8861c3a",
+        "text": "XIV. Policies and Procedures",
+        "page_number": 18,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "687680affa9450b231a0ba36a70aa072",
+        "text": "Within 60 days of the release of this APL, MCPs must update and submit their contractually required Policies and Procedures (P&Ps) to include all requirements in this APL and the LTC Phase II deliverable list to the following inbox: 2PlanDeliverables@dhcs.ca.gov.",
+        "page_number": 18,
+        "parent_id": "c1d080d2f10ff8f91da9592aa8861c3a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d844be8bb540917928c5d19742f26bf4",
+        "text": "MCPs are further responsible for ensuring that their Subcontractors and Network Providers comply with all applicable state and federal laws and regulations, Contract requirements, and other DHCS guidance, including APLs and Policy Letters.54 These requirements must be communicated by each MCP to all Subcontractors and Network Providers. DHCS may impose Corrective Action Plans (CAP), as well as administrative and/or monetary sanctions for non-compliance. For additional information regarding administrative and monetary sanctions, see APL 23-012, and any subsequent iterations on this topic. Any failure to meet the requirements of this APL may result in a CAP and subsequent sanctions.",
+        "page_number": 18,
+        "parent_id": "c1d080d2f10ff8f91da9592aa8861c3a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3786afe19b1f5ee3400f8d0f6baf0b13",
+        "text": "53 Measurement Year 2023/Reporting Year 2024 MCAS. See APL 19-017, Quality and Performance Improvement Requirements, or any superseding APL. 54 For more information on Subcontractors and Network Providers, including the definition and applicable requirements, see APL 19-001, and any subsequent APLs on this topic.",
+        "page_number": 18,
+        "parent_id": "c1d080d2f10ff8f91da9592aa8861c3a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b5e06193fe6217edb9bdc65420984b4e",
+        "text": "ALL PLAN LETTER 23-027 Page 19",
+        "page_number": 19,
+        "parent_id": "c1d080d2f10ff8f91da9592aa8861c3a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ce8d80e7620b3bfd6fe49ced64d252e8",
+        "text": "If you have any questions regarding this APL, please contact your MCOD Contract Manager.",
+        "page_number": 19,
+        "parent_id": "c1d080d2f10ff8f91da9592aa8861c3a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6bdc1750327e452bb8e31e06bbc5671e",
+        "text": "Sincerely,",
+        "page_number": 19,
+        "parent_id": "c1d080d2f10ff8f91da9592aa8861c3a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e2b8ac2b6479184953433c09c9bdf14d",
+        "text": "Original Signed by Dana Durham",
+        "page_number": 19,
+        "parent_id": "c1d080d2f10ff8f91da9592aa8861c3a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d45f6ae1420f7e4c0ddb213be38892df",
+        "text": "Dana Durham, Chief Managed Care Quality and Monitoring Division",
+        "page_number": 19,
+        "parent_id": "c1d080d2f10ff8f91da9592aa8861c3a"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bb457ea6fbfe43a8bedf4f7b4c79d5c4",
+        "text": "ALL PLAN LETTER 23-027 Page 20",
+        "page_number": 20,
+        "parent_id": "c1d080d2f10ff8f91da9592aa8861c3a"
+    },
+    {
+        "type": "Title",
+        "element_id": "90cf722b19d5139d9001a44372f90c14",
+        "text": "Adult and Pediatric Subacute Long-Term Care Carve-In: Summary of Inclusive Services Attachment A",
+        "page_number": 20,
+        "parent_id": null
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "453cebf32c542a7fe8444f5c72331c69",
+        "text": "Below is summary of services included in the per diem rate for adult and pediatric Subacute Services, per state guidelines. These tables are not meant to be exhaustive. Please see sources for additional information.",
+        "page_number": 20,
+        "parent_id": "90cf722b19d5139d9001a44372f90c14"
+    },
+    {
+        "type": "Title",
+        "element_id": "caf9f443e81c44147a53fc277a02b4db",
+        "text": "Summary of Services Included/Excluded in Adult Subacute Carve-In Per Diem Rate",
+        "page_number": 20,
+        "parent_id": null
+    },
+    {
+        "type": "Title",
+        "element_id": "1ca1167323ae62bf43dd102af8598fac",
+        "text": "Included Services in Adult Subacute Per Diem Rate",
+        "page_number": 20,
+        "parent_id": null
+    },
+    {
+        "type": "Table",
+        "element_id": "33727e5ff55c61bbc32287fcc332e912",
+        "text": "Summary: All services, equipment and supplies necessary for the administration of the treatment procedures listed in the patient care criteria55 Oxygen and all equipment necessary for administration including: • Positive pressure apparatus (e.g., biphasic positive airway pressure) • Oxygen conserving devices (e.g., Oxymizer) • Nebulizers (e.g., Pulmoaide)",
+        "page_number": 20,
+        "parent_id": "1ca1167323ae62bf43dd102af8598fac"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e13ff01a23e1840076b0adcbc1e049e0",
+        "text": "Ventilators, including humidifiers, in-line condensers, and in-line temperature measuring devices, calibration and maintenance Feeding pumps and equipment necessary for tube feedings (nasogastric or gastrotomy), including formula Speech therapy and language and audiology services56 Occupational therapy services57 Physical therapy58 Equipment and supplies necessary for the care of a tracheostomy, including tracheostomy speaking valves Respiratory and inhalation therapy services administered by other than a physician Technical components of laboratory, pathology, and radiology59 Equipment and supplies for continuous intravenous therapy Equipment and supplies necessary for debridement, packing and medicated irrigation with or without whirlpool treatment",
+        "page_number": 20,
+        "parent_id": "1ca1167323ae62bf43dd102af8598fac"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e1e27051cd42a9992161b5ba06e6242e",
+        "text": "55 See the Medi-Cal Provider Manual, located at: https://mcweb.apps.prd.cammis.medi- cal.ca.gov/file/manual?fn=subacutadu.pdf. 56 22 CCR section 51507.2 57 22 CCR section 51507.1 58 22 CCR section 51507 59 See the Medi-Cal Provider Manual, located at: https://mcweb.apps.prd.cammis.medi- cal.ca.gov/file/manual?fn=subacutadu.pdf.",
+        "page_number": 20,
+        "parent_id": "1ca1167323ae62bf43dd102af8598fac"
+    },
+    {
+        "type": "Header",
+        "element_id": "a453182242c99683dac0897aecdc79ce",
+        "text": "ALL PLAN LETTER 23-027 Page 21",
+        "page_number": 21,
+        "parent_id": null
+    },
+    {
+        "type": "Table",
+        "element_id": "f7b201a2ba059137e3d73a2767d97e48",
+        "text": "Allied health services ordered by the attending physician, excluding respiratory therapy Alternating pressure mattresses/pads with motor Blood, plasma and substitutes Dental services Durable medical equipment (DME), including custom wheelchairs, as specified in 22 CCR section 51321(h) (except as specified) Insulin Intravenous trays, tubing and blood infusion sets Laboratory services (except as specified) Legend drugs MacLaren or Pogon Buggy Medical supplies as specified in the list established by DHCS Nasal cannula Osteogenesis stimulator device Parts and labor for repairs of DME if originally separately payable or owned by the beneficiary Physician services Portable aspirator Precontoured structures (VASCO-PASS, cut out foam) Prescribed prosthetic and orthotic devices for exclusive use of patient Reagent testing sets Therapeutic air/fluid support systems/beds Transportation Traction equipment and accessories Variable height beds X-rays (except as specified) Not included in the payment rate nor in the Medi-Cal schedules of benefits are personal items such as cosmetics, tobacco products and accessories, dry cleaning, beauty shop services (other than shaves or shampoos performed by the facility staff as part of patient care and periodic hair trims) and television rental.",
+        "page_number": 21,
+        "parent_id": "a453182242c99683dac0897aecdc79ce"
+    },
+    {
+        "type": "Title",
+        "element_id": "0287782de7816381923c774bf513a8d6",
+        "text": "Sources:",
+        "page_number": 21,
+        "parent_id": "a453182242c99683dac0897aecdc79ce"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "155b3a3f14814ce11fcec0996209a126",
+        "text": "22 CCR section 51511.5 • Medi-Cal Provider Manual, Subacute Care Programs: Adult • Medi-Cal Provider Manual, Rates: Facility Reimbursement – Miscellaneous",
+        "page_number": 21,
+        "parent_id": "0287782de7816381923c774bf513a8d6"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "0a129e66184d4dff8cc9d48a3a2c6266",
+        "text": "Inclusive and Exclusive Items",
+        "page_number": 21,
+        "parent_id": "0287782de7816381923c774bf513a8d6"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f5a69459bd4f268036f6c7074cb80abe",
+        "text": "ALL PLAN LETTER 23-027 Page 22",
+        "page_number": 22,
+        "parent_id": "0287782de7816381923c774bf513a8d6"
+    },
+    {
+        "type": "Title",
+        "element_id": "fbcd9c05ae63741a9e64d15375eb0689",
+        "text": "Additional Resources:",
+        "page_number": 22,
+        "parent_id": "a453182242c99683dac0897aecdc79ce"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "e30ce1f7315ae12ff61b13cfb6de7ddb",
+        "text": "Medi-Cal State Plan: Limitations on Attachment 3.1-B • Medi-Cal State Plan: Attachment 4.19-D Methods and Standards for Payment",
+        "page_number": 22,
+        "parent_id": "fbcd9c05ae63741a9e64d15375eb0689"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "fbd8853f440593c78f002ce172b06ab9",
+        "text": "Rates - Skilled Nursing and Intermediate Care Facility Services",
+        "page_number": 22,
+        "parent_id": "fbcd9c05ae63741a9e64d15375eb0689"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7c54d7ce055bf0ec478780efeb610d60",
+        "text": "ALL PLAN LETTER 23-027 Page 23",
+        "page_number": 23,
+        "parent_id": "fbcd9c05ae63741a9e64d15375eb0689"
+    },
+    {
+        "type": "Title",
+        "element_id": "ae099b46d2d046784104edc57fbf4448",
+        "text": "Summary of Services Included in Pediatric Subacute Carve-In Per Diem Rate Included Services in Pediatric Subacute Per Diem Rate",
+        "page_number": 23,
+        "parent_id": "a453182242c99683dac0897aecdc79ce"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "43c43c5791794fba8e805d2a8e64fc03",
+        "text": "Summary: All services, equipment and supplies necessary for the administration of the treatment procedures listed in the patient care criteria Oxygen and all equipment necessary for administration including:",
+        "page_number": 23,
+        "parent_id": "ae099b46d2d046784104edc57fbf4448"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "8858bbe1c7720b5483ba4598b5e07504",
+        "text": "Positive pressure apparatus • Oxygen conserving devices (e.g., Oxymizer) • Nebulizers (e.g., Pulmoaide)",
+        "page_number": 23,
+        "parent_id": "ae099b46d2d046784104edc57fbf4448"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1f5174c25041817cfb13669babaf1836",
+        "text": "Ventilators, including humidifiers, in-line condensers, and in-line temperature measuring devices, calibration and maintenance Feeding pumps and equipment necessary for tube feedings (nasogastric or gastrotomy), including formula. Registered Dietician consultant services Physical, occupational and speech therapy services provided within a supportive maintenance program60",
+        "page_number": 23,
+        "parent_id": "ae099b46d2d046784104edc57fbf4448"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c607222a12e3a5d7616c3d19841360c2",
+        "text": "Note: Per the Medi-Cal Provider Manual, supportive or maintenance interventions included in the Pediatric Subacute per diem are therapy services that are part of routine daily care provided by nurses based on instructions from licensed therapists.61 These interventions are part of the pediatric subacute level of care services (covered in the nursing facility’s per diem rate) and, therefore, are not separately reimbursable. Equipment and supplies necessary for the care of a tracheostomy, including tracheostomy speaking valves Respiratory and inhalation therapy services administered by other than a physician Equipment and supplies for continuous intravenous therapy Developmental services Service Coordinator activities Portable imaging services provided by freestanding providers (for free-standing Pediatric Subacute facilities) Unlisted supplies and materials used by physicians in non-surgical procedures (Current Procedural Terminology, CPT®, Code 99070) Handling and/or conveyance of specimen for transfer from the physician’s office to a laboratory (CPT Code 99000)",
+        "page_number": 23,
+        "parent_id": "ae099b46d2d046784104edc57fbf4448"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3b1fee588f84b0fca28b44d8b161d3ee",
+        "text": "60 22 CCR section 51215.10(h) 61 The Medi-Cal Provider Manual is available at: https://mcweb.apps.prd.cammis.medi- cal.ca.gov/file/manual?fn=subacutped.pdf.",
+        "page_number": 23,
+        "parent_id": "ae099b46d2d046784104edc57fbf4448"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ef918198b6c04cfb28a65364bf2e1b7e",
+        "text": "ALL PLAN LETTER 23-027 Page 24",
+        "page_number": 24,
+        "parent_id": "ae099b46d2d046784104edc57fbf4448"
+    },
+    {
+        "type": "Title",
+        "element_id": "4a68719143394438ee75536490342985",
+        "text": "MCPs must cover the following services with additional TAR approval, but these are not included in the Pediatric Subacute per diem rate:",
+        "page_number": 24,
+        "parent_id": "a453182242c99683dac0897aecdc79ce"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "3343e54e4319a196c6fb0a6f44d110d8",
+        "text": "• Supplemental rehabilitation therapy services: therapy services needed beyond the level of supportive or maintenance interventions, provided by a licensed therapist and require authorization.",
+        "page_number": 24,
+        "parent_id": "4a68719143394438ee75536490342985"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "f4d3f9647af45d3268aa9e63a222a654",
+        "text": "• Ventilator Weaning Services.",
+        "page_number": 24,
+        "parent_id": "4a68719143394438ee75536490342985"
+    },
+    {
+        "type": "Table",
+        "element_id": "969fade01edb295d32d0f93ea3341ca5",
+        "text": "Alternating pressure mattresses/pads with motor Blood, plasma and substitutes Dental services DME as specified in 22 CCR section 51321(h) (except as specified) Insulin Intravenous trays, tubing and blood infusion sets Laboratory services (except as specified) Legend drugs MacLaren or Pogon Buggy Medical supplies as specified in the list established by DHCS Nasal cannula Osteogenesis stimulator device Parts and labor for repairs of DME if originally separately payable or owned by the beneficiary Physician services Portable aspirator Precontoured structures (VASCO-PASS, cut out foam) Prescribed prosthetic and orthotic devices for exclusive use of patient Reagent testing sets Therapeutic air/fluid support systems/beds Traction equipment and accessories Transportation Variable height beds X-rays (except as specified) Not included in the payment rate nor in the Medi-Cal schedules of benefits are personal items such as cosmetics, tobacco products and accessories, dry cleaning, beauty shop services (other than shaves or shampoos performed by the facility staff as part of patient care and periodic hair trims) and television rental.",
+        "page_number": 24,
+        "parent_id": "4a68719143394438ee75536490342985"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5ed01d0f5f4c51fa9c897e886ebd0ab3",
+        "text": "ALL PLAN LETTER 23-027 Page 25",
+        "page_number": 25,
+        "parent_id": "4a68719143394438ee75536490342985"
+    },
+    {
+        "type": "Title",
+        "element_id": "0287782de7816381923c774bf513a8d6",
+        "text": "Sources:",
+        "page_number": 25,
+        "parent_id": "a453182242c99683dac0897aecdc79ce"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "e807124c11d4bc2dd1a4aa155715d38a",
+        "text": "22 CCR section 51511.6 • Medi-Cal Provider Manual, Subacute Care Programs: Pediatric • Medi-Cal Provider Manual, Rates: Facility Reimbursement – Miscellaneous",
+        "page_number": 25,
+        "parent_id": "0287782de7816381923c774bf513a8d6"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "0a129e66184d4dff8cc9d48a3a2c6266",
+        "text": "Inclusive and Exclusive Items",
+        "page_number": 25,
+        "parent_id": "0287782de7816381923c774bf513a8d6"
+    },
+    {
+        "type": "Title",
+        "element_id": "fbcd9c05ae63741a9e64d15375eb0689",
+        "text": "Additional Resources:",
+        "page_number": 25,
+        "parent_id": "a453182242c99683dac0897aecdc79ce"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "b261c96abbe95debed2b6187750ab61c",
+        "text": "22 CCR section 51335.6 • 22 CCR sections 51215.5-51215.11 • Medi-Cal State Plan: Limitations on Attachment 3.1-B",
+        "page_number": 25,
+        "parent_id": "fbcd9c05ae63741a9e64d15375eb0689"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "4e05b2acee6d7c5409c368df86fa85c0",
+        "text": "Medi-Cal State Plan: Attachment 4.19-D Methods and Standards for Payment Rates - Skilled Nursing and Intermediate Care Facility Services",
+        "page_number": 25,
+        "parent_id": "fbcd9c05ae63741a9e64d15375eb0689"
+    }
+]

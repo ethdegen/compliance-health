@@ -15,6 +15,9 @@ llama-index = "^0.10.26"
 llmsherpa = "^0.1.4"
 unstructured-client = "^0.22.0"
 roman = "^4.1"
+pypdf = "^4.2.0"
+llama-parse = "^0.4.1"
+llama-index-llms-openai = "^0.1.15"
 
 [virtualenvs]
 in-project = true
