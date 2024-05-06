@@ -1,0 +1,46 @@
+{
+    "policy_elements": [
+        {
+            "serial_number": 1,
+            "heading": "GENERAL REQUIREMENTS",
+            "page_numbers": [2],
+            "boundary_reasoning": "The policy element starts with the title 'GENERAL REQUIREMENTS' on page 2 and includes detailed requirements for MCPs. It ends on the same page before the next policy element begins."
+        },
+        {
+            "serial_number": 2,
+            "heading": "QUALITY AND HEALTH EQUITY TEAMS & DESIGNATED CONTACTS",
+            "page_numbers": [3, 4],
+            "boundary_reasoning": "This policy element starts with the title 'QUALITY AND HEALTH EQUITY TEAMS & DESIGNATED CONTACTS' on page 3 and continues until the end of page 4, covering various roles and responsibilities within MCPs."
+        },
+        {
+            "serial_number": 3,
+            "heading": "MCAS Requirements",
+            "page_numbers": [4, 5],
+            "boundary_reasoning": "Begins with the title 'MCAS Requirements' on page 4 and extends into page 5, detailing performance standards, accountability, and audit requirements for MCPs."
+        },
+        {
+            "serial_number": 4,
+            "heading": "Regional Collaborative Meetings",
+            "page_numbers": [5, 6],
+            "boundary_reasoning": "Starts with the title 'Regional Collaborative Meetings' on page 5 and continues through the beginning of page 6, discussing the requirements for MCP participation in regional meetings."
+        },
+        {
+            "serial_number": 5,
+            "heading": "Consumer Satisfaction Surveys",
+            "page_numbers": [6, 7],
+            "boundary_reasoning": "This policy element begins with the title 'Consumer Satisfaction Surveys' on page 6 and extends into page 7, outlining the requirements for conducting and reporting satisfaction surveys."
+        },
+        {
+            "serial_number": 6,
+            "heading": "Performance Improvement Projects",
+            "page_numbers": [7],
+            "boundary_reasoning": "Starts with the title 'Performance Improvement Projects' on page 7, detailing the requirements for MCPs and SHPs to conduct or participate in PIPs."
+        },
+        {
+            "serial_number": 7,
+            "heading": "FULLY DELEGATED SUBCONTRACTOR & DOWNSTREAM FULLY DELEGATED SUBCONTRACTOR QUALITY REQUIREMENTS",
+            "page_numbers": [7],
+            "boundary_reasoning": "This policy element starts with the title 'FULLY DELEGATED SUBCONTRACTOR & DOWNSTREAM FULLY DELEGATED SUBCONTRACTOR QUALITY REQUIREMENTS' on page 7, covering the oversight and reporting responsibilities of MCPs regarding their subcontractors."
+        }
+    ]
+}

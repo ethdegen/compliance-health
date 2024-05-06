@@ -1,0 +1,1512 @@
+[
+    {
+        "type": "Image",
+        "element_id": "4f6d19392025aaff7f0d7559a3f6a78b",
+        "text": "PHCS CALIFORNIA DEPARTMENT OF HEALTH CARE SERVICES",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "4ade66c046e65e07577c2c55f81e097c",
+        "text": "Michelle Baass | Director",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "6a6b57253ba198665053c683f56453ea",
+        "text": "DATE: December 28, 2023",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "018785cd32cc0749bed2f657b4001589",
+        "text": "ALL PLAN LETTER 23-035",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "382dfa75bede1500c5bb6545727991ce",
+        "text": "TO: ALL MEDI-CAL MANAGED CARE PLANS",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3554f71dee79bb6f3f7149b59cdabb9f",
+        "text": "SUBJECT: STUDENT BEHAVIORAL HEALTH INCENTIVE PROGRAM",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "60ae96cbbdd253d1c20814cbf88db86b",
+        "text": "PURPOSE: The purpose of this All Plan Letter (APL) is to provide Medi-Cal managed care plans (MCPs) with guidance on the incentive payments provided by the Student Behavioral Health Incentive Program (SBHIP). SBHIP is a part of California\u2019s Children and Youth Behavioral Health Initiative (CYBHI) and is being implemented by the Department of Health Care Services (DHCS) in accordance with Assembly Bill (AB) 133 (Committee on Budget, Chapter 143, Statutes of 2021) and Welfare & Institutions Code (W&I) section 5961.3.1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0ad1362184a8d6d17c9b4da699995250",
+        "text": "BACKGROUND: In accordance with AB 133 and W&I section 5961.3, DHCS is directed to design and implement SBHIP. DHCS is allocating $389 million over a three-year period (January 1, 2022 - December 31, 2024) for incentive payments to MCPs that meet predefined goals and metrics. SBHIP goals and metrics are associated with Targeted Interventions that increase access to preventive, early intervention, and behavioral health services by school-affiliated behavioral health providers for Transitional Kindergarten through 12th grade (TK-12) children in public schools.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "ceecd4d6d4e1ccbafe075cc5496bbd5e",
+        "text": "Break down silos and improve coordination of child and adolescent student behavioral health services through increased communication with schools, school-affiliated programs, managed care Providers, counties, and mental health providers. Increase the number of TK-12 students enrolled in Medi-Cal receiving behavioral health services through schools, school-affiliated providers, County Behavioral Health Departments, and County Offices of Education (COEs). Increase non-specialty services on or near school campuses.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "909cefe010cfa92bc574ddeacf829962",
+        "text": "\u2022 Address health equity gaps, inequalities, and disparities in access to behavioral",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "add7ceaafea28b1b9f1f8c8c9baadf12",
+        "text": "health services.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6655543f8c2f94c78d04250ff86f81c8",
+        "text": "BACKGROUND:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0ed2d25598321a1c8be2256c43d74c83",
+        "text": "The objectives of SBHIP are to:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "6655543f8c2f94c78d04250ff86f81c8",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "43760004c2d608c8aebdf335cefdfd89",
+        "text": "1 The California Legislative Information website is available at: https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "6655543f8c2f94c78d04250ff86f81c8",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+        "text": "California Department of Health Care Services",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1ef4b4f3d07daa156fb812cd1806958a",
+        "text": "California Department of Health Care Services Capitated Rate Development Division 1501 Capitol Avenue, P.O. BOX 997413 | Sacramento, CA 95899 MS 4413-4414 | Phone (916) 345-7070 https://www.dhcs.ca.gov/services/Pages/studentbehavioralheathincentiveprogram.aspx",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d90b5744a734b0807649df3c8523e95a",
+        "text": "State of California Gavin Newsom, Governor",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ba0c0c6b4acbc157e578eab414ad0dc3",
+        "text": "California Health and Human Services Agency",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9529276aeb87b3984cbdb378aadde71e",
+        "text": "ALL PLAN LETTER 23-035 Page 2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "879fbf0a8853efcdfc5d4e956ae4341d",
+        "text": "In accordance with W&I section 5961.3(b), DHCS established a SBHIP Stakeholder Workgroup to develop the Targeted Interventions, goals, and metrics that MCPs must meet to earn incentive payments. The stakeholder workgroup included representation from the State Department of Education, MCPs, County Behavioral Health Departments, Local Educational Agencies (LEAs), and other affected stakeholders.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "261639906324c1f57a7edb76e4f9b3ca",
+        "text": "The program will span three Program Years (PYs):",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "264333fde5f70796f395ade61523d1dc",
+        "text": "PY 1: January 1, 2022 \u2013 December 31, 2022 \u2022 PY 2: January 1, 2023 \u2013 December 31, 2023 \u2022 PY 3: January 1, 2024 \u2013 December 31, 2024",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a7f9669cc40efc7dd99effca7bf0767d",
+        "text": "MCPs may earn incentive payments for submitting required deliverables and for meeting predefined goals and metrics. During PY 1, MCPs received incentive payments for submitting a DHCS approved Letter of Intent, Partners Form(s), Project Plan, and Needs Assessment. During PYs 2 and 3, MCPs can earn incentive payments for deliverable submissions approved by DHCS. Incentive payment amounts will be contingent on the five percent limit on total incentive payments for the select MCP for the applicable year, in accordance with section 438.6(b)(2) of Title 42 of the Code of Federal Regulations. 2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "193ed530b5342f1562f0f5aae9a46720",
+        "text": "The aforementioned regulation requires that MCPs with Contracts that include incentive arrangements may not receive payments in excess of 105 percent of the approved capitation payments attributable to the enrollees or services covered by the incentive arrangement. The five percent limit will be calculated by DHCS. A maximum cap on payments will be imposed in instances in which DHCS determines that it is likely that the five percent threshold will be exceeded. DHCS will make best efforts to impose this payment cap prospectively, but because the five percent threshold is dependent upon enrollment, MCPs may be required to remit to DHCS any amounts in excess of the five percent cap should DHCS determine that the cap has been exceeded after the payment has been made.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "032e41e69d716b77352b1fec1b68611e",
+        "text": "Required deliverables by submission deadline and PY are listed in the table below.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cb7dd7bb0b1c1fbadb6337c15c3a18f8",
+        "text": "2 The Federal Regulation Information website is available at: https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-438",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "af46080e5492289f169fa2fcb6cfa0d6",
+        "text": "ALL PLAN LETTER 23-035 Page 3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "dc354090fddc3abf92a1161f4b93ada1",
+        "text": "Table 1. SBHIP Deliverable Submission Timeline",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "af46080e5492289f169fa2fcb6cfa0d6",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "042191d71b88571b7fed4af43d19cb19",
+        "text": "MCP Deliverable MCP Submission Deadline Letters of Intent Partners Forms Optional Accelerated Timeline: Project Plan (Milestone One) Needs Assessment Project Plan (Milestone One) Bi-Quarterly Reports January 31, 2022 March 15, 2022 On or before June 1, 2022 On or before December 31, 2022 On or before December 31, 2022 Due at the end of every other quarter throughout the duration of the project or until the Project Outcome Report (Milestone Two) has been submitted: \u2022 December 31, 2022 (Optional Accelerated Timeline) Transition Plan Part 1 (Acknowledgement) \u2022 June 30, 2023 \u2022 December 31, 2023 \u2022 June 30, 2024 \u2022 On or before June 30, 2023 In counties with 2024 MCP transitions, this deliverable is required for MCPs that have participated in SBHIP but will not longer be contracted as an MCP in a particular county as of January 1, 2024. These \u201cexiting MCPs\u201d will be required to submit a transition plan. In addition, in counties where there is a transition of MCPs, all remaining and incoming MCPs will be required to submit this portion of the transition plan. Transition Plan Part 2 (Narrative) \u2022 On or before September 29, 2023 This deliverable is only required for exiting MCPs in counties where all existing MCPs will no longer participate in SBHIP as of January 1, 2024. PY 1 1 1 1 1 1 \u2013 3 2 2",
+        "metadata": {
+            "text_as_html": "<table><thead><th>MCP Deliverable</th><th>MCP Submission Deadline</th><th>PY</th></thead><tr><td>Letters of Intent</td><td>January 31, 2022</td><td></td></tr><tr><td>Partners Forms</td><td>March 15, 2022</td><td></td></tr><tr><td>Optional Accelerated Timeline: Project Plan (Milestone One)</td><td>On or before June 1, 2022</td><td>1 \n1 \n1</td></tr><tr><td>Needs Assessment</td><td>On or before December 31, 2022</td><td></td></tr><tr><td>Project Plan (Milestone One)</td><td>| On or before December 31, 2022</td><td>1 \n1</td></tr><tr><td rowspan=\"2\">Bi-Quarterly Reports</td><td>Due at the end of every other quarter throughout the duration of the project or until the Project Outcome Report (Milestone Two) has been submitted:</td><td>1-3</td></tr><tr><td></td><td>December 31, 2022 (Optional Accelerated Timeline) June 30, 2023 December 31, 2023 June 30, 2024 (o o o</td><td></td></tr><tr><td>Transition Plan Part 1 (Acknowledgement)</td><td>o On or before June 30, 2023 In counties with 2024 MCP transitions, this deliverable is required for MCPs that have participated in SBHIP but will not longer be contracted as an MCP in a particular county \u201d as of January 1, 2024. These \u201cexiting MCPs will be required to submit a transition plan. In addition, in counties where there is a transition of MCPs, all remaining and incoming MCPs will be required to submit this portion of the transition plan.</td><td>2</td></tr><tr><td>Transition Plan Part 2 (Narrative)</td><td>L] On or before September 29, 2023 This deliverable is only required for exiting MCPs in counties where all existing MCPs will no longer participate in SBHIP as of January 1, 2024.</td><td>2</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "dc354090fddc3abf92a1161f4b93ada1",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a44afdc5862c825878c5de0bc485f47c",
+        "text": "ALL PLAN LETTER 23-035 Page 4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "af46080e5492289f169fa2fcb6cfa0d6",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "be966fc9d9c84a44d6d59c1dfcafa98b",
+        "text": "MCP Deliverable MCP Submission Deadline PY Project Outcome Report (Milestone Two) \u2022 December 31, 2023 (All exiting MCPs) \u2022 December 31, 2024 (All remaining and incoming MCPs) 2 or 3 To ensure program sustainability, early submissions will not be accepted. Memorandum(s) of Understanding (MOU(s)) \u2022 December 31, 2024 Submitted with the Project Outcome Report (Milestone Two) 3",
+        "metadata": {
+            "text_as_html": "<table><thead><th>MCP Deliverable</th><th>MCP Submission Deadline</th><th>PY</th></thead><tr><td>Project Outcome Report (Milestone Two)</td><td>L] December 31, 2023 (All exiting MCPs) | L] December 31, 2024 (All remaining and incoming MCPs) To ensure program sustainability, early submissions will not be accepted.</td><td>2 or 3</td></tr><tr><td>Memorandum(s) of Understanding (MOU(s))</td><td>L] December 31, 2024 Submitted with the Project Outcome Report (Milestone Two)</td><td>3</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a44afdc5862c825878c5de0bc485f47c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "812c011f345851e0ca12f31d772cb20e",
+        "text": "POLICY: Participating MCPs must comply with the policy requirements outlined throughout this APL to earn incentive payments for submitting deliverables and meeting predefined goals and metrics. Incentive payments provided through SBHIP must supplement and not supplant existing payments to MCPs.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a44afdc5862c825878c5de0bc485f47c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c803199c4688de34250d1256c3363cf8",
+        "text": "MCP Eligibility and Participation MCP participation in this incentive program is voluntary, but strongly encouraged. To earn incentive payments, MCPs that elect to participate will be required to engage with COEs and/or partner with LEAs to submit required deliverables, MOUs and to meet predefined goals and metrics. MCPs are also encouraged, but not required, to partner with County Behavioral Health Departments.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a44afdc5862c825878c5de0bc485f47c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fd2ac2bfbca9b055736af3df45dae288",
+        "text": "MCP Incentive Payments DHCS is allocating $389 million in SBHIP incentive payments to MCPs over a three- year period (January 1, 2022 - December 31, 2024). SBHIP incentive payments are divided between two funding allocations: Needs Assessment allocations and Targeted Intervention allocations.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a44afdc5862c825878c5de0bc485f47c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "e5538804f08513d24e87f8727632b983",
+        "text": "Total Needs Assessment Allocations Available: Approximately $39 million \u2022 Total Targeted Intervention Allocations Available: Approximately $350 million",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a44afdc5862c825878c5de0bc485f47c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b466c60d2a776462e6ad238a3abf3927",
+        "text": "MCPs will earn incentive payments for submitting required deliverables and for meeting predefined goals and metrics. Funding milestones, funding allocation percentages, and distribution dates are summarized in the table below. The SBHIP Overview and",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a44afdc5862c825878c5de0bc485f47c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d53a5bc24f3084f141e458546cfbc62c",
+        "text": "ALL PLAN LETTER 23-035 Page 5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "a44afdc5862c825878c5de0bc485f47c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3596b36a68d97e9c9229674ef2b3e62e",
+        "text": "Requirements Document, which contains additional details of SBHIP deliverables, and deliverable templates are available on the DHCS website.3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "a44afdc5862c825878c5de0bc485f47c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "fb05525c36b007d98cf3352937729ffd",
+        "text": "Table 2. SBHIP Funding Allocation Milestones and Distribution Dates",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "af46080e5492289f169fa2fcb6cfa0d6",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "971f433ca366e1ea986f7dd23b0fcb89",
+        "text": "Funding Milestones DHCS Approval of the Letter of Intent and LEA Partners Form DHCS Approval of Need Assessment DHCS Approval of Project Plan Funding Allocation 50 percent of the total Needs Assessment allocation 50 percent of the total Needs Assessment allocation Up to 50 percent of the Targeted Intervention allocation Funding Distribution Date(s) May 2022 April 2023 \u201cStandard\u201d Project Plan Funding Distribution Date: April 2023 (Project Plans submitted after June 1, 2022) DHCS Approval of Bi-Quarterly Report \u201cStandard\u201d Project Plan Funding Allocation: 75 percent of remaining Targeted Intervention allocation (25 percent allocated to each Bi- Quarterly Report) \u201cOptional\u201d Accelerated Project Plan Funding Allocation: 80 percent of remaining Targeted Intervention allocation (20 percent \u201cOptional\u201d Accelerated Project Plan Funding Distribution Date: October 2022 (Project Plans submitted on or before June 1, 2022) \u201cStandard\u201d Project Plan Funding Distribution Dates: 1. October 2023* 2. April 2024 3. October 2024 \u201cOptional\u201d Accelerated Project Plan Funding Distribution Dates: 1. April 2023 2. October 2023* 3. April 2024 4. October 2024",
+        "metadata": {
+            "text_as_html": "<table><thead><th>Funding Milestones</th><th>Funding Allocation</th><th>Funding Distribution Date(s)</th></thead><tr><td>DHCS Approval of the Letter of Intent and LEA Partners Form</td><td>50 percent of the total Needs Assessment allocation</td><td>| May 2022</td></tr><tr><td>DHCS Approval of Need Assessment</td><td>50 percent of the total Needs Assessment allocation</td><td>| April 2023</td></tr><tr><td rowspan=\"2\">DHCS Approval of Project Plan</td><td>Up to 50 percent of the Targeted Intervention allocation</td><td>\u201cStandard\u201d Project Plan Funding Distribution Date: April 2023 (Project Plans submitted after June 1, 2022)</td></tr><tr><td></td><td></td><td>\u201cOptional\u201d Accelerated Project Plan Funding Distribution Date: October 2022 (Project Plans submitted on or before June 1, 2022)</td></tr><tr><td rowspan=\"2\">DHCS Approval of Bi-Quarterly Report</td><td>\u201cStandard\u201d Project Plan Funding Allocation: 75 percent of remaining Targeted Intervention</td><td>\u201cStandard\u201d Project Plan Funding Distribution Dates: 1 October 2023* 2. April 2024</td></tr><tr><td></td><td>(25 percent allocated to each Bi- Quarterly Report) \u201cOptional\u201d Accelerated Project Plan Funding Allocation: 80 percent of remaining Targeted Intervention allocation (20 percent</td><td>3. October \u201cOptional\u201d Accelerated Project Plan Funding Distribution Dates: April 2023 October 2023* April 2024 A WN = October 2024</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "fb05525c36b007d98cf3352937729ffd",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8b414baf792d8d4ad873e547c93fd4b9",
+        "text": "3 Deliverable Templates can be found on the SBHIP website which is available at: https://www.dhcs.ca.gov/services/Pages/studentbehavioralheathincentiveprogram.aspx.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "fb05525c36b007d98cf3352937729ffd",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "60a4548114795ef87fc951e832db1713",
+        "text": "ALL PLAN LETTER 23-035 Page 6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "dd192e60849c16cae1bb80e6d720dca7",
+        "text": "Funding Milestones Funding Allocation allocated to each Bi- Quarterly Report) DHCS Approval of Project Outcome Report \u201cStandard\u201d Project Plan Funding Allocation: 25 percent of remaining Targeted Intervention allocation \u201cOptional\u201d Accelerated Project Plan Funding Allocation: 20 percent of remaining Targeted Intervention allocation \u201cStandard\u201d and \u201cOptional\u201d Accelerated Project Plan Funding Distribution Date: 1. April 2025* *Note: October 2023 will be the final Bi-Quarterly Report funding distribution made to an exiting MCP. Exiting MCPs will complete a Project Outcome Report in lieu of the Bi-Quarterly Report due December 31, 2023. Exiting MCPs will receive funding for approved Project Outcome Report(s) in April 2024.",
+        "metadata": {
+            "text_as_html": "<table><thead><th>Funding Milestones</th><th>Funding Allocation</th><th>Funding Distribution Date(s)</th></thead><tr><td></td><td>allocated to each Bi- Quarterly Report)</td><td></td></tr><tr><td>DHCS Approval of Project Outcome Report</td><td>\u201cStandard\u201d Project Plan Funding Allocation: 25 percent of remaining Targeted Intervention allocation \u201cOptional\u201d Accelerated Project Plan Funding Allocation: 20 percent of remaining Targeted Intervention allocation</td><td>\u201cStandard\u201d and \u201cOptional\u201d Accelerated Project Plan Funding Distribution Date: 1 April 2025* *Note: October 2023 will be the final Bi-Quarterly Report funding distribution made to an exiting MCP. Exiting MCPs will complete a Project Outcome Report in lieu of the Bi-Quarterly Report due December 31, 2023. Exiting MCPs will receive funding for approved Project Outcome Report(s) in April 2024.</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "60a4548114795ef87fc951e832db1713",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "79ae75f332f9e028a717090da00a1cc7",
+        "text": "Funding Distribution Date(s) Standard Project Plan Funding Distribution Date: April 2023 (Project Plans submitted after June 1, 2022) Optional Accelerated Project Plan Funding Distribution Date: October 2022 (Project Plans submitted on or before June 1, 2022) Standard Project Plan Funding Distribution Dates: 1.October 2023* 2.April 2024 3.October 2024 Optional Accelerated Project Plan Funding Distribution Dates: 1.April 2023 2.October 2023* 3.April 2024 4.October 2024",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "60a4548114795ef87fc951e832db1713",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "fa66378d92549ff37f51ef687c0673a4",
+        "text": "DHCS Approval of Bi-Quarterly Report",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "60a4548114795ef87fc951e832db1713",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c4716746f46e8b0d2d1f6c44fe9168c9",
+        "text": "Requirements for Needs Assessment Funds The Needs Assessment funds were allocated based on the number of LEAs in each county and were further adjusted by the TK-12 Medi-Cal Member months per plan. The minimum amount allotted for each county was $225,000.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "fa66378d92549ff37f51ef687c0673a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3bc0c99f20c452edca5a088a83ba18f1",
+        "text": "To be eligible to receive full Needs Assessment funding, MCPs were required to demonstrate partnership with a minimum of ten percent of the LEAs in a county to conduct the Needs Assessment. In counties with more than one participating MCP, MCPs had the option to work together to collectively reach the ten percent LEA",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "fa66378d92549ff37f51ef687c0673a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "47f548fd0686a82698aadc3734f26508",
+        "text": "ALL PLAN LETTER 23-035 Page 7",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "fa66378d92549ff37f51ef687c0673a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f0f357f5ee80994b84492c139f793f4a",
+        "text": "minimum threshold for LEA partnership.4 MCPs were required to report LEA partners on both the Partners Form and in the Needs Assessment.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "fa66378d92549ff37f51ef687c0673a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3db0a50dc036524d2d6629161d3a8e6f",
+        "text": "Requirements for Targeted Intervention Funds The Targeted Intervention funds were allocated by county and MCP. The Targeted Intervention funding allocation was based on TK-12 Medi-Cal Member months, the number of unduplicated pupils by county, and other factors as appropriate. The funding allocations were not adjusted based on any changes in Medi-Cal Member month enrollment or other factors. The Targeted Intervention minimum allocation for each county was $500,000.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "fa66378d92549ff37f51ef687c0673a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5ec5a3282101e6da7a1d3b0b69ae8fab",
+        "text": "MCPs are required to implement a minimum number of Targeted Interventions, dependent upon their county\u2019s Targeted Intervention allocation. Targeted Intervention minimums were identified using the below methodology:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "fa66378d92549ff37f51ef687c0673a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8a0d47cd9f30b7270c68ee5c4cedcf3c",
+        "text": "Table 3. Minimum Targeted Intervention Assignment Methodology",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "fa66378d92549ff37f51ef687c0673a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "6c5dba32fba87eb4c9491bbb4479bae2",
+        "text": "Funding Allocation Minimum Targeted Interventions Counties allocated less than a quarter of a percent of the total statewide funding for SBHIP Counties allocated between a quarter of a percent to one half of a percent of the total statewide funding for SBHIP Counties allocated between a half of a percent to three quarters of a percent of the total statewide funding for SBHIP Counties allocated three quarters of a percent or more of the total statewide funding for SBHIP Minimum of one intervention Minimum of two interventions (minimum $500,000 per Targeted Intervention on average) Those counties that would receive less than $500,000 per intervention on average will be required to complete a minimum of one intervention. Minimum of three interventions (minimum $500,000 per Targeted Intervention on average) Those counties that would receive less than $500,000 per intervention on average will be required to complete a minimum of two interventions. Minimum of four interventions (minimum $500,000 per Targeted Intervention on average) Those counties that would receive less than $500,000 per intervention on average will be",
+        "metadata": {
+            "text_as_html": "<table><thead><th>Funding Allocation</th><th>mum Targeted Interventions</th></thead><tr><td>Counties allocated less than a quarter of a percent of the total statewide funding for SBHIP</td><td>Minimum of one intervention</td></tr><tr><td>Counties allocated between a quarter of a percent to one half of a percent of the total statewide funding for SBHIP</td><td>Minimum of two interventions (minimum $500,000 per Targeted Intervention on average) Those counties that would receive less than $500,000 per intervention on average will be required to complete a minimum of one intervention</td></tr><tr><td>Counties allocated between a half of a percent to three quarters of a percent of the total statewide funding for SBHIP</td><td>Minimum of three interventions (minimum $500,000 per Targeted Intervention on average) Those counties that would receive less than $500,000 per intervention on average will be required to complete a minimum of two interventions.</td></tr><tr><td>Counties allocated three quarters of a percent or more of the total statewide funding for SBHIP</td><td>Minimum of four interventions (minimum $500,000 per Targeted Intervention on average) Those counties that would receive less than $500,000 per intervention on average will be</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "fa66378d92549ff37f51ef687c0673a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2aaeb9328453f71f3a8271eae174b225",
+        "text": "4 The denominator for the 10 percent LEA minimum threshold is the total number of LEAs (i.e., School Districts) within a county, based on the Public Districts Data Files which are available at: https://www.cde.ca.gov/ds/si/ds/pubschls.asp.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "fa66378d92549ff37f51ef687c0673a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "a48179ea5f197cb2171165a92f5fbdb5",
+        "text": "ALL PLAN LETTER 23-035 Page 8",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "848b4322cac054a954d06b0b9fce126d",
+        "text": "Funding Allocation Minimum Targeted Interventions Counties allocated three quarters of a percent or more of the total statewide funding for SBHIP required to complete a minimum of three interventions.",
+        "metadata": {
+            "text_as_html": "<table><thead><th>Funding Allocation</th><th>Minimum Targeted Interventions</th></thead><tr><td></td><td>required to complete a minimum of three interventions.</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cfb5112eed68ee6c3c19ccda250b3944",
+        "text": "While Targeted Intervention minimums will be subject to DHCS review and approval, there may be an exception to the minimum number of Targeted Interventions based upon the number of existing gaps identified in the Needs Assessment. Minimum Targeted Interventions will still apply to each MCP participating in a county. MCPs may elect to collaborate on selected Targeted Interventions. If two or more MCPs coordinate to implement one Targeted Intervention, it will count toward each of their minimum requirements.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c807c4d3380c373a3e173d1a69c0f799",
+        "text": "DHCS has established parameters for the percentage of the funding allocation that may be earned for each Targeted Intervention, based on a county\u2019s minimum number of Targeted Interventions. Each MCP will be required to include the percentage of their maximum allocation to be attributed to each Targeted Intervention in their Project Plans (Milestone One). The percentage designation requirements by minimum number of Targeted Interventions are described in the table below.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "469bb464e68c37ef5be928458a79845c",
+        "text": "Table 4. Targeted Intervention Funding Allocation Parameters Minimum Targeted Interventions One Targeted Intervention Two Targeted Interventions Targeted Intervention Funding Allocation Parameters \u2022 MCPs may earn up to 100 percent of the maximum allocation for the Targeted Intervention. \u2022 MCPs may earn up to 20 percent of the maximum allocation for each Targeted Intervention. The remaining 60 percent may be earned for one additional Targeted Intervention or divided among the Targeted Interventions as deemed appropriate by the MCP. \u2022 Each Targeted Intervention is capped at 70 percent of the maximum allocated for that MCP. Three Targeted Interventions \u2022 MCPs may earn up to 20 percent of the maximum allocation for each Targeted Intervention. The remaining 40 percent may be earned for one additional Targeted Intervention or divided among the Targeted Interventions as deemed appropriate by the MCP. \u2022 Each Targeted Intervention is capped at 55 percent of the maximum allocated for that MCP.",
+        "metadata": {
+            "text_as_html": "<table><tr><td>Minimum Targeted Interventions</td><td>Targeted Intervention Funding Allocation Parameters</td></tr><tr><td>One Targeted Intervention</td><td>MCPs may earn up to 100 percent of the maximum allocation for the Targeted Intervention.</td></tr><tr><td>Targeted Interventions</td><td>MCPs may earn up to 20 percent of the maximum allocation for each Targeted Intervention. The remaining 60 percent may be earned for one additional Targeted Intervention or divided among the Targeted Interventions as deemed appropriate by the MCP. Each Targeted Intervention is capped at 70 percent of the maximum allocated for that MCP.</td></tr><tr><td>Three Targeted Interventions</td><td>MCPs may earn up to 20 percent of the maximum allocation for each Targeted Intervention. The remaining 40 percent may be earned for one additional Targeted Intervention or divided among the Targeted Interventions as deemed appropriate by the MCP. Each Targeted Intervention is capped at 55 percent of the maximum allocated for that MCP.</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "79da28fc840d9be8c3e47560381d1836",
+        "text": "ALL PLAN LETTER 23-035 Page 9",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "1c0aca41619cb93e4e179565a3b9139b",
+        "text": "Minimum Targeted Interventions Four Targeted Interventions Targeted Intervention Funding Allocation Parameters \u2022 MCPs may earn up to 20 percent of the maximum allocation for each Targeted Intervention. The remaining 20 percent may be earned for one additional Targeted Intervention or divided among the Targeted Interventions as deemed appropriate by the MCP. \u2022 Each Targeted Intervention is capped at 40 percent of the maximum allocated for that MCP",
+        "metadata": {
+            "text_as_html": "<table><tr><td>Minimum Targeted Interventions</td><td>Targeted Intervention Funding Allocation Parameters</td></tr><tr><td>Four Targeted Interventions</td><td>L] MCPs may earn up to 20 percent of the maximum allocation for each Targeted Intervention. The remaining 20 percent may be earned for one additional Targeted Intervention or divided among the Targeted Interventions as deemed appropriate by the MCP. Each Targeted Intervention is capped at 40 percent of the maximum allocated for that MCP</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ae924623569170f45f7daed5178c2fce",
+        "text": "Targeted Interventions MCPs may select from 14 SBHIP Targeted Intervention categories. The 14 categories are listed below, and additional details are available in the SBHIP Overview and Requirements document posted on the SBHIP website.5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "a2be638fb72fd8d1927c82db8fa4f109",
+        "text": "1. Behavioral Health Wellness Programs 2. Telehealth Infrastructure to Enable Services and/or Access to Technological",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "1a13f84867e7ad02b935610eed9702e6",
+        "text": "Equipment",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "6b48a8247efac91a0493580c954a3e65",
+        "text": "3. Behavioral Health Screenings and Referrals 4. Suicide Prevention Strategies 5. Substance Use Disorder 6. Building Stronger Partnerships to Increase Access to Medi-Cal Services 7. Culturally Appropriate and Targeted Populations 8. Behavioral Health Public Dashboards and Reporting 9. Technical Assistance Support for Contracts 10. Expand Behavioral Health Workforce 11. Care Teams 12. Information Technology (IT) Enhancements for Behavioral Health Services 13. Pregnant Students and Teen Parents 14. Parenting and Family Services",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a230b8cd05b3633dadd99208ca7577c1",
+        "text": "MCPs are expected to work with COEs and LEAs to implement the Targeted Interventions and encouraged to continue collaborating post-implementation. When partnering, MCPs must develop MOUs for:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e415acb631cf25c3ca0f87ab8215aace",
+        "text": "5 Descriptions of the 14 Targeted Intervention categories can be found on the SBHIP website in the \u201cSBHIP Overview and Requirements\u201d document which is available at: https://www.dhcs.ca.gov/services/Pages/studentbehavioralheathincentiveprogram.aspx.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4047a787594ef941cc9bd9c87c28925c",
+        "text": "ALL PLAN LETTER 23-035 Page 10",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "7c55209cc0ef362eac01214e127fde54",
+        "text": "Partnerships between MCPs, COEs, and LEAs \u2022 MCPs collaborating with other MCPs to implement SBHIP Targeted Interventions",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "c16d0fa07b7b651d773b262566c6de95",
+        "text": "within a county",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5ba94231a3785cf641361aebaa00fe4e",
+        "text": "MOUs are optional between MCPs and County Behavioral Health Departments. MOU elements for consideration can be found on the SBHIP website.6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "a12c2de0996df8c12b69efdbe8121891",
+        "text": "Program Measurement Performance in SBHIP is measured in two ways: Deliverable Scoring and Performance Outcome Metrics.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7cf96266265029a562e08dc904a25e7b",
+        "text": "Deliverable Scoring evaluates and scores four deliverables:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b0f758397334472ad24011a5748b0342",
+        "text": "Performance Outcome Metrics evaluate a Targeted Intervention\u2019s ability to increase access to behavioral health services for Medi-Cal Members.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cda2de076b1936e33f24311610865599",
+        "text": "Deliverable Scoring SBHIP has four comprehensive deliverables that will be evaluated and scored: (1) Needs Assessments, (2) Project Plans (Milestone One), (3) Bi-Quarterly Reports, and (4) Project Outcome Reports (Milestone Two). Not every item within the Needs Assessment, Project Plan, Bi-Quarterly Reports, or Project Outcome Report will be scored. Each deliverable will be independently evaluated using the scoring criteria in the table below. The table also indicates the maximum points available for each SBHIP deliverable and the percentage of points required to receive full funding. Additional information on the Deliverable Scoring methodology and funding thresholds can be found in the \u201cSBHIP Overview and Requirements\u201d document on the SBHIP Website.7",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b336bd12fbb8b2c3dd39fd876ad212fb",
+        "text": "6 Suggested MOU elements can be found on the SBHIP website in the \u201cSBHIP Memorandum of Understanding (MOU) Elements for Consideration\u201d document which is available at: https://www.dhcs.ca.gov/services/Pages/studentbehavioralheathincentiveprogram.aspx. 7 Descriptions of the Deliverable Scoring and Evaluation Criteria and funding thresholds can be found on the SBHIP website in the \u201cSBHIP Overview and Requirements\u201d document which is available at: https://www.dhcs.ca.gov/services/Pages/studentbehavioralheathincentiveprogram.aspx.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "276737704fdc76a2fad6a3120a030a2b",
+        "text": "1. Needs Assessment 2. Project Plans (Milestone One) 3. Bi-Quarterly Reports 4. Project Outcome Reports (Milestone Two)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "79da28fc840d9be8c3e47560381d1836",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b4aa5d34db3cf91b7545f1b41cf077cd",
+        "text": "ALL PLAN LETTER 23-035 Page 11",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7b4ced0a545dde6d327200e59cc6d17a",
+        "text": "Table 5. Deliverable Scoring and Evaluation Criteria",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "0dcabe835ea92988c41adf7665821094",
+        "text": "Deliverable Scoring and Evaluation Criteria Needs Assessment \u2022 35 points available \u2022 80 percent of points required to receive full funding 1. Narrative Evaluation Factors (35 points): a. Timeliness of Needs Assessment submission (1 point) b. Completion of the Needs Assessment (1 point) c. Stakeholder Meetings (1 point) d. COE Meeting (1 point) e. Needs Assessment Template which includes (19 points possible): i. Steps to select an LEA Partner (1 point) ii. Identification of the most frequent behavioral health need (1 point) iii. Data sources used to identify the most frequent behavioral health need (1 point) iv. Short term and long term actions to address the most frequent behavioral health need (2 points) v. Additional behavioral health needs (1 point) vi. Short term and long term actions to address any gaps in service delivery of behavioral health needs or services (2 points) vii. Identification of population-specific behavioral health disparities (1 point) viii. Short term and long term actions to address disparities in behavioral health needs or services (2 points) ix. Actions to improve the internal referral process (1 point) x. Actions to improve the external referral process (1 point) xi. Identification of current LEA behavioral health programs that could benefit from additional funding (1 point) xii. Identification of a behavioral health community resource that is not currently utilized by the LEA (1 point) xiii. Identification of LEA efforts to publicize",
+        "metadata": {
+            "text_as_html": "<table><thead><th>Deliverable</th><th>Scoring and Evaluation Criteria</th></thead></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "7b4ced0a545dde6d327200e59cc6d17a",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5de366fd06b932c06345ce519697c0c8",
+        "text": "behavioral health resources (3 points)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a7421a0e72a4893ab06250d8c7c031b5",
+        "text": "ALL PLAN LETTER 23-035 Page 12",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 12,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b8b36626982cd062a06d1e77e825af52",
+        "text": "Deliverable",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 12,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "95c72d0289978c67f8a6d686f01eb8c0",
+        "text": "Deliverable Scoring and Evaluation Criteria Needs Assessment \"35 points available \"80 percent of points required to receive full funding xiv. Percentage of behavioral health services provided via Telehealth (1 point) f. Data Collection Form (2 points): i. Relevant data sources (three minimum) (1 point) ii. Identification of targeted populations (at least 3 of the 6 required populations) (1 point) g. Resource Map \u2013 LEA (2 points) h. Resource Map \u2013 Community (2 points) i. LEA Direct Service Provider Template (2 points) j. Closed-Loop Referral Process LEA (2 points) k. Closed-Loop Referral Process Community (2 points) Project Plan (Milestone One) \u2022 11 points available \u2022 100 percent of points required to receive funding 1. Narrative Evaluation Factors (11 points): a. Completion of the Project Plan (1 point) b. Target Population (1 point) c. Rationale for the intervention (1 point) d. Impact of the intervention(s) on student access to behavioral health services (1 point) e. Impact of the intervention(s) for Medi-Cal Members (1 point) f. A minimum of two project measures (1 point maximum) g. Relationship between the intervention and the behavioral needs of students in the LEA (1 point) h. Project implementation approach and timeline (1 point) i. Plan for long-term sustainability of the intervention post SBHIP (1 point) j. Rationale for implementation intervention the LEA (1 point) k. Percent allocation of the SBHIP allocation (1 point) Bi-Quarterly Report \u2022 10 points available \u2022 100 percent of 1. Narrative Evaluation Factors (10 points): a. Documentation supporting Targeted Intervention progress made in reporting period (10 points)",
+        "metadata": {
+            "text_as_html": "<table><thead><th></th><th>xXT T oaQ</th><th>provided via Telehealth (1 point) Data Collection Form (2 points) 1 Relevant data sources (three minimum) (1 point) \n 1} Identification of targeted populations (at least 3 of the 6 required populations) (1 point) Resource Map \u2014 LEA (2 points) Resource Map \u2014 Community (2 points) LEA Direct Service Provider Template (2 points) Closed-Loop Referral Process LEA (2 points) Closed-Loop Referral Process Community (2 points)</th></thead><tr><td>Bi-Quarterly Report L] 10 points available L] 100 percent of points required to receive fundina</td><td>1 Narrative a.</td><td>Evaluation Factors (10 points): Documentation supporting Targeted Intervention progress made in reporting period (10 points)</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 12,
+            "parent_id": "b8b36626982cd062a06d1e77e825af52",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6f4ff61a53740e4d0cd14ad6026243e4",
+        "text": "points required to receive funding",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 12,
+            "parent_id": "b8b36626982cd062a06d1e77e825af52",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d7690b9a723045f87856ba4d7dc1a918",
+        "text": "ALL PLAN LETTER 23-035 Page 13",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 13,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "619e10c314b963509a19927bb1959322",
+        "text": "Deliverable Scoring and Evaluation Criteria Project Outcome Report (Milestone Two) \u2022 35 points available \u2022 80 percent of points required to receive full funding 1. Narrative Evaluation Factors (35 points): a. Baseline and post-implementation data (3 points) b. Intervention implementation (5 points) c. Performance measures and outcome metrics (20 points) d. Challenging tasks related to implementing the intervention(s) (1 point) e. Impact of the intervention(s) on student access to behavioral health services (2 points) f. Future opportunities for the intervention(s) (1 point) g. Successes related to the intervention(s) (1 point) h. Plan for sustaining intervention(s) post SBHIP (1 point) i. SBHIP-related MOUs or other agreements (1 point)",
+        "metadata": {
+            "text_as_html": "<table><thead><th>Deliverable</th><th>Scoring and Evaluation Criteria</th></thead></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 13,
+            "parent_id": "d7690b9a723045f87856ba4d7dc1a918",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5a512a014c930d8add12b72a016d693b",
+        "text": "Deliverable scores determine whether an MCP will receive Needs Assessment or Targeted Intervention allocations. The table below indicates the aggregate scoring matrix used to evaluate the collective scores for each SBHIP deliverable (Needs Assessment, Project Plan, Bi-Quarterly Report, and the Project Outcome Report). If the deliverable receives an aggregate initial score below the required threshold (80 percent or 100 percent), DHCS will contact the MCP and provide an opportunity to revise and re-submit the deliverable within an appropriately established timeframe.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 13,
+            "parent_id": "d7690b9a723045f87856ba4d7dc1a918",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "24ae4ce1df5c0ced3f5c7aadb375c2b1",
+        "text": "Table 6. SBHIP Deliverable Payment Thresholds",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 13,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "9421fe62ae0b606b75beeb1999a691d2",
+        "text": "Deliverable Threshold SBHIP Payment Needs Assessment Package Project Plan (Milestone One) 0\u201379 percent of available points for the deliverable 80\u2013100 percent of available points for the deliverable 0\u201399 percent of available points for the deliverable 100 percent of available points for deliverable Partial Payment Issued Full Payment Issued No Payment Issued* Interim Payment Issued Bi-Quarterly Report 0\u201399 percent of available points for the deliverable No Interim Payment Issued (Bi-quarterly report funding allocation percentage will be",
+        "metadata": {
+            "text_as_html": "<table><thead><th>Deliverable</th><th>Threshold</th><th>SBHIP Payment</th></thead><tr><td rowspan=\"2\">Needs Assessment Package</td><td>0-79 percent of available points for the deliverable</td><td>Partial Payment Issued</td></tr><tr><td></td><td>80-100 percent of available points for the deliverable</td><td>Full Payment Issued</td></tr><tr><td rowspan=\"2\">Project Plan (Milestone One)</td><td>0-99 percent of available points for the deliverable</td><td>No Payment Issued*</td></tr><tr><td></td><td>100 percent of available points for deliverable</td><td>Interim Payment Issued</td></tr><tr><td>Bi-Quarterly Report</td><td>0-99 percent of available points for the deliverable</td><td>No Interim Payment Issued (Bi-quarterly report funding allocation percentage will be</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 13,
+            "parent_id": "24ae4ce1df5c0ced3f5c7aadb375c2b1",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4b345f0a8dd4be72a5458245bc541a11",
+        "text": "ALL PLAN LETTER 23-035 Page 14",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "24ae4ce1df5c0ced3f5c7aadb375c2b1",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "2523ad529f1080f6550baff2a0fb2df2",
+        "text": "Deliverable Threshold SBHIP Payment 099 percent of available points for the deliverable deducted from total Targeted Intervention funding amount) Project Outcome Report (Milestone Two) Project Outcome Report (Milestone Two) Project Outcome Report (Milestone Two) 100 percent of available points for deliverable 0\u201379 percent of available points for the deliverable 80\u2013100 percent of available points for the deliverable Interim Payment Issued Partial Payment Issued Full Payment Issued",
+        "metadata": {
+            "text_as_html": "<table><thead><th>Deliverable</th><th>Threshold</th><th>SBHIP Payment</th></thead><tr><td></td><td>0\u001399 percent of available points for the deliverable</td><td>deducted from total Targeted Intervention funding amount)</td></tr><tr><td></td><td>100 percent of available points for deliverable</td><td>Interim Payment Issued</td></tr><tr><td>Project Outcome</td><td>0-79 percent of available points for the deliverable</td><td>Partial Payment Issued</td></tr><tr><td>Report (Milestone Two)</td><td>80-100 percent of available points for the deliverable</td><td>Full Payment Issued</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "24ae4ce1df5c0ced3f5c7aadb375c2b1",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d186efc718da4075c71532d3bda34407",
+        "text": "Bi-Quarterly Report",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d186efc718da4075c71532d3bda34407",
+        "text": "Bi-Quarterly Report",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "de2ce7f8d2a35a6cc3e7cd6f0441bcab",
+        "text": "*Prerequisite for continued participation was not achieved and no payment will be triggered to implement the selected intervention.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "d186efc718da4075c71532d3bda34407",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4bf71a3bfb6be1a4b5f1c6f3c899ced8",
+        "text": "Needs Assessment Package submissions and Project Outcome Report (Milestone Two) submissions that receive a final score below 80 percent will not receive full funding for that deliverable. In those cases, the score received for the submission will inform the calculation for payment. (For example, if the score is 70 percent for the Project Outcome Report (Milestone Two), the incentive payment for Project Outcome Report (Milestone Two) would be 70/80 multiplied by the remaining Targeted Intervention allocation amount).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "d186efc718da4075c71532d3bda34407",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "aaa749cae5cffb592f7e08d35d498807",
+        "text": "The SBHIP Project Plan (Milestone One) and Bi-Quarterly Report deliverables that receive a final score below 100 percent will not trigger an interim payment for that specific intervention.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "d186efc718da4075c71532d3bda34407",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1a084ab381f511bb423603b311e93279",
+        "text": "Performance Outcome Metrics MCPs will be required to select one of two Performance Outcome Metrics for each Targeted Intervention. Performance Outcome Metrics include:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "d186efc718da4075c71532d3bda34407",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "e8df732b6cdda71cbdfb7c05f722d5af",
+        "text": "\u2022 Performance Outcome Metric #1: Increase access to behavioral health services (capacity, infrastructure, sustainability, behavioral health service) for Medi-Cal Members on or near campus",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "d186efc718da4075c71532d3bda34407",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "66e10fca099cbc5c5c2211f1d5efb7ea",
+        "text": "\u2022 Performance Outcome Metric #2: Increase access to behavioral health services (capacity, infrastructure, sustainability, behavioral health service) for Medi-Cal Members provided by school-affiliated behavioral health providers",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "d186efc718da4075c71532d3bda34407",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8d673e67694c981fb62f8a65a1680f3f",
+        "text": "While the Performance Outcome Metrics have been established by DHCS, MCPs will have flexibility to determine what Performance Measures they will use to demonstrate achievement of the selected Performance Outcome Metric. MCPs, in collaboration with selected partners, will be required to select two distinct Performance Measures to",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 14,
+            "parent_id": "d186efc718da4075c71532d3bda34407",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "4f10a8ac8dabc7024f9bc66eb01611a3",
+        "text": "ALL PLAN LETTER 23-035 Page 15",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "71b54e31ae82941fe84ef4ada697368b",
+        "text": "demonstrate achievement of the Performance Outcome Metric. Examples of Performance Measures may include but are not limited to:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "4f10a8ac8dabc7024f9bc66eb01611a3",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "20f86bcc449f04ba6730f3b0e838880b",
+        "text": "Number of students attending a suicide prevention program \u2022 Number of behavioral health Telehealth services provided \u2022 Number of behavioral health providers \u2022 Number of Care Team members \u2022 Number of behavioral health staff trainings \u2022 Number of students attending behavioral health trainings \u2022 Frequency of behavioral health presentations, and \u2022 Number of Behavioral Health Wellness rooms",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "4f10a8ac8dabc7024f9bc66eb01611a3",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c3154526b5e81bc2b2d785e1fbb2e251",
+        "text": "Supporting details for the Performance Measures are requested as part of the Project Plan (Milestone One) and the Project Outcome Report (Milestone Two).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "4f10a8ac8dabc7024f9bc66eb01611a3",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6a5d96829de3b253244e1a6b0a5b991c",
+        "text": "Calendar Year 2024 Transition",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "a48179ea5f197cb2171165a92f5fbdb5",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "82ba895a5b914545cd8ea4dd41cc3a58",
+        "text": "Calendar Year 2024 Transition On January 1, 2024, the MCP landscape in California counties will be affected by county model changes, DHCS\u2019 Calendar Year (CY) 2024 direct contract between DHCS and MCPs including with Kaiser Foundation Health Plan. Due to the shift in MCPs, all MCPs, including all who are participating in SBHIP will be required to develop a plan for the transition of SBHIP responsibilities to ensure the continuity and success of the program in their respective county.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "34d864960211d2ddc5850c62c30bfddd",
+        "text": "The assumption of additional responsibilities and commitment to the continued implementation and sustaining of selected Targeted Intervention(s) by the remaining and/or incoming MCP(s) is voluntary. The Transition Plan consists of two separate deliverables and should be completed in collaboration with all of the participating Medi- Cal MCPs in a county.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1206d7a59fa70baa687dc7776124fcb3",
+        "text": "Counties that do not have transitioning MCPs contracted with DHCS effective January 2024 are not required to submit a Transition Plan.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "31756eac5ecba29d53826f3a4d545746",
+        "text": "Transition Plan Part 1 (Due June 30, 2023) All exiting MCPs, and participating remaining and incoming MCPs, were to complete the SBHIP Transition Plan Acknowledgement to certify their commitment to collaborate and sustain the selected Targeted Intervention(s) through December 31, 2024.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a177c7680763b18be8e8a52b42733040",
+        "text": "Transition Plan Part 2 (Due September 29, 2023) For counties in which MCP(s) will be transitioning in 2024, exiting and incoming MCPs must work in partnership to submit a Transition Plan for the county. The Transition Plan will require an in-depth description of how the incoming MCP(s) will sustain the selected",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 15,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4f44e29f076ac4365f5e9b7825e1fc2d",
+        "text": "ALL PLAN LETTER 23-035 Page 16",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 16,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "808595ddeffc593fd2b9363c6779692d",
+        "text": "interventions through December 31, 2024. Further details regarding Transition Plan Part 2 requirements will be published at a future date.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 16,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "119e55824b547ad83a5f9ffe9460a9c1",
+        "text": "An exiting MCP\u2019s CY 2024 funding will be redistributed and based upon the proportion of the exiting MCP\u2019s membership assumed by the remaining and/or incoming MCP(s). If, in a county, there are no remaining MCPs and only one incoming MCP, then the exiting MCP's CY 2024 funding will be re-allocated fully to the sole incoming MCP. If there are multiple remaining and/or incoming MCPs in a county, then the exiting MCP's CY 2024 funding will be re-allocated amongst the MCPs and will be based upon the percentage of the exiting MCP\u2019s CY 2024 membership assumed by the remaining and/or incoming MCP(s).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 16,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "231c5f197f8a3d520c3b059455066bb5",
+        "text": "In Quarter 1 of CY 2024, DHCS will provide remaining and/or incoming MCPs with preliminary payment amounts based on estimated enrollment. MCP\u2019s CY 2024 funding amounts will be finalized in Quarter 2.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 16,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5ffd5f0aeffd4b9c38757d07aed4a292",
+        "text": "DHCS Program Oversight: DHCS will monitor the timeliness of MCP submissions, as well as the content of the deliverables, and request revisions for incomplete submissions, as needed. MCPs must submit deliverables to the SBHIP mailbox (sbhip@dhcs.ca.gov). DHCS will send confirmation of approved submissions, as well as revision requests for incomplete or inadequate submissions, to MCPs electronically. DHCS does not expect MCPs to submit budgetary information to DHCS.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 16,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9a17c6a6ae53129e567bd3c31c6c4a62",
+        "text": "MCPs must review their contractually required policies and procedures (P&Ps) to determine if amendments are needed to comply with this APL. If the requirements contained in this APL, including any updates or revisions to this APL, necessitate a change in an MCP\u2019s contractually required P&Ps, the MCP must submit its updated P&Ps to its Managed Care Operations Division (MCOD) Contract Manager within 90 days of the release of this APL. If an MCP determines that no changes to its P&Ps are necessary, the MCP must submit an email confirmation to its MCOD Contract Manager within 90 days of the release of this APL, stating that the MCP\u2019s P&Ps have been reviewed and no changes are necessary. The email confirmation must include the title of this APL as well as the applicable APL release date in the subject line.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 16,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c60fce44bc798c7bc378e8153c92e71e",
+        "text": "MCPs are further responsible for ensuring that their Subcontractors and Network Providers comply with all applicable state and federal laws and regulations, Contract requirements, and other DHCS guidance, including APLs and Policy Letters.8 These requirements must be communicated by each MCP to all Subcontractors and Network",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 16,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2fd5088ca9411f809c1c0d610e250657",
+        "text": "8 For more information on Subcontractors and Network Providers, including the definition and applicable requirements, see APL 19-001, and any subsequent APLs on this topic.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 16,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "33535cc0c1fa6d3d5e0d4f2a92158ea6",
+        "text": "ALL PLAN LETTER 23-035 Page 17",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 17,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0bbb6b5bff8c1da6127a250ccdaa284c",
+        "text": "Providers. DHCS may impose corrective action plans (CAP), as well as administrative and/or monetary sanctions for non-compliance. For additional information regarding administrative and monetary sanctions, see APL 23-012, and any subsequent iterations on this topic. Any failure to meet the requirements of this APL may result in a CAP and subsequent sanctions.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 17,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3812a1f5b0f6cf7846e6667653304f77",
+        "text": "If you have any questions regarding this APL, please contact the SBHIP mailbox at sbhip@dhcs.ca.gov.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 17,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6bdc1750327e452bb8e31e06bbc5671e",
+        "text": "Sincerely,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 17,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e2b8ac2b6479184953433c09c9bdf14d",
+        "text": "Original Signed by Dana Durham",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 17,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d45f6ae1420f7e4c0ddb213be38892df",
+        "text": "Dana Durham, Chief Managed Care Quality and Monitoring Division",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 17,
+            "parent_id": "6a5d96829de3b253244e1a6b0a5b991c",
+            "filename": "apl.pdf"
+        }
+    }
+]

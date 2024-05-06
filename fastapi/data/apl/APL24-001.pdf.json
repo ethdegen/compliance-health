@@ -1,0 +1,833 @@
+[
+    {
+        "type": "Image",
+        "element_id": "0ec4e9d136ef2d94f98bda23b319b08c",
+        "text": "PHCS CALIFORNIA DEPARTMENT OF HEALTH CARE SERVICES Michelle Baass | Director",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "a807f216647b923267d2a1174c19dbb7",
+        "text": "DATE: January 12, 2024",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "774a36ac2724de9c8ddfdf8f38ec5ed1",
+        "text": "ALL PLAN LETTER 24-001 SUPERSEDES ALL PLAN LETTER 22-023",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2b2272f3dbf84c08c27f746f2ed919f7",
+        "text": "TO: ALL MEDI-CAL MANAGED CARE PLANS",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "facd9219a6d525e05c5d716202bcd34f",
+        "text": "SUBJECT: STREET MEDICINE PROVIDER: DEFINITIONS AND PARTICIPATION IN MANAGED CARE",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "791165f37a66b5fc3e0cd6f5a8c8430a",
+        "text": "PURPOSE: The purpose of this All Plan Letter (APL) is to provide guidance to Medi-Cal managed care plans (MCPs) on opportunities to utilize street medicine providers to address clinical and non-clinical needs of their Medi-Cal Members experiencing unsheltered homelessness.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2638086c69a7bacc51536f105bd8ccc5",
+        "text": "BACKGROUND AND DEFINITION: Street medicine refers to a set of health and social services developed specifically to address the unique needs and circumstances of individuals experiencing unsheltered homelessness, delivered directly to them in their own environment. The fundamental approach of street medicine is to engage people experiencing unsheltered homelessness exactly where they are and on their own terms to maximally reduce or eliminate barriers to care access and follow-through.1 Typically, and for the purposes of this APL, street medicine is provided to an individual experiencing unsheltered homelessness in their lived environment, places that are not intended for human habitation. Health care services provided at shelters, mobile units/recreational vehicles (RV), or other sites with a fixed, specified location does not qualify as street medicine, it is considered mobile medicine, as it requires people experiencing unsheltered homelessness to visit a health care provider at the provider\u2019s fixed, specified location. Please note that mobile units/RVs that go to the individual experiencing unsheltered homelessness in their lived environment (\u201con the street\u201d) is considered street medicine.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3744e94051b3c65379b68b2beb4bb4ac",
+        "text": "Street medicine directly aligns with California Advancing and Innovating Medi-Cal\u2019s (CalAIM) primary goal to identify and manage comprehensive needs through whole person care approaches and social drivers of health. Street medicine offers an opportunity to provide needed services to individuals who are experiencing unsheltered homelessness by meeting them where they are and utilizing a whole person, patient- centered approach to provide Medically Necessary health care services, as well as address social drivers of health that impede health care access. The Department of",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b3d2d17a2a54c5faa16c5eeaaeacd0ea",
+        "text": "1 Street Medicine Institute: https://www.streetmedicine.org/.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+        "text": "California Department of Health Care Services",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2f7f1daf1316223c504805017dc6c161",
+        "text": "California Department of Health Care Services Managed Care Quality and Monitoring Division 1501 Capitol Avenue, P.O. Box 997413 Sacramento, CA | 95899-7413 MS 4410 | Phone (916) 449-5000 | www.dhcs.ca.gov",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "6c179f21e6f62b629055d8ab40f454ed",
+        "text": "  ",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7390a41b729af1f937365d109a7189be",
+        "text": "State of California Gavin Newsom, Governor",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ba0c0c6b4acbc157e578eab414ad0dc3",
+        "text": "California Health and Human Services Agency",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6b0d50d4e159d8cb9c040572da00da49",
+        "text": "ALL PLAN LETTER 24-001 Page 2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "59c881c7f5dd53461d0d5ae28516254a",
+        "text": "Health Care Services (DHCS) considers street medicine to be a harm reduction tool and integral to avoiding an emergency department visit or hospitalization, providing access to Medically Necessary health care services, and connecting MCP Members to Community Supports that they may not otherwise access. DHCS recognizes the benefit that street medicine can provide, and with this in mind, encourages MCPs to adopt requirements for street medicine providers that allow for maximum provider participation while maintaining high quality care. It is DHCS\u2019 responsibility to ensure that access, quality, and equity of care is provided to all Medi-Cal beneficiaries. DHCS recognizes that providers of varying types may choose not to participate in the Medi-Cal program for a variety of reasons. DHCS strongly encourages all street medicine providers to consider participating in the Medi-Cal program to further elevate and innovate street medicine. Additionally, although mobile medicine does provide health and social services to individuals experiencing homelessness, DHCS envisions and expects the majority of these services provided to individuals experiencing unsheltered homelessness to be delivered in their lived environment via street medicine.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8cc187c8e0a85fab7a7cbbe448d280f7",
+        "text": "POLICY: MCPs may cover the provision of medical services for their Members experiencing unsheltered homelessness through street medicine providers in the role of the Member\u2019s assigned Primary Care Provider (PCP), through a direct contract with the MCP, as an ECM Provider, as a Community Supports Provider, or as a referring or treating contracted Provider. Since utilization of street medicine providers is voluntary for MCPs, there is no required effective start date for the operations of an MCP street medicine program. MCPs may operate a street medicine program once it has fulfilled all requirements as outlined in this APL and/or other guidance and as approved by DHCS. DHCS does not require a street medicine provider to be affiliated with a brick-and- mortar facility, and has outlined various provisions under each scenario below. DHCS does not prescribe any particular contracting type for MCPs and street medicine providers.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8c67c311a77f35a4a8b938094d69a2b9",
+        "text": "Street Medicine Provider as a Member\u2019s Assigned PCP",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "319b12f7e168b5c75db08fa3e01d800b",
+        "text": "Street Medicine Provider as a Member\u2019s Assigned PCP Street medicine provider refers to a licensed medical provider (e.g., Doctor of Medicine (MD)/Doctor of Osteopathic Medicine (DO), Physician Assistant (PA), Nurse Practitioner (NP), Certified Nurse Midwife (CNM)) who conducts patient visits outside of the four walls of clinics or hospitals and directly on the street, in environments where unsheltered individuals may be (such as those living in a car, RV, abandoned building, or other outdoor areas). For a non-physician medical practitioner (PA, NP, and CNM), MCPs must ensure compliance with state law and Contract requirements regarding",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "parent_id": "8c67c311a77f35a4a8b938094d69a2b9",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "e6107d350b5006ee7fbf93a37b715cbc",
+        "text": "ALL PLAN LETTER 24-001 Page 3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3768ba51b495de387eb2ceff6a435f9f",
+        "text": "physician supervision of non-physician medical practitioners.2 Additionally, given the unique and specialized nature of street medicine, a supervising Physician must be a practicing street medicine provider, with knowledge of and experience in street medicine clinical guidelines and protocols. Contracted street medicine Providers may choose to serve as the Member\u2019s assigned PCP upon Member election, similar to how Obstetrician-Gynecologist (OB/GYN) Providers can elect to serve as PCPs. In order to serve as a PCP, the street medicine Provider must meet the MCP\u2019s eligibility criteria for being a PCP, be qualified and capable of treating the full range of health care issues served by PCPs within their scope of practice, and agree to serve in a PCP role. Street medicine Providers, when elected by Members to act as their assigned PCP, are responsible for providing the full array of Primary Care services, including but not limited to, preventive services, and the treatment of acute and chronic conditions. Thus, street medicine Providers who choose to act as a Member\u2019s assigned PCP must agree to provide the essential components of the Medical Home in order to provide comprehensive and continuous medical care, including but not limited to:3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "d3f9cc94ac36104a9dfa1c038b759c6d",
+        "text": "Basic Population Health Management; \u2022 Care coordination and health promotion; \u2022 Support for Members, their families, and their authorized representatives; \u2022 Referral to Specialists, including behavioral health, community, and social",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "724a67f02283573e174943f235d57bc4",
+        "text": "support services, when needed;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "aa53056569fd8308924cbc64d6e4d056",
+        "text": "\u2022 The use of Health Information Technology to link services, as feasible and appropriate; and",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "5fbf2ddc1d1eebec99eb71604099bb76",
+        "text": "\u2022 Provision of primary and preventative services to assigned Members.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "880abe71fa729e1860b3f396d015d90d",
+        "text": "If the street medicine Provider does not have the capability to provide Primary Care services on the street, the street medicine Provider must be affiliated with a brick-and- mortar facility (e.g., primary care medical office, Federally Qualified Health Center (FQHC), clinic, etc.). In this case, MCPs must assign Members to the affiliated brick- and-mortar facility to which the street medicine Provider is affiliated. MCPs may assign their Members to the street medicine Provider as the assigned PCP directly, or to the street medicine Provider\u2019s affiliated brick-and-mortar location, but must make clear the Member\u2019s care is being overseen by a street medicine Provider PCP.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "da2e7d8c0e87ff3fad8d2a1c1e6a3c55",
+        "text": "If the street medicine Provider is willing to serve in the Member\u2019s assigned PCP capacity, the MCP is responsible for enrolling and credentialing the street medicine",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "82c3a4a1a618cb34d479d4c8221e0ab8",
+        "text": "2 See Sections 51240 and 51241 of Title 22 of the California Code of Regulations (CCR); Sections 3516, 2836.1, and 2507 of the California Business and Professions Code (B&P); and the MCP Contract. The CCR is searchable at: https://govt.westlaw.com/calregs/Search/Index. State law is searchable at: https://leginfo.legislature.ca.gov/faces/codes.xhtml. 3 See the MCP Contract Exhibit A, Attachment I, 1.0 Definitions, Medical Home.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "05a7cede70f14fce1760247323d3109d",
+        "text": "ALL PLAN LETTER 24-001 Page 4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "079738ae7e11a4c60e1a988d00c7de82",
+        "text": "Provider, in accordance with APL 22-013: Provider Credentialing/Re-Credentialing and Screening/Enrollment.4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c5f89ae4e3846f071db0a50461c6dc31",
+        "text": "Site Review and Medical Record Review Requirements Street medicine Providers who are serving in an assigned PCP capacity are required to undergo the appropriate level of site review process, which is either a full or a condensed review.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "8bcea8b4d5179c13c4f85b4bb103c946",
+        "text": "\u2022 For street medicine Providers serving as an assigned PCP, and that are affiliated with a brick-and-mortar facility or that operate a mobile unit/RV, the MCP must conduct the full review process of the street medicine Provider and affiliated facility in accordance with APL 22-017: Primary Care Provider Site Reviews: Facility Site Review and Medical Record Review.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "cc11459ddadf15628365e1f5740f34f1",
+        "text": "affiliated with a brick-and-mortar facility or mobile unit/RV, the MCP must conduct a condensed Facility Site Review (FSR) and Medical Record Review (MRR) of the street medicine Provider to ensure Member safety. The requirements for the condensed FSR and MRR that MCPs must adhere to as part of their review processes is forthcoming, and will be limited to FSR and MRR requirements that would apply only to a street medicine Provider under this scenario. The condensed FSR and MRR requirements will be based on and reflective of the full FSR and MRR requirements as outlined in APL 22-017.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bc446ab8020d8ca0e9f57ed3a60abb71",
+        "text": "MCPs that use street medicine Providers as PCPs must develop and maintain protocols for identifying and transferring Members to a higher level of care if needed when the Member\u2019s service needs are beyond the capabilities and/or qualifications of the street medicine Provider. MCPs must ensure protocols include providing access to urgent and emergency care, specialty care, mental health and substance use disorder treatment, ancillary services, and appropriate Non-Emergency Medical and Non-Medical Transportation services. MCPs must also ensure their street medicine protocols allow for expeditious referrals to ECM and Community Supports.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "09afaa94eaa4713415474f957f3cad07",
+        "text": "Process for Street Medicine Provider to Become Member\u2019s Assigned PCP If an MCP has street medicine Providers willing to serve in a PCP capacity, MCPs must inform Members through the Member Handbook that contracted street medicine Providers may be elected to be the Member\u2019s assigned PCP so that the Member and the street medicine Provider can discuss whether this arrangement is appropriate. Additionally, MCPs may distribute population-specific communications about their street",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "e6107d350b5006ee7fbf93a37b715cbc",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Footer",
+        "element_id": "76250953d282171f7f518a57a6a17814",
+        "text": "4 APLs can be found at: https://www.dhcs.ca.gov/formsandpubs/Pages/AllPlanLetters.aspx.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "1af9ce64927f935add031d1a39ca6034",
+        "text": "ALL PLAN LETTER 24-001 Page 5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "455c7e98c64fa060de74ca1558c3d7dd",
+        "text": "medicine program (pamphlets, brochures, fact sheets, etc.) approved through the DHCS file and use process. Street medicine Providers are advised to assess and examine the level and quality of the establishment of the treatment relationship at the time of initial engagement when considering an agreement to be a Member\u2019s assigned PCP, as DHCS envisions dynamic and exceptional Provider-Member patient interactions. Street medicine Providers should also be committed in ensuring that the Member patient is transferred to another PCP in a timely manner in the event the street medicine Provider is no longer able or willing to serve as the assigned PCP. If the street medicine Provider is willing to be the Member\u2019s assigned PCP, the street medicine Provider must initiate the request via telephone call to the MCP with the Member on the line, and both parties must confirm to the MCP the Member\u2019s choice in selecting the street medicine Provider to be their assigned PCP. DHCS encourages MCPs to establish a streamlined PCP assignment process for street medicine Providers. MCPs must make clear that the street medicine Provider is the Member\u2019s assigned PCP or is overseeing the Member\u2019s care. MCPs must inform street medicine Providers of PCP responsibilities, as well as credentialing and review requirements, as applicable.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a66f2eeb6a7c9aa7c7d6f735b9232c88",
+        "text": "Provider Enrollment and Credentialing MCP Network Providers, including street medicine Providers, are required to enroll as a Medi-Cal Provider if there is a state-level enrollment pathway for them to do so.5 The credentialing requirements outlined in APL 22-013 only apply to street medicine providers with a state-level pathway for Medi-Cal enrollment. If there is not a state-level enrollment pathway, the street medicine provider is not required to meet the credentialing requirements in APL 22-013 in order to become an \u201cin-network\u201d Provider. To include street medicine Providers in their Networks when there is no state-level Medi-Cal enrollment pathway, MCPs are required to vet the qualifications of the street medicine Provider to ensure they can meet the MCP\u2019s standards of participation, similar to the credentialing process and requirements mentioned above. MCPs must create and implement their own processes to do this. Criteria that MCPs may want to consider as part of their vetting processes include, but is not limited to:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "37545139f64e915454730632c1c2faa1",
+        "text": "Sufficient experience providing similar services within the service area; \u2022 Ability to submit claims or invoices using standardized protocols; \u2022 Business licensing that meets industry standards; \u2022 Capability to comply with all reporting and oversight requirements; \u2022 History of fraud, waste, and/or abuse; \u2022 Recent history of criminal activity, including a history of criminal activities that",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "edc64a83120308dab055d3cf9fd53b1a",
+        "text": "5 See APL 22-013: Frequently Asked Questions at: https://www.dhcs.ca.gov/formsandpubs/Documents/MMCDAPLsandPolicyLetters/APL2022/APL 22-013-FAQ.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bfed55d5b167f287c625eb2f4b3d4e4f",
+        "text": "ALL PLAN LETTER 24-001 Page 6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f6342f1ee48cad2d1af70c04d884125a",
+        "text": "endanger Members and/or their families; and \u2022 History of liability claims against the provider.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "318698cb9eb0c824729add6910694376",
+        "text": "Access Requirements Street medicine Providers elected as a Member\u2019s assigned PCP are exempt from PCP time and distance standards as the Member does not have a permanent residential address and the street medicine Provider is meeting the Member at their lived environment. Further, MCPs are not expected to contract with street medicine Providers in order to meet time and distance standards as part of Annual Network Certification requirements. Additionally, the Service Location requirement for PCPs, as specified in the MCP Contract, is not applicable to street medicine Providers serving as PCPs, as these street medicine Providers are not rendering services at a brick-and-mortar location. MCPs must submit Policies and Procedures (P&Ps) detailing at a minimum: 1) process for street medicine Providers to contract with the MCP as a PCP, if desired, and not requiring contracted street medicine Providers to be PCPs; 2) process to ensure timely access to traditional PCPs and Specialists in the MCP\u2019s Network; and 3) process to provide transportation to a traditional PCP that is outside of time or distance standards, upon the Member\u2019s request.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "72b84f008b6ebee8741804afbb55f261",
+        "text": "Direct Contracting Arrangement To facilitate direct access, DHCS encourages MCPs to contract directly with street medicine Providers. Even if the MCP delegates the provision of health care services to a Subcontractor, MCPs have an option to directly contract with street medicine Providers. Direct contracts with street medicine Providers can allow ready access to health care services for individuals experiencing unsheltered homelessness and would reduce contracting complexity for street medicine Providers. For example, rather than having to contract with each subcontracted Independent Physician/Provider Association (IPA) in the MCP\u2019s Network, the street medicine Provider could directly contract with the MCP. In addition, the street medicine Provider would be subject to the same MCP administrative processes (e.g., billing protocols, credentialing requirements, authorization guidelines, etc.) rather than multiple processes and requirements under each subcontracting entity. The payment arrangement would be between the MCP and the street medicine Provider. Moreover, Prior Authorization to see a street medicine Provider would not be needed if the Member seeks services directly from a street medicine Provider related to the Member\u2019s primary care. This means that an MCP- contracted street medicine Provider, that meets all MCP-required administrative processes, could provide services to an MCP Member and receive payment for those services, even if the Member is assigned to a Subcontractor, such as a medical group or IPA.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2752b2fed98b5d22f43b088d47f6b69b",
+        "text": "ALL PLAN LETTER 24-001 Page 7",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "43ae010e47c33df3fb557cb68956a99c",
+        "text": "Under a direct contracting arrangement, the street medicine Provider must have the ability to refer Members to Medically Necessary Covered Services within the proper MCP network, and must coordinate care with the MCP, Subcontractor, and/or IPA as appropriate. MCPs would need to ensure Members have access to all Medically Necessary Covered Services and have appropriate referral and authorization mechanisms in place to facilitate access to needed services in the MCP\u2019s Network.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2a265a68ec3a65179343321ffe58da1c",
+        "text": "Street Medicine Provider as an ECM Provider",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3ec573c61a0c57079035876ea4180324",
+        "text": "Street Medicine Provider as an ECM Provider ECM is delivered primarily by community-based ECM Providers that enter into contracts with MCPs. MCPs may contract with street medicine Providers to become an ECM Provider. A street medicine Provider can be contracted to provide both PCP and ECM services to a Member. ECM is primarily in-person based, and as such, ECM Providers are poised to build trust and facilitate coordinated care management with individuals experiencing unsheltered homelessness. Street medicine Providers that are also ECM Providers are required to enroll in Medi-Cal if there is a state-level enrollment pathway; fulfill all ECM requirements; have the capacity to provide culturally appropriate and timely in-person care management activities; and have formal agreements, data systems, and processes in place with entities across sectors to support care coordination and care management.6 MCPs are responsible for ensuring non- duplication of services provided through ECM and any other covered benefit, program, and/or delivery system.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0a0ea6893c0b4af89412fb48a099ef08",
+        "text": "Street Medicine Providers Serving Solely as Referring or Treating Contracted Provider The contracted street medicine Provider has the right to decline the additional responsibilities of an assigned PCP, and instead, care for Members in a non-PCP capacity as a referring or treating contracted Provider working with individuals experiencing unsheltered homelessness. To provide care in this capacity, street medicine Providers must have processes in place to work with the MCP, the Member\u2019s PCP, and ECM Care Manager to ensure the Member has referrals to primary care, Community Supports, behavioral health services, and other social services as needed. Street medicine Providers in this capacity need to be communicative about and responsive to care coordination and monitoring activities with other care service entities.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f7f50af5d45a4ed655f61655e6d7553d",
+        "text": "6 The Enhanced Care Management and Community Supports Provider Standard Terms and Conditions (see: https://www.dhcs.ca.gov/services/Documents/MCQMD/ECM-and-Community- Supports-Standard-Provider-Terms-and-Conditions.pdf), the CalAIM Enhanced Care Management Policy Guide (see: https://www.dhcs.ca.gov/Documents/MCQMD/ECM-Policy- Guide.pdf), APL 23-032: Enhanced Care Management Requirements, and the CalAIM Enhanced Care Management and Community Supports Contract Template Provisions (see: https://www.dhcs.ca.gov/Documents/MCQMD/MCP-ECM-and-ILOS-Contract-Template- Provisions.pdf) for further details.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4942784bdc3e8f5c7d7b433d6edeaeaf",
+        "text": "ALL PLAN LETTER 24-001 Page 8",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "edc757d0a21ee05c63492b447f910741",
+        "text": "Medi-Cal Eligibility Street medicine Providers are required to verify the Medi-Cal eligibility of individuals they encounter in the provision of health care services. Medi-Cal eligible individuals will be covered by either the Medi-Cal Fee-for-Service (FFS) or Medi-Cal managed care (with a corresponding MCP) delivery system. For those individuals without Medi-Cal coverage, the Hospital Presumptive Eligibility (HPE) program is one pathway for qualified HPE Providers to determine Medi-Cal eligibility. HPE provides qualified individuals immediate access to temporary Medi-Cal services while individuals apply for permanent Medi-Cal coverage. DHCS allows qualified HPE Providers to determine presumptive eligibility under the HPE program off the premises of hospitals and clinics, such as in mobile clinics, street teams, or other locations.7 Street medicine Providers are not required to participate in the HPE program, but may do so if they meet and fulfill all qualifications and requirements of the HPE program.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6710011c9884fadcb1fa8c0ba745f395",
+        "text": "Billing/Reimbursement Street medicine Providers rendering services to Medi-Cal eligible individuals are to bill Medi-Cal FFS, or the MCP if contracted, based on the eligibility of the individual, for appropriate and applicable services within their scope of practice.8 Street medicine Providers must comply with the billing provisions for street medicine Providers as applicable in FFS, including but not limited to, the Medi-Cal Provider Manual. For managed care Members, street medicine Providers must comply with the billing provisions for street medicine Providers as applicable to MCP policies and procedures.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "63412e726ebc6b50d3b1132a3f81ed70",
+        "text": "If the street medicine Provider is an FQHC, they can still be reimbursed at their applicable Prospective Payment System (PPS) rate when such services are being provided outside the four walls and where the Member is located. The FQHC would be paid their applicable PPS rate when the street medicine Provider is a billable clinic provider.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cbf46a1bf63723cce27381ef33f7ca37",
+        "text": "7 For additional information on HPE Off-Premise flexibilities, see Medi-Cal NewsFlash: HPE Off- Premise Flexibilities at: https://mcweb.apps.prd.cammis.medi-cal.ca.gov/news/31240. 8 Providers may bill Place of Service (POS) codes to Fee-for-Service Medi-Cal or MCPs when rendering medical services for street medicine, which include a homeless shelter (POS code 04), mobile unit (POS code 15), and temporary lodging (POS code 16). See Medi-Cal NewsFlash: Clarification on Billing Guidelines for Medi-Cal Providers for Street Medicine at: https://mcweb.apps.prd.cammis.medi-cal.ca.gov/news/31526. Update: As of October 1, 2023, street medicine services, as defined in this APL, should be claimed to POS code 27 (Outreach Site/Street) as described below. POS codes 04, 15, and 16 should still be utilized for services provided in those respective settings.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5634efa81338bd7f9725748948391200",
+        "text": "ALL PLAN LETTER 24-001 Page 9",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "37ec18ee4de32ca7b6b72e79c18f7d5d",
+        "text": "Street medicine Providers can also be reimbursed for providing other State Plan benefits. MCPs are responsible for ensuring non-duplication of services with any other covered benefit, program, and/or delivery system.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7359d7c8c4c63857504d6b88c295ab75",
+        "text": "The Centers for Medicare and Medicaid Services (CMS) created a new Place of Service (POS) code 27 (Outreach Site/Street) that became effective October 1, 2023. Street medicine providers should bill POS code 27 to Medi-Cal FFS or MCPs when rendering services for street medicine, as defined in this APL, as of October 1, 2023. Please note that DHCS is currently making necessary updates in the California Medicaid Management Information System (CA-MMIS) to accommodate POS code 27, and any FFS claims that are denied for using POS code 27 during CA-MMIS updates do not need to be resubmitted and will be reprocessed automatically once the necessary system changes are fully implemented. A Medi-Cal NewsFlash will be forthcoming to reflect this update.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ae89176fc2bdd7893a2a13a2415ce548",
+        "text": "POS codes 04 (Homeless Shelter), 15 (Mobile Unit), and 16 (Temporary Lodging) should continue to be utilized for services provided in those respective settings. DHCS would like to reiterate that both street medicine and mobile medicine are reimbursable services in accordance with billing protocols and a provider\u2019s scope of practice; however, it remains the expectation of DHCS that individuals experiencing unsheltered homelessness receive appropriate and applicable services in their lived environment via street medicine.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "2a265a68ec3a65179343321ffe58da1c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ab5e89ad688cfad008293c80f0e6a560",
+        "text": "Data Sharing, Reporting and Administration Requirements",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "1af9ce64927f935add031d1a39ca6034",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e35cf4c6a34603c2ead9bc39381a997f",
+        "text": "Data Sharing, Reporting and Administration Requirements Contracted street medicine Providers must comply with all applicable MCP data sharing and reporting requirements in accordance with federal and state laws and the MCP Contract based on provider contracting type. MCPs are to ensure street medicine Providers receive appropriate provider training and manuals, and have adequate systems in place to adhere to data sharing and reporting requirements, such as for encounter, claims, and care coordination data.9 Additionally, street medicine Providers must comply with all applicable MCP administration requirements in accordance with federal and state laws and the MCP Contract based on provider contracting type. MCPs are to ensure street medicine Providers receive appropriate provider training and manuals, and have adequate systems in place to adhere to administration requirements, such as grievances and appeals, referrals, after-hours and timely access, prior authorizations, quality improvement, performance measures, and electronic health records.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "ab5e89ad688cfad008293c80f0e6a560",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "563c24c78469da2c069460554d00615c",
+        "text": "9 See the DHCS CalAIM Data Sharing Authorization Guidance at: https://www.dhcs.ca.gov/Documents/MCQMD/CalAIM-Data-Sharing-Authorization-Guidance.pdf and the MCP Contract.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "ab5e89ad688cfad008293c80f0e6a560",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "6b829203d3cc637aea4b0fa66dde579a",
+        "text": "ALL PLAN LETTER 24-001 Page 10",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9a17c6a6ae53129e567bd3c31c6c4a62",
+        "text": "MCPs must review their contractually required policies and procedures (P&Ps) to determine if amendments are needed to comply with this APL. If the requirements contained in this APL, including any updates or revisions to this APL, necessitate a change in an MCP\u2019s contractually required P&Ps, the MCP must submit its updated P&Ps to its Managed Care Operations Division (MCOD) Contract Manager within 90 days of the release of this APL. If an MCP determines that no changes to its P&Ps are necessary, the MCP must submit an email confirmation to its MCOD Contract Manager within 90 days of the release of this APL, stating that the MCP\u2019s P&Ps have been reviewed and no changes are necessary. The email confirmation must include the title of this APL as well as the applicable APL release date in the subject line.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "6b829203d3cc637aea4b0fa66dde579a",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cae3d672c92523b3193f7f9e33243f77",
+        "text": "MCPs are responsible for ensuring that their Subcontractors and Network Providers comply with all applicable state and federal laws and regulations, Contract requirements, and other DHCS guidance, including APLs and Policy Letters.10 These requirements must be communicated by each MCP to all Subcontractors and Network Providers. DHCS may impose Corrective Action Plans (CAP), as well as administrative and/or monetary sanctions for non-compliance. For additional information regarding administrative and monetary sanctions, see APL 23-012, and any subsequent iterations on this topic. Any failure to meet the requirements of this APL may result in a CAP and subsequent sanctions.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "6b829203d3cc637aea4b0fa66dde579a",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ce8d80e7620b3bfd6fe49ced64d252e8",
+        "text": "If you have any questions regarding this APL, please contact your MCOD Contract Manager.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "6b829203d3cc637aea4b0fa66dde579a",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6bdc1750327e452bb8e31e06bbc5671e",
+        "text": "Sincerely,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "6b829203d3cc637aea4b0fa66dde579a",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e2b8ac2b6479184953433c09c9bdf14d",
+        "text": "Original Signed by Dana Durham",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "6b829203d3cc637aea4b0fa66dde579a",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d45f6ae1420f7e4c0ddb213be38892df",
+        "text": "Dana Durham, Chief Managed Care Quality and Monitoring Division",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "6b829203d3cc637aea4b0fa66dde579a",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9e9ccebfd83f122c6c1ff5c9047fd3a7",
+        "text": "10 For more information on Subcontractors and Network providers, including the definition and applicable requirements, see APL 19-001, and any subsequent APLs on this topic.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "6b829203d3cc637aea4b0fa66dde579a",
+            "filename": "apl.pdf"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "policy_elements": [
+        {
+            "serial_number": 1,
+            "heading": "MANAGED CARE PLAN/MEDS/834 RESPONSIBILITES January 2024",
+            "page_numbers": [2],
+            "boundary_reasoning": "This policy element starts with a title on page 2 and includes all subsequent text related to the responsibilities and notification/request process until the end of the page."
+        },
+        {
+            "serial_number": 2,
+            "heading": "NOTIFICATION/REQUEST PROCESS",
+            "page_numbers": [2],
+            "boundary_reasoning": "This policy element is clearly marked with a title on page 2 and includes detailed instructions for notification and request processes related to MCP/MEDS/834 changes, ending with the footer on page 2."
+        }
+    ]
+}

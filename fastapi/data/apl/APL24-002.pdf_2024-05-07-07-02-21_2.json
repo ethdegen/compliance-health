@@ -1,0 +1,22 @@
+{
+    "policy_elements": [
+        {
+            "serial_number": 1,
+            "heading": "I. American Indian Member Rights and Protections",
+            "page_numbers": [3, 4],
+            "boundary_reasoning": "This policy element starts on page 3 with the title 'I. American Indian Member Rights and Protections' and continues until the end of page 4, where the next policy element 'II. IHCP Rights and Protections' begins."
+        },
+        {
+            "serial_number": 2,
+            "heading": "II. IHCP Rights and Protections",
+            "page_numbers": [4, 7],
+            "boundary_reasoning": "This policy element begins on page 4 with the title 'II. IHCP Rights and Protections' and includes several sub-elements (A. IHCP Enrollment, B. Ordering, Referring, and Prescribing Provider Enrollment, C. IHCP Contracting) spanning through page 7, ending before the start of the next policy element 'III. MCP Tribal Liaison' on page 10."
+        },
+        {
+            "serial_number": 3,
+            "heading": "III. MCP Tribal Liaison",
+            "page_numbers": [10, 13],
+            "boundary_reasoning": "This policy element starts on page 10 with the title 'III. MCP Tribal Liaison' and continues through page 13, concluding with the sign-off by Dana Durham, Chief Managed Care Quality and Monitoring Division."
+        }
+    ]
+}

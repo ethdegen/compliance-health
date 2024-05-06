@@ -1,0 +1,562 @@
+[
+    {
+        "text": "PHCS CALIFORNIA DEPARTMENT OF HEALTH CARE SERVICES Michelle Baass | Director",
+        "type": "Image",
+        "element_id": "0ec4e9d136ef2d94f98bda23b319b08c",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "DATE: April 8, 2024",
+        "type": "ListItem",
+        "element_id": "36e6d09ebbaa1f29194818bb6c6039dd",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "ALL PLAN LETTER 24-004 SUPERSEDES ALL PLAN LETTER 19-017",
+        "type": "NarrativeText",
+        "element_id": "3e64043b7db376c4e0394586c8e7de25",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "TO: ALL MEDI-CAL MANAGED CARE PLANS",
+        "type": "ListItem",
+        "element_id": "2b2272f3dbf84c08c27f746f2ed919f7",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "SUBJECT: QUALITY IMPROVEMENT AND HEALTH EQUITY TRANSFORMATION REQUIREMENTS",
+        "type": "ListItem",
+        "element_id": "576599560c204ff35a32b928ab33c2f2",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "PURPOSE: The purpose of this All Plan Letter (APL) is to notify Medi-Cal managed care plans (MCPs), including MCPs delivering services to Members with specialized health care needs under the Population-Specific Health Plan (PSP) model1, of requirements for quality and health equity improvement. Unless otherwise noted, all MCP requirements set forth in this APL apply to PSPs.",
+        "type": "NarrativeText",
+        "element_id": "b64f9fa2326628ea9862026e6476e357",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "BACKGROUND: Title 28 of the California Code of Regulations (CCR) section 1300.70,2 Title 42 of the Code of Federal Regulations (CFR) section 438.330,3 and the 2024 MCP Contract4 require MCPs to establish and implement an ongoing Quality Improvement and Health Equity Transformation Program (QIHETP) through which MCPs monitor, evaluate, and take effective action to address any needed improvements in the quality and health equity of care delivered to their Members. Additionally, MCPs are responsible for the quality and health equity of all Covered Services regardless of whether those services have been delegated to a Subcontractor, Downstream Subcontractor, or Network Provider.",
+        "type": "NarrativeText",
+        "element_id": "18a4680f7dd1ba659bb753467d77cc97",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "As part of these requirements, MCPs report to the Department of Health Care Services (DHCS) annually on a set of required quality and equity performance measures selected by DHCS for the evaluation of health plan performance. This set of performance measures is known as the Medi-Cal Managed Care Accountability Set",
+        "type": "NarrativeText",
+        "element_id": "d2290c7e59d3da6fcc30e04ff5ea9fe5",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "1 PSPs include Aids Healthcare Foundation (AFH) and SCAN Health Plan 2 The CCR is searchable at: https://govt.westlaw.com/calregs/Search/Index. 3 The CFR is searchable at: https://www.ecfr.gov/cgi-bin/ECFR?page=browse. 4 Exhibit A, Attachment III, Section 2.2 of the 2024 MCP Contract.",
+        "type": "NarrativeText",
+        "element_id": "284543098c410622bcc7b05deeb44b34",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "California Department of Health Care Services",
+        "type": "Title",
+        "element_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "California Department of Health Care Services Managed Care Quality and Monitoring Division 1501 Capitol Avenue, P.O. Box 997413 Sacramento, CA | 95899-7413 MS 4410 | Phone (916) 449-5000 | www.dhcs.ca.gov",
+        "type": "NarrativeText",
+        "element_id": "2f7f1daf1316223c504805017dc6c161",
+        "parent_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+        "page_number": 1
+    },
+    {
+        "text": "  ",
+        "type": "Image",
+        "element_id": "6c179f21e6f62b629055d8ab40f454ed",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "State of California Gavin Newsom, Governor",
+        "type": "NarrativeText",
+        "element_id": "7390a41b729af1f937365d109a7189be",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "California Health and Human Services Agency",
+        "type": "NarrativeText",
+        "element_id": "ba0c0c6b4acbc157e578eab414ad0dc3",
+        "parent_id": null,
+        "page_number": 1
+    },
+    {
+        "text": "ALL PLAN LETTER 24-004 Page 2",
+        "type": "NarrativeText",
+        "element_id": "461fe42d0425c801f7299379f25a3698",
+        "parent_id": null,
+        "page_number": 2
+    },
+    {
+        "text": "(MCAS), previously known as the External Accountability Set (EAS).56 DHCS selects MCAS measures to evaluate the quality of care delivered by MCPs to Members. The MCAS measures reflect the quality, accessibility, and timeliness of care that MCPs provide to their Members. The MCAS measures are selected from measure stewards such as the Centers for Medicare and Medicaid Services\u2019 (CMS) Adult and Child Health Care Quality Measures for Medicaid (Adult and Child Core Sets) or the National Committee for Quality Assurance (NCQA) Healthcare Effectiveness Data Information Set (HEDIS\u00ae).7 Prior to each Measurement Year (MY), a complete list of all MCAS measures is updated and released to all MCPs, including the performance measures that each PSP must report.8",
+        "type": "NarrativeText",
+        "element_id": "868a92dbe663df18e53bca2b28c521ea",
+        "parent_id": null,
+        "page_number": 2
+    },
+    {
+        "text": "DHCS has adopted a framework for MCPs that perform below the Minimum Performance Level (MPL) including requiring additional focused quality and equity improvement activities. The number of required quality and equity improvement projects is determined by DHCS based on the MCP\u2019s overall performance in that MY. MCPs that fail to meet MPLs are subject to separate enforcement actions independent of this APL.9",
+        "type": "NarrativeText",
+        "element_id": "c66f5e270469730ea5c1a791156b60e1",
+        "parent_id": null,
+        "page_number": 2
+    },
+    {
+        "text": "POLICY: As of January 1, 2024, MCPs are required to comply with the QIHETP requirements as detailed below:",
+        "type": "NarrativeText",
+        "element_id": "0177e330cdbcc4eb123b388b81368f8b",
+        "parent_id": null,
+        "page_number": 2
+    },
+    {
+        "text": "GENERAL REQUIREMENTS",
+        "type": "Title",
+        "element_id": "2bf5faf5de468eacec063dd0e5d305b3",
+        "parent_id": null,
+        "page_number": 2
+    },
+    {
+        "text": "GENERAL REQUIREMENTS MCPs are required to align internal quality and health equity efforts with DHCS\u2019 Comprehensive Quality Strategy Report,10 monitor and report quality performance measures as detailed through the MCAS measures,11 and review and take action on items identified through DHCS\u2019 reports including but not limited to the Technical Report, Health Disparities Report, Preventive Services Report, Focus Studies, and Encounter",
+        "type": "NarrativeText",
+        "element_id": "012c12ccbb4d4396905a680e644e119c",
+        "parent_id": "2bf5faf5de468eacec063dd0e5d305b3",
+        "page_number": 2
+    },
+    {
+        "text": "5 MCAS were previously known as External Accountability Sets (EAS). In the 2024 MCP Contract, they are referred to as Quality Performance Measures and Health Equity measures. 6 MCAS measures can be found at: https://www.dhcs.ca.gov/dataandstats/reports/Pages/MgdCareQualPerfEAS.aspx 7 HEDIS\u00ae is a registered trademark of NCQA. 8 Throughout the Measurement Year (MY) MCPs will work to meet the MCAS measure specification requirements ensuring they are provided adequate quality of care 9 APL 23-012 Enforcement Actions: Administrative and Monetary Sanctions can be found at: https://www.dhcs.ca.gov/formsandpubs/Documents/MMCDAPLsandPolicyLetters/APL2023/APL 23-012.pdf 10 The Comprehensive Strategy Report is available at: https://www.dhcs.ca.gov/services/Documents/Formatted-Combined-CQS-2-4-22.pdf. 11 MCAS measures can be found at: https://www.dhcs.ca.gov/dataandstats/reports/Pages/MgdCareQualPerfEAS.aspx.",
+        "type": "NarrativeText",
+        "element_id": "1a8eddd68fe533a602f2a189a1e878eb",
+        "parent_id": "2bf5faf5de468eacec063dd0e5d305b3",
+        "page_number": 2
+    },
+    {
+        "text": "POLICY:",
+        "type": "Title",
+        "element_id": "253a6886c8552ddabe2e86988ee64e63",
+        "parent_id": null,
+        "page_number": 2
+    },
+    {
+        "text": "ALL PLAN LETTER 24-004 Page 3",
+        "type": "NarrativeText",
+        "element_id": "e48e149fbbfb3a34c2f35cd1d40ba228",
+        "parent_id": "253a6886c8552ddabe2e86988ee64e63",
+        "page_number": 3
+    },
+    {
+        "text": "Data Validation Report.12 DHCS may require MCPs/SHPs to participate in focus studies specific to quality priority areas by submitting data or participating in surveys. Additionally, all MCPs are required to complete a minimum of two Performance Improvement Projects (PIPs) as CMS mandates.13 MCPs are also required to participate in DHCS mandated statewide collaborations or additional initiatives that may improve quality and equity of care for Medi-Cal members as directed by DHCS.",
+        "type": "NarrativeText",
+        "element_id": "fa0b9f0972006fe8293b3d7dd4b48a4d",
+        "parent_id": "253a6886c8552ddabe2e86988ee64e63",
+        "page_number": 3
+    },
+    {
+        "text": "QUALITY AND HEALTH EQUITY TEAMS & DESIGNATED CONTACTS",
+        "type": "Title",
+        "element_id": "36eaf02700aaacf7811a468a41adb487",
+        "parent_id": null,
+        "page_number": 3
+    },
+    {
+        "text": "QUALITY AND HEALTH EQUITY TEAMS & DESIGNATED CONTACTS MCPs are required to have at minimum, the teams below to lead the quality and health equity efforts across their organization:",
+        "type": "NarrativeText",
+        "element_id": "c81b5c8581b1ea9b8f6121cc5f5fbe40",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 3
+    },
+    {
+        "text": "\u2022 Performance Improvement Lead:",
+        "type": "ListItem",
+        "element_id": "a31ab4dceb500f116ec93c1874f6f1dd",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 3
+    },
+    {
+        "text": "MCPs must designate a performance measurement lead and at least one designated backup contact to report performance measurements to DHCS. The performance measurement lead acts as a liaison to communicate DHCS requirements to MCPs and coordinate MCPs\u2019 satisfactory and timely completion of required quality improvement (QI) submissions. In the absence of the performance measurement lead, the backup contact must be familiar with the performance measures to assume the duties of the performance measurement lead.",
+        "type": "ListItem",
+        "element_id": "af0e5d5a8acb538677328175957c88f5",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 3
+    },
+    {
+        "text": "\u2022 Regional Quality and Health Equity Teams:",
+        "type": "ListItem",
+        "element_id": "036d9722a7f5a6d7a5415d8a14c64a31",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 3
+    },
+    {
+        "text": "MCPs must develop or leverage existing regional quality and health equity teams to support the QI and health equity work for all their counties across various DHCS designated regions. MCP regional teams are expected to develop partnerships within their designated regions that include at a minimum, Network Providers, partner MCPs, county Behavioral Health Plans (BHP), local health departments, community-based organizations (CBOs), local governmental agencies (e.g., department/county of social services, Women, Infant, and Children agencies, child welfare departments), regional centers, home and community-based service programs, continuum of care programs, First 5 programs, Area Agencies of Aging, caregiver resource centers, local education agencies, Individual Family Service Plans, and Members. The regional teams must participate in state-driven collaborative meetings and projects to improve partnerships in these regions.14",
+        "type": "ListItem",
+        "element_id": "f4cc126979349e4c7075e9a053fd666e",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 3
+    },
+    {
+        "text": "QUALITY IMPROVEMENT AND HEALTH EQUITY TRANSFORMATION REQUIREMENTS MCPs are required to implement and annually report a QIHETP plan that addresses clinical quality of physical, behavioral health, access and engagement of providers,",
+        "type": "NarrativeText",
+        "element_id": "958ebe6f2f2c0faa5bf689718497caf5",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 3
+    },
+    {
+        "text": "12 DHCS Reports can be found at: https://www.dhcs.ca.gov/dataandstats/reports/Pages/MMCDQualPerfMsrRpts.aspx. 13 42 CFR section 438.330(d). 14 See APL 23-029: MOU Requirements",
+        "type": "NarrativeText",
+        "element_id": "7b321cc91c87ce32a9637a79a6866b8f",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 3
+    },
+    {
+        "text": "ALL PLAN LETTER 24-004 Page 4",
+        "type": "NarrativeText",
+        "element_id": "98c165ef2cd93ef99fd09ce7188b4163",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 4
+    },
+    {
+        "text": "continuity and coordination across settings and all levels of care, and Member experience. DHCS updates the Medi-Cal Managed Care Accountability Set: Quality Improvement and Health Equity Framework Policy Guide as needed to reflect the evolving QI and health equity improvement projects that MCPs are required to do as well as QIHETP deliverable requirements.15 The Quality Improvement and Health Equity Framework is based on a regional approach and encompasses geographical variations to health outcomes and health-related social needs.",
+        "type": "NarrativeText",
+        "element_id": "afe42235a1592cb82493b9a419c9c317",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 4
+    },
+    {
+        "text": "Calculating and Reporting Rates:",
+        "type": "ListItem",
+        "element_id": "a38b42d15e744e5c7a273238e8c3e18e",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 4
+    },
+    {
+        "text": "Each MCP calculates its rates for the required MCAS measures, and these rates are audited by the External Quality Review Organization (EQRO) and reported as determined by DHCS. Each MCP must report to the EQRO the results of each of the MCAS measures required of that MCP and their Fully Delegated Subcontractors and Downstream Fully Delegated Subcontractors while adhering to the requirements set forth by HEDIS\u00ae, CMS, or other applicable technical specifications for the MY.16 MCPs must follow DHCS\u2019 and the NCQA\u2019s timeline for collecting, calculating, and reporting rates. MCPs must calculate and report performance measure rates as determined by DHCS. MCPs will be held to the MPL at the county or approved combined reporting level as approved by DHCS. A new MCP or an existing MCP expanding its operations into a new county must begin to report its MCAS performance measure rates during the first reporting cycle, as determined by DHCS and the EQRO.",
+        "type": "ListItem",
+        "element_id": "c4dfff6a0e4f6ff2388459b195eb34a4",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 4
+    },
+    {
+        "text": "o MCPs/SHPs are required to use DHCS\u2019 EQRO File Transfer Protocol (FTP) website when sending communications containing patient-level data. To establish additional user profiles or remove previous users for FTP access, MCPs/SHPs may contact the EQRO.",
+        "type": "ListItem",
+        "element_id": "7faabedfdf16d0ce7302678c8cef8caa",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 4
+    },
+    {
+        "text": "MCPs must exceed the MPL as determined by DHCS. The MPL for a majority of the MCAS measures is the national Medicaid 50th percentile for each measure; however, when national Medicaid results are not available for a required MCAS measure, DHCS may establish alternative benchmarks. DHCS has also established High Performance Levels (HPLs) for MCPs. MCPs are encouraged to meet or exceed HPLs for performance measures. While meeting the HPL is not a requirement, DHCS establishes a HPL for each required MCAS performance measure that is also a NCQA measure and publicly acknowledges MCPs that meet or exceed the HPLs. The current HPL is the national Medicaid",
+        "type": "ListItem",
+        "element_id": "878fb57194dd76f9a3b89372f545e348",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 4
+    },
+    {
+        "text": "15 Medi-Cal Managed Care Accountability Set: Quality Improvement and Health Equity Framework Policy Guide is forthcoming and will be available at: https://www.dhcs.ca.gov/dataandstats/reports/Pages/MgdCareQualPerfEAS.aspx 16 42 CFR section 438.330(c).",
+        "type": "UncategorizedText",
+        "element_id": "d1f1c527b564520327768423bd2a4439",
+        "parent_id": "36eaf02700aaacf7811a468a41adb487",
+        "page_number": 4
+    },
+    {
+        "text": "MCAS Requirements",
+        "type": "Title",
+        "element_id": "5672471c3f3163deb9d88fba503e7072",
+        "parent_id": null,
+        "page_number": 4
+    },
+    {
+        "text": "\u2022 MCAS Performance Standards Established by DHCS:",
+        "type": "ListItem",
+        "element_id": "08f1d55bbe9ed190e971b763b1d393aa",
+        "parent_id": "5672471c3f3163deb9d88fba503e7072",
+        "page_number": 4
+    },
+    {
+        "text": "ALL PLAN LETTER 24-004 Page 5",
+        "type": "NarrativeText",
+        "element_id": "3c72d93be3097b59e85d77c9c8c6ab45",
+        "parent_id": "5672471c3f3163deb9d88fba503e7072",
+        "page_number": 5
+    },
+    {
+        "text": "90th percentile, as reported in NCQA\u2019s Quality Compass. When the national Medicaid 90th percentile is not available, DHCS may establish the HPL.",
+        "type": "NarrativeText",
+        "element_id": "1cf8e594d6b18dba8d9e8cef2f680d45",
+        "parent_id": "5672471c3f3163deb9d88fba503e7072",
+        "page_number": 5
+    },
+    {
+        "text": "\u2022 DHCS sets incremental targets for MCPs in alignment with the statewide goals, which are tracked and released annually.",
+        "type": "ListItem",
+        "element_id": "950f57b7eba423dc19700772873a2c3b",
+        "parent_id": "5672471c3f3163deb9d88fba503e7072",
+        "page_number": 5
+    },
+    {
+        "text": "\u2022 MCAS Accountability:",
+        "type": "ListItem",
+        "element_id": "59bdaaf698b5c4304ee7c87245532cf6",
+        "parent_id": "5672471c3f3163deb9d88fba503e7072",
+        "page_number": 5
+    },
+    {
+        "text": "MCPs that perform below DHCS\u2019 established MPLs are required to conduct additional QI and health equity improvement projects as determined in the Medi- Cal Managed Care Accountability Set: Quality Improvement and Health Equity Framework Policy Guide. MCPs that perform below DHCS\u2019 established MPLs are also subject to enforcement actions as specified in APL 23-012, including subsequent updates. For HEDIS measures, the MPL benchmarks are established by NCQA and released in the fall of each MY, and the respective NCQA Product Year is used to compare the same MY (e.g. MY 2022 HEDIS measures are compared to NCQA\u2019s Product Year 2022 benchmarks). For CMS Core Set measures, the MPL for the current MY is compared to the previous Federal Fiscal Year (FFY) benchmarks (e.g. MY 2022 CMS Core set measures are compared to CMS\u2019s FFY 2021 benchmarks).",
+        "type": "ListItem",
+        "element_id": "750e247867bcdf5dd1831b85b3a9cf33",
+        "parent_id": "5672471c3f3163deb9d88fba503e7072",
+        "page_number": 5
+    },
+    {
+        "text": "\u2022 Audit Requirements:",
+        "type": "ListItem",
+        "element_id": "dd09cdb4a840beb15ca27da1849b2540",
+        "parent_id": "5672471c3f3163deb9d88fba503e7072",
+        "page_number": 5
+    },
+    {
+        "text": "MCPs must participate in an annual performance measure validation audit performed by DHCS' EQRO. The audit consists of an assessment of the MCP\u2019s and its Fully Delegated Subcontractors\u2019 and Downstream Fully Delegated Subcontractors\u2019 information system capability, followed by an evaluation of the MCP\u2019s ability to comply with specifications outlined by DHCS for HEDIS\u00ae and non-HEDIS\u00ae measures. The EQRO follows the NCQA HEDIS\u00ae Compliance Audit\u2122 methodology to assure standardized reporting of quality performance measures throughout the health care industry. MCPs must use DHCS\u2019 EQRO for conducting the performance measure validation. While the EQRO is responsible for performing the performance measurement validation audits, the EQRO may subcontract with independent auditors licensed by the NCQA to conduct some of the audits. MCPs are required to submit patient-level data as specified by the EQRO as part of the performance measurement audit process.",
+        "type": "NarrativeText",
+        "element_id": "b8d4fd151be59ee83545d3d4ca604b29",
+        "parent_id": "5672471c3f3163deb9d88fba503e7072",
+        "page_number": 5
+    },
+    {
+        "text": "Regional Collaborative Meetings:",
+        "type": "Title",
+        "element_id": "14988f56cb91b08f228665ab925cc9fd",
+        "parent_id": null,
+        "page_number": 5
+    },
+    {
+        "text": "Regional Collaborative Meetings: MCPs are required to attend, at a minimum, quarterly regional collaborative meetings that may be in-person. The collaborative meetings include other MCPs within the region and may also include county BHPs, local health departments, public hospitals, and CBOs. The regional assigned DHCS Nurse Consultant facilitates these meetings.",
+        "type": "NarrativeText",
+        "element_id": "c873136bc1619da18e6f34580aac6f18",
+        "parent_id": "14988f56cb91b08f228665ab925cc9fd",
+        "page_number": 5
+    },
+    {
+        "text": "ALL PLAN LETTER 24-004 Page 6",
+        "type": "NarrativeText",
+        "element_id": "767d9c32780ba052802b6ed9894f8ea8",
+        "parent_id": "14988f56cb91b08f228665ab925cc9fd",
+        "page_number": 6
+    },
+    {
+        "text": "Health Equity Promotion: MCPs are required to align their health equity goals with DHCS\u2019 Health Equity Framework within the Comprehensive Quality Strategy (CQS) Report.17 Additionally, MCPs are required to stratify DHCS-selected MCAS measures by various demographics including, but not limited to age, gender, race/ethnicity, and primary language, for which the MCAS is updated annually to reflect the desired measures to be stratified and by which demographics and categorizations. For these selected MCAS measure demographic stratifications, DHCS may hold MCPs accountable for reaching a designated benchmark at the county or approved combined reporting level. DHCS sets targets for MCPs to achieve and close the gap in rate performance to the established benchmarks. MCPs are required to incorporate their county or region-specific Population Needs Assessment, as detailed in the Population Health Management Policy Guide, build community partnerships, and improve Member participation to fully understand the barriers preventing all populations from receiving care and preventive services as well as social drivers of health. 18 MCPs should leverage their Chief Health Equity Officers in these efforts.",
+        "type": "NarrativeText",
+        "element_id": "3474815383fb9aafc197e4b5539007a2",
+        "parent_id": "14988f56cb91b08f228665ab925cc9fd",
+        "page_number": 6
+    },
+    {
+        "text": "Consumer Satisfaction Surveys:",
+        "type": "Title",
+        "element_id": "47a3046c97632611424412cd849614a9",
+        "parent_id": null,
+        "page_number": 6
+    },
+    {
+        "text": "Consumer Satisfaction Surveys: DHCS conducts annual satisfaction surveys of Medi-Cal members and requires MCP cooperation in conducting these surveys. DHCS will publicly post survey information and results. \u2022 Survey Instrument:",
+        "type": "NarrativeText",
+        "element_id": "687160a928ec65c23f610d580620483b",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 6
+    },
+    {
+        "text": "DHCS uses the Consumer Assessment of Healthcare Providers and Systems (CAHPS\u00ae)19 surveys to assess Member satisfaction with MCPs. DHCS may develop additional customized survey questions, in compliance with NCQA standards, to assess specific problems and/or special populations.",
+        "type": "NarrativeText",
+        "element_id": "1fc83fe0fa0e3cccbb98d38f2935b444",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 6
+    },
+    {
+        "text": "The third-party consultant administers the CAHPS\u00ae survey for the adult and child Medicaid population and for the Children\u2019s Health Insurance Program Medicaid population, which includes children with chronic conditions. The frequency of survey administration is at the discretion of DHCS.",
+        "type": "NarrativeText",
+        "element_id": "bfc59d475751dc4c8f6a0153477a83c0",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 6
+    },
+    {
+        "text": "When applicable, data will be reported at the county or approved combined reporting level for each MCP in the CAHPS\u00ae Summary Report.",
+        "type": "NarrativeText",
+        "element_id": "5d6c4c7dcf2822b8d33d66eaf9aab85c",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 6
+    },
+    {
+        "text": "17 The CQS Report is available at: https://www.dhcs.ca.gov/services/Documents/Formatted- Combined-CQS-2-4-22.pdf. 18 The Population Health Management Policy Guide is available at: https://www.dhcs.ca.gov/CalAIM/Documents/PHM-Policy-Guide.pdf 19 CAHPS\u00ae is a registered trademark of the Agency for Healthcare Research and Quality.",
+        "type": "NarrativeText",
+        "element_id": "456cd20b6d62a3276ada049be5de7ad9",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 6
+    },
+    {
+        "text": "\u2022 CAHPS\u00ae Survey Administration:",
+        "type": "ListItem",
+        "element_id": "f6a343388b5fcd82bc73f2d93e0b29f7",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 6
+    },
+    {
+        "text": "\u2022 Reporting of Survey Results:",
+        "type": "ListItem",
+        "element_id": "22ee9381318156c542c43e139fb39a78",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 6
+    },
+    {
+        "text": "\u2022 Member Surveys for PSPs and SHPs:",
+        "type": "ListItem",
+        "element_id": "099a03e0126397298539b8f3dcfe9405",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 6
+    },
+    {
+        "text": "ALL PLAN LETTER 24-004 Page 7",
+        "type": "NarrativeText",
+        "element_id": "79b6190b1ada324d85fb505114e3b9da",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 7
+    },
+    {
+        "text": "Although PSPs/SHPs are not currently required to participate in the CAHPS\u00ae survey, each PSP/SHP must annually conduct a Member satisfaction survey on its own and provide DHCS with results on its Members. Each PSP/SHP must provide DHCS a copy of its survey instrument and survey calculation/administration methodology, so that the results can be evaluated for compliance with state and federal requirements.",
+        "type": "NarrativeText",
+        "element_id": "888ba7b83119b5bdf3ed6b5e6505e2a9",
+        "parent_id": "47a3046c97632611424412cd849614a9",
+        "page_number": 7
+    },
+    {
+        "text": "Performance Improvement Projects:",
+        "type": "Title",
+        "element_id": "9a66f08d2b13331c16d1f2c9961741ab",
+        "parent_id": null,
+        "page_number": 7
+    },
+    {
+        "text": "Performance Improvement Projects: MCPs/SHPs are required to conduct or participate in a minimum of two PIPs per year as required by CMS. DHCS may provide guidance to each MCP/SHP on topic selection.",
+        "type": "NarrativeText",
+        "element_id": "1fe7a0644fa6b64c7f354171ff80b968",
+        "parent_id": "9a66f08d2b13331c16d1f2c9961741ab",
+        "page_number": 7
+    },
+    {
+        "text": "FULLY DELEGATED SUBCONTRACTOR & DOWNSTREAM FULLY DELEGATED SUBCONTRACTOR QUALITY REQUIREMENTS MCPs are accountable for all QI and equity functions that are fully delegated to Subcontractors and Downstream Subcontractors as detailed below:",
+        "type": "NarrativeText",
+        "element_id": "3e95476195fb1600b5a25476c0c8d627",
+        "parent_id": "9a66f08d2b13331c16d1f2c9961741ab",
+        "page_number": 7
+    },
+    {
+        "text": "\u2022 Perform continuous oversight, monitoring, and evaluation of a Fully Delegated Subcontractor\u2019s and Downstream Fully Delegated Subcontractor\u2019s quality and equity activities, which include MCAS performance assessments, quarterly reporting at the minimum, and reviews of report findings followed by any actions taken.",
+        "type": "ListItem",
+        "element_id": "9edb36dd2b33bf88793a946902e9449f",
+        "parent_id": "9a66f08d2b13331c16d1f2c9961741ab",
+        "page_number": 7
+    },
+    {
+        "text": "\u2022 Conduct and report CAHPS survey results annually for all Fully Delegated Subcontractors and Downstream Fully Delegated Subcontractors.",
+        "type": "ListItem",
+        "element_id": "51afb43fd62e9f1360ff683120e5ba50",
+        "parent_id": "9a66f08d2b13331c16d1f2c9961741ab",
+        "page_number": 7
+    },
+    {
+        "text": "\u2022 Monitor compliance of Fully Delegated Subcontractors\u2019 and Downstream Fully Delegated Subcontractors\u2019 departmental contractual requirements for QI, equity improvement requirements, and MCAS rate calculation and reporting to DHCS.",
+        "type": "ListItem",
+        "element_id": "7f7c92e97951ef155cd0c962fb145de8",
+        "parent_id": "9a66f08d2b13331c16d1f2c9961741ab",
+        "page_number": 7
+    },
+    {
+        "text": "\u2022 MCPs must report annually to DHCS all Fully Delegated Subcontractor\u2019s and Downstream Fully Delegated Subcontractor\u2019s certified MCAS measure rates. Additionally, MCPs are financially responsible for ensuring all their Fully Delegated Subcontractors\u2019 and Downstream Fully Delegated Subcontractors\u2019 MCAS measure rates are appropriately audited and validated as detailed above under MCAS Requirements.",
+        "type": "ListItem",
+        "element_id": "0e091efe5c70c34a032408c97b2a89c7",
+        "parent_id": "9a66f08d2b13331c16d1f2c9961741ab",
+        "page_number": 7
+    },
+    {
+        "text": "o MCPs must use DHCS\u2019 EQRO to audit their Fully Delegated Subcontractors\u2019 and Downstream Fully Delegated Subcontractors\u2019 MCAS rates. A process must be established for the MCP to reimburse DHCS for Subcontractors\u2019 and Downstream Subcontractors\u2019 rate audits.",
+        "type": "ListItem",
+        "element_id": "3a947d8e4fca5379945e675d06e231ed",
+        "parent_id": "9a66f08d2b13331c16d1f2c9961741ab",
+        "page_number": 7
+    },
+    {
+        "text": "DHCS holds Fully Delegated Subcontractors and Downstream Fully Delegated Subcontractors accountable to meet or exceed the MPL for all applicable quality and equity measures. MCPs are accountable for Fully Delegated Subcontractor\u2019s and Downstream Fully Delegated Subcontractor\u2019s MCAS measure performances to include enforcement actions as detailed in APL 23-012, including subsequent updates.",
+        "type": "NarrativeText",
+        "element_id": "2c46e4faef98907a95e1b361e05109bd",
+        "parent_id": "9a66f08d2b13331c16d1f2c9961741ab",
+        "page_number": 7
+    },
+    {
+        "text": "ALL PLAN LETTER 24-004 Page 8",
+        "type": "Header",
+        "element_id": "fc7e72ab2ef8d5cfb2b394d88129efdb",
+        "parent_id": null,
+        "page_number": 8
+    },
+    {
+        "text": "MCPs must review their contractually required policies and procedures (P&Ps) to determine if amendments are needed to comply with this APL. If the requirements contained in this APL, including any updates or revisions to this APL, necessitate a change in an MCP\u2019s contractually required P&Ps, the MCP must submit its updated P&Ps to its Managed Care Operations Division (MCOD) Contract Manager within 90 days of the release of this APL. If an MCP determines that no changes to its P&Ps are necessary, the MCP must submit an email confirmation to its MCOD Contract Manager within 90 days of the release of this APL, stating that the MCP\u2019s P&Ps have been reviewed and no changes are necessary. The email confirmation must include the title of this APL as well as the applicable APL release date in the subject line.",
+        "type": "NarrativeText",
+        "element_id": "9a17c6a6ae53129e567bd3c31c6c4a62",
+        "parent_id": "fc7e72ab2ef8d5cfb2b394d88129efdb",
+        "page_number": 8
+    },
+    {
+        "text": "MCPs are responsible for ensuring that their Subcontractors and Network Providers comply with all applicable state and federal laws and regulations, Contract requirements, and other DHCS guidance, including APLs and Policy Letters.20 These requirements must be communicated by each MCP to all Subcontractors and Network Providers. DHCS may impose CAPs, as well as administrative and/or monetary sanctions, for non-compliance. For additional information regarding administrative and monetary sanctions, see APL 23-012, including subsequent updates. Any failure to meet the requirements of this APL may result in a CAP and subsequent sanctions.",
+        "type": "NarrativeText",
+        "element_id": "950cb40d5b1ac1b159346933c348c1fe",
+        "parent_id": "fc7e72ab2ef8d5cfb2b394d88129efdb",
+        "page_number": 8
+    },
+    {
+        "text": "If you have questions or concerns about the information in this APL, please contact your assigned DHCS Nurse Consultant or MCOD Contract Manager.",
+        "type": "NarrativeText",
+        "element_id": "9c479d3ec0edf56a89370033f53910a9",
+        "parent_id": "fc7e72ab2ef8d5cfb2b394d88129efdb",
+        "page_number": 8
+    },
+    {
+        "text": "Sincerely,",
+        "type": "NarrativeText",
+        "element_id": "6bdc1750327e452bb8e31e06bbc5671e",
+        "parent_id": "fc7e72ab2ef8d5cfb2b394d88129efdb",
+        "page_number": 8
+    },
+    {
+        "text": "Original Signed by Dana Durham",
+        "type": "NarrativeText",
+        "element_id": "e2b8ac2b6479184953433c09c9bdf14d",
+        "parent_id": "fc7e72ab2ef8d5cfb2b394d88129efdb",
+        "page_number": 8
+    },
+    {
+        "text": "Dana Durham, Chief Managed Care Quality and Monitoring Division",
+        "type": "NarrativeText",
+        "element_id": "d45f6ae1420f7e4c0ddb213be38892df",
+        "parent_id": "fc7e72ab2ef8d5cfb2b394d88129efdb",
+        "page_number": 8
+    },
+    {
+        "text": "20 For more information on Subcontractors and Network Providers, including the definition and applicable requirements, see APL 19-001, Medi-Cal Managed Care Health Plan Guidance on Network Provider Status, including subsequent updates.",
+        "type": "NarrativeText",
+        "element_id": "3edfd8301bd6580724ee5cb943347101",
+        "parent_id": "fc7e72ab2ef8d5cfb2b394d88129efdb",
+        "page_number": 8
+    }
+]

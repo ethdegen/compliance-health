@@ -21,9 +21,12 @@
         "**/Thumbs.db": true,
         "**/__pycache__/": true
     },
+    "notebook.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "notebook.formatOnSave.enabled": true,
     "prettier.resolveGlobalModules": true,
-    "python.envFile": "${workspaceFolder}/fastapi/.env",
-    "python.languageServer": "Pylance",
     "search.exclude": {
         "**/.next/": true,
         "**/node_modules/": true
@@ -54,7 +57,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter"
+        "editor.defaultFormatter": "charliermarsh.ruff"
     },
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"

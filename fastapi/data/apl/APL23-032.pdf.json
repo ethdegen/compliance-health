@@ -1,0 +1,1376 @@
+[
+    {
+        "type": "Image",
+        "element_id": "4f6d19392025aaff7f0d7559a3f6a78b",
+        "text": "PHCS CALIFORNIA DEPARTMENT OF HEALTH CARE SERVICES",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "4ade66c046e65e07577c2c55f81e097c",
+        "text": "Michelle Baass | Director",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "7b2afbd27f56e895897fc43b821ba5ea",
+        "text": "DATE: December 22, 2023",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1564f33a6d8e3fd3baa0f57aea08e5b4",
+        "text": "ALL PLAN LETTER 23-032 SUPERSEDES ALL PLAN LETTER 21-012",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2b2272f3dbf84c08c27f746f2ed919f7",
+        "text": "TO: ALL MEDI-CAL MANAGED CARE PLANS",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0155e20a44e9874f296bf1b6c6bbd8b9",
+        "text": "SUBJECT: ENHANCED CARE MANAGEMENT REQUIREMENTS",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9d57815174da7c44e664c7534219b58f",
+        "text": "PURPOSE: The purpose of this All Plan Letter (APL) is to provide guidance to all Medi-Cal managed care plans (MCPs) regarding the provision of the Enhanced Care Management (ECM) benefit.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "55da9dcb6d9d83b7ddbb83bf1b08970f",
+        "text": "BACKGROUND: The Department of Health Care Services (DHCS) released its California Advancing and Innovating Medi-Cal (CalAIM) proposal on October 29, 2019, in anticipation of the expiration of its Medi-Cal 2020 1115 Demonstration and 1915(b) Specialty Mental Health Services Waiver authorities. DHCS postponed the planned implementation of the CalAIM initiative, which was originally scheduled for January 1, 2021, due to the COVID-19 public health emergency, and released a revised CalAIM proposal on January 8, 2021. DHCS also submitted its CalAIM Section 1115 Demonstration and 1915(b) Waiver applications to the Centers for Medicare and Medicaid Services on June 30, 2021.1 DHCS obtained statutory authority to establish the CalAIM initiative to support the stated goals of identifying and managing the risks and needs of Medi-Cal beneficiaries, transitioning and transforming the Medi-Cal program to a more consistent and seamless system, and improving quality outcomes.2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c96bf5a781b703ed7011749916da0c8f",
+        "text": "CalAIM is a multi-year initiative to improve the quality of life and health outcomes of the Medi-Cal managed care population through the implementation of broad delivery system, program, and payment reforms across the Medi-Cal program. The ECM benefit is a component of the CalAIM initiative that will be delivered through Medi-Cal managed care.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "66b5ee6f2a822e042b4e621bae9c2fd2",
+        "text": "1 Information regarding CalAIM, including updates regarding the implementation of various components of CalAIM, can be found at: https://www.dhcs.ca.gov/provgovpart/Pages/CalAIM.aspx. 2 Assembly Bill 133 (Committee on Budget, Chapter 143, Statutes of 2021) can be accessed at: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB133.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "fcf2e0d9f5d9b591fd3bd1996195a1ef",
+        "text": "PURPOSE:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+        "text": "California Department of Health Care Services",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "4ade66c046e65e07577c2c55f81e097c",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fcf40f3c5de24f98332267c0f9b61af4",
+        "text": "California Department of Health Care Services Managed Care Quality and Monitoring Division 1501 Capitol Avenue, P.O. Box 997413 Sacramento, CA, 95899-7413 MS 4410 | Phone (916) 345-7070 | Fax (916) 650-6860 https://www.dhcs.ca.gov/",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d90b5744a734b0807649df3c8523e95a",
+        "text": "State of California Gavin Newsom, Governor",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "parent_id": "db7bf732f8b0af0800eaaa27aad2ca00",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ba0c0c6b4acbc157e578eab414ad0dc3",
+        "text": "California Health and Human Services Agency",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 1,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "47c9530fd9f5d5e64b55776180425866",
+        "text": "ALL PLAN LETTER 23-032 Page 2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f28d6cfd940fcd2aea60fa7c907724a9",
+        "text": "ECM is a whole-person, interdisciplinary approach to comprehensive care management intended to address the clinical and non-clinical needs of high-cost, high-need managed care members through systematic coordination of services that is community-based, interdisciplinary, high-touch, and person-centered. ECM will build on the Whole Person Care (WPC) Pilots and Health Homes Program (HHP) efforts and activities.3,4 The care coordination and care management services that are currently being provided under WPC Pilots and HHP will transition to and be replaced by ECM. The ECM benefit will be phased in over time and available statewide through the managed care delivery system starting January 1, 2022. The WPC Pilots and HHP are scheduled to conclude on December 31, 2021.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "253a6886c8552ddabe2e86988ee64e63",
+        "text": "POLICY:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5f136683dd15dde9e194e7daac0ccf8c",
+        "text": "POLICY: Effective upon the DHCS determined ECM implementation date for each MCP in its respective county of operation, the MCP must administer ECM and provide the following seven core ECM services to eligible Members in applicable ECM Populations of Focus: 1) Outreach and Engagement; 2) Comprehensive Assessment and Care Management Plan; 3) Enhanced Coordination of Care; 4) Health Promotion; 5) Comprehensive Transitional Care; 6) Member and Family Supports; and 7) Coordination of and Referral to Community and Social Support Services.5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "parent_id": "253a6886c8552ddabe2e86988ee64e63",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "32b6e4cda7204d11eb3adba11e0c1cc1",
+        "text": "ECM Core Service Components:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7ee2b7ea338a5fcd21d0f8661b88d9b1",
+        "text": "The requirements under each core service component are described below.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "parent_id": "32b6e4cda7204d11eb3adba11e0c1cc1",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ab654ad4a3d8bb7c71fcc925aef42d1e",
+        "text": "1)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d8b353e839592889c39de854c45ebe93",
+        "text": "Outreach and Engagement: a.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "4022fcebde1c72568c0e405cc1b7a381",
+        "text": "The MCP is responsible for reaching out to and engaging Members who are identified to be eligible for ECM.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7c71729e8c096c019550fbd93ece5cdb",
+        "text": "3 The WPC Pilots webpage can be accessed at the following link: https://www.dhcs.ca.gov/services/Pages/WholePersonCarePilots.aspx. 4 The HHP webpage can be accessed at the following link: https://www.dhcs.ca.gov/services/Pages/HealthHomesProgram.aspx. 5 The ECM and In Lieu of Services (ILOS) implementation timelines are available in the ECM and ILOS Model of Care Cover Note, released in June 2021, and subject to any subsequent updates, which is available on the ECM and ILOS webpage at the following link: https://www.dhcs.ca.gov/Pages/ECMandILOS.aspx.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 2,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4f4529c4da98afaf08bf26b862d4c847",
+        "text": "ALL PLAN LETTER 23-032 Page 3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "4ddcdc3195dacd1e53e11029a707abeb",
+        "text": "2)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "6180669a9fb9d0e8d30055aa57b3ba6c",
+        "text": "3)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9274c6cf2ddfab22a9c7cdf7ead5d180",
+        "text": "Comprehensive Assessment and Care Management Plan, which must include, but is not limited to: a.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2f5a709236c0e980e88b5eee9e5abd26",
+        "text": "Engaging with each Member authorized to receive ECM, primarily through in-person contact; i.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "aafb8d9b9b7bd9ab0267e1d426f1a4b1",
+        "text": "When in-person communication is unavailable or does not meet the needs of the Member, the ECM Provider must use alternative methods (including use of telehealth) to provide culturally appropriate and accessible communication in accordance with Member choice.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2dfb9e990c3aa878a79b19d706ae23c8",
+        "text": "Identifying necessary clinical and non-clinical resources that may be needed to appropriately assess Member health status and gaps in care, and may be needed to inform the development of an individualized Care Management Plan; Developing a comprehensive, individualized, person-centered Care Management Plan with input from the Member and their family members, legal guardians, authorized representatives, caregivers, and other authorized support persons, as appropriate, to assess strengths, risks, needs, goals and preferences and make recommendations for service needs; Incorporating into the Member\u2019s Care Management Plan identified needs and strategies to address those needs, including, but not limited to, physical and developmental health, mental health, dementia, substance use disorders (SUD), Long Term Services and Supports (LTSS), oral health, palliative care, necessary community-based and social services, and housing; Ensuring the Member is reassessed at a frequency appropriate for the Member\u2019s individual progress, changes in needs, and/or as identified in the Care Management Plan; and Ensuring the Care Management Plan is reviewed, maintained, and updated under appropriate clinical oversight.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c60eb0614007d416f8253d93a5477a70",
+        "text": "Enhanced Coordination of Care, which must include, but is not limited to: Organizing patient care activities, as laid out in the Care Management a. Plan; sharing information with those involved as part of the Member\u2019s multi-disciplinary care team; and implementing activities identified in the Member\u2019s Care Management Plan; Maintaining regular contact with all Providers that are identified as being a part of the Member\u2019s multi-disciplinary care team since their input is",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 3,
+            "parent_id": "d8b353e839592889c39de854c45ebe93",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a9f2257f2c249c150e47eefe3b112542",
+        "text": "ALL PLAN LETTER 23-032 Page 4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c61eda1e2005f09f3d78d6ebfecdac35",
+        "text": "necessary for successful implementation of the Member\u2019s goals and needs; Ensuring care is continuous and integrated among all service Providers and refers to and follows up with primary care, physical and developmental health, mental health, SUD treatment, LTSS, oral health, palliative care, and necessary community-based and social services, including housing, as needed; Providing support to engage the Member in their treatment, including coordination for medication review and reconciliation, scheduling appointments, providing appointment reminders, coordinating transportation, accompaniment to critical appointments, and identifying and helping to address other barriers to Member engagement in treatment; Communicating the Member\u2019s needs and preferences timely to the Member\u2019s multi-disciplinary care team in a manner that ensures safe, appropriate, and effective person-centered care; and Ensuring regular contact with the Member and their family members, legal guardians, authorized representatives, caregivers, and authorized support persons, as appropriate, consistent with the Care Management Plan.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a9f2257f2c249c150e47eefe3b112542",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "882d2d9768dd370495a464e359c5fd09",
+        "text": "Health Promotion, which must include, but is not limited to:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a9f2257f2c249c150e47eefe3b112542",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e0b5258f618cd92057f5b2519591e3b1",
+        "text": "Health Promotion, which must include, but is not limited to: a. Working with the Member to identify and build on successes and potential",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a9f2257f2c249c150e47eefe3b112542",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "2ad75c4c49eb98f340f9287d58069cfe",
+        "text": "4)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a9f2257f2c249c150e47eefe3b112542",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "249686a676b8469109b2f5ea7ed37432",
+        "text": "a Working with the Member to identify and build on successes and potential family and/or support networks;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a9f2257f2c249c150e47eefe3b112542",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0f8b569abbcfc6ddfd81feef8da91435",
+        "text": "family and/or support networks; Providing services to encourage and support the Member to make lifestyle choices based on healthy behavior, with the goal of supporting the Member\u2019s ability to successfully monitor and manage their health; and Supporting the Member in strengthening skills that enable them to identify and access resources to assist them in managing their conditions and preventing other chronic conditions.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a9f2257f2c249c150e47eefe3b112542",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "58191728be11dc9b99adde537de27a56",
+        "text": "Comprehensive Transitional Care, which must include, but is not limited to: a.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a9f2257f2c249c150e47eefe3b112542",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f8aa2e9de4947ba0418d7b5bd3daf7d5",
+        "text": "Developing strategies to reduce avoidable Member admissions and readmissions across all Members receiving ECM; For Members who are experiencing or are likely to experience a care transition: i. ii.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a9f2257f2c249c150e47eefe3b112542",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9dd0c6fcc0569a62a318ad30a6497ef6",
+        "text": "Developing and regularly updating a transition plan for the Member; Evaluating the Member\u2019s medical care needs and coordinating any support services to facilitate safe and appropriate transitions to,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "a9f2257f2c249c150e47eefe3b112542",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "191078ab32d6ddd61eb7bf662d883c7e",
+        "text": "b.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "6d2e493279dd15fce4c54c4f97b32969",
+        "text": "5)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "parent_id": "191078ab32d6ddd61eb7bf662d883c7e",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "191078ab32d6ddd61eb7bf662d883c7e",
+        "text": "b.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 4,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f4841f214154b9ec3c23ea1a0d3568bf",
+        "text": "ALL PLAN LETTER 23-032 Page 5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "6b86b273ff34fce19d6b804eff5a3f57",
+        "text": "1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "f4841f214154b9ec3c23ea1a0d3568bf",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "252c0378c78f840d04ff25107686c2b2",
+        "text": "iv. v.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2352aa77d52cfbd14a2e1ddf965bdffa",
+        "text": "from, and among treatment facilities, including admissions and discharges; Tracking each Member\u2019s admission and discharge to or from an emergency department, hospital inpatient facility, skilled nursing facility, residential or treatment facility, incarceration facility, or other treatment center and communicating with the appropriate care team members; Coordinating medication review and reconciliation; and Providing adherence support and referral to appropriate services.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "0dc603ce6f05b39e1bd0ddaf9178c9f7",
+        "text": "6)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "c7a14ed69bd6319b04b17dba67410160",
+        "text": "Member and Family Supports, which must include, but are not limited to: a.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0866fa7cf5b4b34e5fee1e1727cb017d",
+        "text": "Documenting the Member\u2019s authorized family members, legal guardians, authorized representatives, caregivers, and other authorized support persons, as applicable; Ensuring all required authorizations are in place to ensure effective communication between the ECM Providers, MCP, and the Member and their family members, authorized representatives, legal guardians, caregivers, and authorized support persons, as applicable; Activities to ensure the Member and their family members, legal guardians, authorized representatives, caregivers, and authorized support persons, as applicable, are knowledgeable about the Member\u2019s conditions, with the overall goal of improving the Member\u2019s care planning and follow-up, adherence to treatment, and medication management, in accordance with federal, state, and local privacy and confidentiality laws; Ensuring the Member\u2019s ECM Lead Care Manager serves as the primary point of contact for the Member and their family members, legal guardians, authorized representatives, caregivers, and other authorized support persons, as applicable; Identifying supports needed for the Member and/or their family members, legal guardians, authorized representatives, caregivers, and authorized support persons, as applicable, to manage the Member\u2019s condition and assist them in accessing needed support services; Providing appropriate education for the Member and their family members, legal guardians, authorized representatives, caregivers, and/or authorized support persons, as applicable, about care instructions for the Member; and, Ensuring that the Member and their family members, legal guardians, authorized representatives, caregivers, and authorized support persons, as applicable, have a copy of the Member\u2019s Care Management Plan and information about how to request updates.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 5,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e35b1a19f2cacd99c0ee7dbabd7a69d3",
+        "text": "ALL PLAN LETTER 23-032 Page 6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "7902699be42c8a8e46fbbb4501726517",
+        "text": "7",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9a6eaba4c7ef60f94849df0725bafe17",
+        "text": "Coordination of and Referral to Community and Social Support Services, which must include, but is not limited to: a.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b70e026dd110414fb6a131f87f2ba465",
+        "text": "Determining appropriate services to meet the needs of the Member, including services that address social determinants of health needs, such as housing, and services offered by the MCP as ILOS; and Coordinating and referring the Member to available community resources and following up with the Member to ensure services were rendered (i.e., \u201cclosed loop referrals\u201d).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e4c2805fa3daa6e8e94f1779526e512f",
+        "text": "ECM Populations of Focus (POF) MCPs must proactively identify and offer ECM to their high-need, high-cost Members who meet the POF criteria listed in the Contract and detailed in Attachment 1 of this APL.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a407236ba80590a6b377821fbb952539",
+        "text": "ECM Provider Standard Terms and Conditions (STCs) MCPs must ensure ECM is provided primarily through in-person interaction in settings that are most appropriate for Members and, to this end, must contract with ECM Providers to provide ECM services in a community based, in-person manner. MCPs are required to incorporate STCs provided by DHCS, in addition to their own terms, to develop their contracts with ECM Providers.6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "17d85a45ff4c3f48c4b067b18dfec616",
+        "text": "ECM Model of Care (MOC) MCPs must develop and submit to DHCS for review and approval an ECM MOC, which is the MCP\u2019s framework for providing ECM. MCPs must complete and submit their MOCs in accordance with the DHCS approved MOC Template.7 MCPs must submit to DHCS any significant updates to their MOCs for DHCS review and approval at least 60 calendar days in advance of significant changes or updates. Significant changes may include, but are not limited to, changes to the MCP\u2019s approach to administer or deliver ECM services, approved P&Ps, and Subcontractor Agreement(s) boilerplates.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "deb8e1a06c7291b47c39b4b2e48de6af",
+        "text": "ECM Encounter Data Reporting MCPs must report all ECM encounters to DHCS, using the defined set of ECM",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "252c0378c78f840d04ff25107686c2b2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ce552a7d7d8e501f7242e4e1eb22a638",
+        "text": "Additional Guidance:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "153d3e4308a13a1158016f78b226beba",
+        "text": "6 The finalized ECM and ILOS Provider STCs document, released in June 2021, and subject to any subsequent updates, is available on the ECM and ILOS webpage that can be accessed at the following link: https://www.dhcs.ca.gov/Pages/ECMandILOS.aspx. 7 The finalized MOC Template document, released in June 2021, and subject to any subsequent updates, is available on the ECM and ILOS webpage that can be accessed at the following link: https://www.dhcs.ca.gov/Pages/ECMandILOS.aspx.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 6,
+            "parent_id": "ce552a7d7d8e501f7242e4e1eb22a638",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "faef93d73e4733c00608b37ac8433531",
+        "text": "ALL PLAN LETTER 23-032 Page 7",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "ce552a7d7d8e501f7242e4e1eb22a638",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "425fc6cc97f2070c2646312f2dcb3507",
+        "text": "Healthcare Common Procedure Coding System codes and modifiers.8",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "ce552a7d7d8e501f7242e4e1eb22a638",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1433fc12d7f64f4aab32e9ab21803130",
+        "text": "ECM Policy Guide The ECM Policy Guide outlines ECM policies and contains details of MCPs\u2019 contractual requirements for ECM. The ECM Policy Guide includes operational guidelines, including reporting requirements for ECM. MCPs must use the ECM Policy Guide as a key resource for implementation and administration of ECM. The ECM Policy Guide is posted to the ECM and ILOS webpage.9 The ECM Policy Guide also contains information related to MCPs\u2019 use of DHCS ECM/ILOS Billing & Invoicing Guidance as well as ECM Member Information File Guidance. DHCS may update the ECM Policy Guide to reflect the latest ECM requirements and guidelines. DHCS will notify MCPs whenever the ECM Policy Guide is updated.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "ce552a7d7d8e501f7242e4e1eb22a638",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "19b869eed2081ce1ee36ed42adfeb671",
+        "text": "ECM Rates:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ad85c3ee3190ea95ef60eff344e88f45",
+        "text": "For the Calendar Year (CY) 2022, 2023 and 2024 rating periods, a two-sided, symmetrical risk corridor is in effect for applicable revenues and expenditures associated with ECM, as determined by DHCS. The terms of this risk corridor are set forth in MCPs\u2019 contract with DHCS, and further details of this risk corridor are included in Attachment 2 to this APL. DHCS reserves the right to continue the risk corridor for subsequent rating periods, subject to actuarial judgment and consultation with affected MCPs.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "22511eb9ffe133e7787675f555697040",
+        "text": "If the requirements contained in this APL, including any updates or revisions to this APL and/or ECM Policy Guide, necessitate a change in an MCP\u2019s contractually required policies and procedures (P&Ps), the MCP must submit its updated P&Ps to its Managed Care Operations Division (MCOD) Contract Manager within 90 days of the release of this APL. If an MCP determines that no changes to its P&Ps are necessary, the MCP must submit an email confirmation to its MCOD Contract Manager within 90 days of the release of this APL, stating that the MCP\u2019s P&Ps have been reviewed and no changes are necessary. The email confirmation must include the title of this APL as well as the applicable APL release date in the subject line.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c85dd1411dff844ac06776cd1be7864a",
+        "text": "8 The finalized ECM and ILOS Coding Options document, released in June 2021, and subject to any subsequent updates, is available on the ECM and ILOS webpage that can be accessed at the following link: https://www.dhcs.ca.gov/Pages/ECMandILOS.aspx. 9 The ECM Policy Guide released in September 2021, and subject to any subsequent updates, is available on the ECM and ILOS webpage that can be accessed at the following link: https://www.dhcs.ca.gov/Pages/ECMandILOS.aspx.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 7,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ceb21bcbd031637e13d16bd203ccb0bd",
+        "text": "ALL PLAN LETTER 23-032 Page 8",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6f9c98061c3cb68326f975f63f260303",
+        "text": "MCPs are further responsible for ensuring that their Subcontractors and Network Providers comply with all applicable state and federal laws and regulations, ECM requirements, contract requirements, and other DHCS guidance, including APLs and Policy Letters.10 These requirements must be communicated by each MCP to all Subcontractors and Network Providers. DHCS may impose Corrective Action Plans (CAP), as well as administrative and/or monetary sanctions for non-compliance. For additional information regarding administrative and monetary sanctions, see APL 23- 012, and any subsequent iterations on this topic. Any failure to meet the requirements of this APL may result in a CAP and subsequent sanctions.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "217c0095129114e31d699e3e46d4196a",
+        "text": "If you have any questions regarding this APL, please contact your MCOD Contract Manager and the DHCS CalAIM mailbox at CalAIM@dhcs.ca.gov.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6bdc1750327e452bb8e31e06bbc5671e",
+        "text": "Sincerely,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e2b8ac2b6479184953433c09c9bdf14d",
+        "text": "Original Signed by Dana Durham",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d45f6ae1420f7e4c0ddb213be38892df",
+        "text": "Dana Durham, Chief Managed Care Quality and Monitoring Division",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0b467178e7a6edbd10eca655b3100002",
+        "text": "10 For more information on Subcontractors and Network Providers, including the definition and applicable requirements, see APL 19-001, and any subsequent APLs on this topic.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 8,
+            "parent_id": "19b869eed2081ce1ee36ed42adfeb671",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "c3a94c22b7b1d772f144931ce12cb32b",
+        "text": "ALL PLAN LETTER 23-032 Page 9",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e7d25aba8fe7816f01ef285792bbcb6a",
+        "text": "Enhanced Care Management Risk Corridor Methodology Attachment 2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "c3a94c22b7b1d772f144931ce12cb32b",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b32aebca01ebe46fc79812d5873921a4",
+        "text": "Scope",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "c3a94c22b7b1d772f144931ce12cb32b",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "913c6d49a356483097f9ae33703284b5",
+        "text": "A risk corridor shall be in effect for applicable ECM revenues and expenses for the CY 2022, 2023 and 2024 rating periods. For each MCP, the risk corridor calculation will be performed at the MCP level (statewide) across all counties or rating regions in which the MCP operates, and across all population groups eligible for ECM. The risk corridor does not apply to the following programs:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "b32aebca01ebe46fc79812d5873921a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "37b5bb8035175476e6ecdbab061e8c35",
+        "text": "\u2022 Dental Managed Care;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "b32aebca01ebe46fc79812d5873921a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "bebadf582db76391c3b4f7c63d3e5cc6",
+        "text": "\u2022 Family Mosaic Project;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "b32aebca01ebe46fc79812d5873921a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "d973c5f38c6476e0ad8f01e0e29b0d2d",
+        "text": "\u2022 Programs of All-Inclusive Care for the Elderly;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "b32aebca01ebe46fc79812d5873921a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "3ef3c0b1f2b4b9a94ecdeb0cae28aadc",
+        "text": "\u2022 SCAN Health Plan; and",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "b32aebca01ebe46fc79812d5873921a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "407f045e9757528c2c21b84db0cda52e",
+        "text": "\u2022 Cal MediConnect (program ended December 31, 2022).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "b32aebca01ebe46fc79812d5873921a4",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "fe5b6f31775b529b5f71eb3f73b6ed20",
+        "text": "Structure",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "c3a94c22b7b1d772f144931ce12cb32b",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0d1585dc1ff45d2f1376371e146a1b51",
+        "text": "Basis The basis of the risk corridor will be a Gross Medical Expense (GME) calculation. The risk corridor calculation will compare allowable medical expenses as described in the \u2018Expenses (Numerator)\u2019 section to associated revenues as described in the \u2018Revenues (Denominator)\u2019 section, producing a GME expenditure percentage.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "fe5b6f31775b529b5f71eb3f73b6ed20",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "58d2a16038398b8e0294ad152c01e293",
+        "text": "Center-Point and Gain/Loss Bands The center-point of the risk corridor calculation will be a GME expenditure percentage of 100 percent. MCPs will be fully at risk for gains and losses within 5 percent of the center-point, i.e., from 95 to 105 percent. Gains or losses exceeding 5 percent will be subject to zero MCP risk. Therefore, MCPs will owe a remittance to the State or be owed a payment from the State only if the MCP\u2019s gains or losses exceed 5 percent.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "fe5b6f31775b529b5f71eb3f73b6ed20",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "38eafcaf419cc032fe7fcb06680363f3",
+        "text": "Administrative Expenses and Federal and State Taxes and Licensing and Regulatory Fees The risk corridor calculation will not consider administrative expenses including but not limited to federal and state taxes or licensing and regulatory fees. Revenues and",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 9,
+            "parent_id": "fe5b6f31775b529b5f71eb3f73b6ed20",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9ba0d99ab0e4db2f7d867b6db82c3334",
+        "text": "ALL PLAN LETTER 23-032 Page 10",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "fe5b6f31775b529b5f71eb3f73b6ed20",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "41152f26587bf64e4a35def3d8096117",
+        "text": "expenses associated with these costs will be excluded from the denominator and numerator, respectively, of the calculation.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "fe5b6f31775b529b5f71eb3f73b6ed20",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4c0b638467b92ae536582a0a17c76951",
+        "text": "Credibility Adjustments A credibility adjustment may apply for MCPs with low member months. The State will leverage the methodology described at 42 CFR \u00a7 438.8(h) for federally required MLR calculations.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "fe5b6f31775b529b5f71eb3f73b6ed20",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "364372cfef73a50b50a1efff5390bce2",
+        "text": "Revenues and Expenses",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "c3a94c22b7b1d772f144931ce12cb32b",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ad601fa2448736cde8e9b30ab794efa2",
+        "text": "Revenues (Denominator) The revenues used for the denominator of the GME calculation will be equal to member months multiplied by the sum, on a per-member-per-month (PMPM) basis, of the targeted GME component of the ECM add-on rate (inclusive of outreach). The GME PMPM will be determined by accounting for the targeted percentage of the ECM add-on rate that is attributable to GME through the rate development process. Applicable revenues will be net of administration and underwriting gain loading.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bdbd9974d4db01184dce15e9107a64c9",
+        "text": "CalAIM Incentive Payment Program (IPP) revenues that the MCP earns based on performance on ECM-related delivery system infrastructure and provider capacity measures under IPP will be excluded from the denominator.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "64cd7c31a361db4f63b1a0bf233d1451",
+        "text": "Expenses (Numerator) The State will require MCPs to provide and certify allowable medical expense data for ECM services (including outreach) necessary for the risk corridor calculation no sooner than 12 months after the end of the rating period.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1f70701a2eba7fe8bb598e77d2174c95",
+        "text": "Traditional pay-for-performance payments to ECM providers that are linked to utilization of services may be reported as medical expense and will be subject to review by the State in accordance with the review process described in the \u2018State Review\u2019 section.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cbb6b67da9c743d236a5deff65c3edcd",
+        "text": "Excluded Expenses The State will reduce, adjust, or exclude expenses, as appropriate, for:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "9344d854d90f880ac40db93f7573e76e",
+        "text": "\u2022 Non-medical expenses, e.g., non-service investments for delivery system infrastructure and provider capacity.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "75721f0fe9bdf49c5e0361c269fb07af",
+        "text": "\u2022 Incurred but not reported expenses that cannot be adequately supported.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2cb5a0616f97d7e21902676e048beca7",
+        "text": "\u2022 Medical expenses for non-ECM services and populations, including but not limited to expenses for Community Supports services, expenses for members",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 10,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "33f712451a0813e0a6d0b343a93db79b",
+        "text": "ALL PLAN LETTER 23-032 Page 11",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "35dc1d8fcdf9f4dd2dc2c88db6eeb5ad",
+        "text": "who are not within ECM Populations of Focus, or that do not meet phase-in criteria.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "86356247bbc4358a02982828fe0d9fa2",
+        "text": "\u2022 Outlier levels of medical expenses\u2014in comparison to other health plan(s) in the county or other counties\u2014for which the MCP does not provide satisfactory justification based on member mix, utilizer acuity, unique network considerations and/or other factors.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "093199cc4ea1f5eb935b9afe9bf07520",
+        "text": "\u2022 Related party expense levels in excess of unrelated party expense levels.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "364372cfef73a50b50a1efff5390bce2",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e36d459bf84fa4256a5d850d4b0b536f",
+        "text": "MCP-Delivered ECM Services",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "c3a94c22b7b1d772f144931ce12cb32b",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9b384725cfa7cc2d8860a14e6cd12de5",
+        "text": "MCP-Delivered ECM Services Allowable medical expenses may include appropriate expenses for ECM services delivered directly by the MCP, so long as DHCS has previously authorized the MCP\u2019s use of their own staff to deliver ECM services as required in the ECM contract and Model of Care requirements.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "e36d459bf84fa4256a5d850d4b0b536f",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "894fa9d9ce6a6f4d239c225eb15a1559",
+        "text": "Sub-Capitation Expenses In addition to the exclusions described in the \u2018Excluded Expenses\u2019 section all sub- capitation expenses reported as part of the GME calculation will be subject to the following:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "e36d459bf84fa4256a5d850d4b0b536f",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "127c3be24dfebdda18fdbece393a1a7e",
+        "text": "reduced in recognition of an assumed non-medical component of these payments. Reductions will be applied in a manner that ensures alignment between allowable medical expenses and medical costs considered in the rate development process. Therefore, a 7% reduction will be applied to global sub- capitation payments in CY 2022, an 8% reduction will be applied in CY 2023, and a 9.5% reduction will be applied in CY 2024, except when a lower percentage was assumed in the rate development process.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "e36d459bf84fa4256a5d850d4b0b536f",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "3d92ae0e974178ddaa209f33036e07dd",
+        "text": "\u2022 Non-global sub-capitation payments made by MCPs to a non-global subcontractor or network provider will be considered allowable medical expenses excluding separate and distinct payments that are exclusively for administrative costs as defined in Title 28, California Code of Regulations, \u00a7 1300.78, such as but not limited to network development and claims processing.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "e36d459bf84fa4256a5d850d4b0b536f",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a78c5d5328044b0f48ac9653d3b77a5d",
+        "text": "Other Expense Items The State reserves the right to make other appropriate adjustments to MCP-reported expense items that are identified during the State\u2019s review of each MCP\u2019s reported data. Prior to initiating the risk corridor calculations, the State will develop a detailed reporting template and instructions that will provide additional guidance regarding the inclusion or exclusion of other expense types. The State\u2019s review process will include the",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 11,
+            "parent_id": "e36d459bf84fa4256a5d850d4b0b536f",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "64ac932d52442eb05efd6bf242ac0561",
+        "text": "ALL PLAN LETTER 23-032 Page 12",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 12,
+            "parent_id": "e36d459bf84fa4256a5d850d4b0b536f",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9570aa9d8dd828d124f69e7daa6887bd",
+        "text": "opportunity for MCPs to discuss with the State any adjustments identified by the State, and to provide additional information or data to support reported expenses, before the State issues a final determination.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 12,
+            "parent_id": "e36d459bf84fa4256a5d850d4b0b536f",
+            "filename": "apl.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "42c749e3916bb8a4165dd47da1a709a1",
+        "text": "State Review Following the collection of MCP-reported expense data, which will be initiated by the State no sooner than January 1, 2024 for the CY 2022 rating period, no sooner than January 1, 2025 for the CY 2023 rating period and no sooner than January 1, 2026 for the CY 2024 rating period, the State will perform a desk review of each MCP\u2019s reported data, to evaluate compliance with risk corridor definitions, exclusions, and other parameters that will be outlined in the reporting template and instructions. The review will follow a robust process that will be finalized in consultation with its contracted actuarial firm prior to initiating the risk corridor calculations.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": ["eng"],
+            "page_number": 12,
+            "parent_id": "e36d459bf84fa4256a5d850d4b0b536f",
+            "filename": "apl.pdf"
+        }
+    }
+]

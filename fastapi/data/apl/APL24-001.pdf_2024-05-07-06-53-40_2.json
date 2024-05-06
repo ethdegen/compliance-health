@@ -1,0 +1,22 @@
+{
+    "policy_elements": [
+        {
+            "serial_number": 1,
+            "heading": "Street Medicine Provider as a Member’s Assigned PCP",
+            "page_numbers": [2, 3, 4],
+            "boundary_reasoning": "This policy element starts on page 2 with the title 'Street Medicine Provider as a Member’s Assigned PCP' and continues through pages 3 and 4, discussing various aspects of the role and responsibilities of street medicine providers as PCPs. The policy element ends on page 4 with the discussion on site review and medical record review requirements."
+        },
+        {
+            "serial_number": 2,
+            "heading": "Street Medicine Provider as an ECM Provider",
+            "page_numbers": [7, 8, 9],
+            "boundary_reasoning": "This policy element begins on page 7 with the title 'Street Medicine Provider as an ECM Provider' and extends through pages 8 and 9. It covers the integration of street medicine providers as ECM providers, detailing their roles, responsibilities, and the necessary compliance with Medi-Cal eligibility and billing. The element ends on page 9 with the discussion on billing and reimbursement for street medicine providers."
+        },
+        {
+            "serial_number": 3,
+            "heading": "Data Sharing, Reporting and Administration Requirements",
+            "page_numbers": [9, 10],
+            "boundary_reasoning": "This policy element starts on page 9 with the title 'Data Sharing, Reporting and Administration Requirements' and continues into page 10. It outlines the requirements for street medicine providers regarding data sharing, reporting, and administration, and concludes with the MCPs' responsibilities to ensure compliance with these requirements as detailed on page 10."
+        }
+    ]
+}

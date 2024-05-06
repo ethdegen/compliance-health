@@ -1,0 +1,22 @@
+{
+    "policy_elements": [
+        {
+            "serial_number": 1,
+            "heading": "PURPOSE: The purpose of this All Plan Letter (APL) is to announce the release of the “Policy and Operational Guide for Planning and Implementing CalAIM Justice-Involved Reentry Initiative” for county welfare departments, state prisons, county correctional facilities, county youth correctional facilities, and/or their designated entity(ies).",
+            "page_numbers": [1],
+            "boundary_reasoning": "The 'PURPOSE' section starts at the beginning of the document and is contained entirely on page 1, as indicated by the narrative text and the page number."
+        },
+        {
+            "serial_number": 2,
+            "heading": "BACKGROUND: On January 26, 2023, California became the first state in the nation to receive federal approval to offer a targeted set of Medicaid services to Medi-Cal-eligible youth and adults in state prisons, county jails, and youth correctional facilities (YCFs) for up to 90 days prior to release.",
+            "page_numbers": [1],
+            "boundary_reasoning": "The 'BACKGROUND' section is introduced with a title and continues with detailed narrative text, all of which is located on page 1."
+        },
+        {
+            "serial_number": 3,
+            "heading": "POLICY: On October 20, 2023, DHCS released the Guide that provides detailed policy requirements and operational expectations for implementation of the Medi-Cal Justice-Involved Reentry Initiative.",
+            "page_numbers": [2, 3],
+            "boundary_reasoning": "The 'POLICY' section starts on page 2 and continues onto page 3, covering detailed policy elements and operational guidelines. The continuation onto page 3 is confirmed by the narrative text and list items that detail various sections of the Guide."
+        }
+    ]
+}
