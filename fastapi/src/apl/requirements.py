@@ -1,10 +1,11 @@
 import json
 import os
+
 import openai
+from dotenv import load_dotenv
 from llama_index.llms.openai import OpenAI
 from unstructured_client import UnstructuredClient
 from unstructured_client.models import shared
-from dotenv import load_dotenv
 
 load_dotenv()
 
@@ -54,111 +55,124 @@ def restructure_parsed_letter(letter_parsed: str) -> str:
     )
 
 
-def generate_summary_breakdown(letter_parsed: str) -> str:
+def locate_policy_boundary(letter_parsed: str) -> str:
     response = llm.complete(
-        f"\
-You are an expert at extracting a summary breakdown of all policy elements from a healthcare all plan letter containing a policy. \
+        f'\
+You are an expert at locating the policy section within a healthcare all plan letter. \
 You are given this letter in the form of a JSON array. \
-This letter may contain one or more policy elements. \
-If the letter contains multiple policy elements, each policy element usually has a heading numbered with a roman numeral. \
-If the letter only contains a single policy element, then only include that single policy element. \
-Some policy elements may include sub-elements, each of which usually starts with a numbered heading. \
-Whenever you see sub-elements of a policy element, always consider them fully as part of the policy element. \
-Note that page number headers in the letter are at the start of each page. Extract a breakdown of all the policy elements in the letter. \
-Ensure that every policy element is extracted fully and entirely. \
-Continue extracting every policy element until way past its end and then look back to ensure you have correctly identified its end. \
-For every policy element, include all portions of its sub-elements and their headings. \
-Look out for footnotes, which are generally prefixed with running numbers and appear at the end of a page. \
-Whenever you encounter a footnote, continue reading past it because the policy element probably continues. \
-Output an object of `policy_elements` in JSON, containing an array with each element representing summary data pertaining to a single policy element. \
-Include all policy elements in your output. \
-For each policy element, always include all sub-elements. \
-Every policy element object must have the following keys: `serial_number`, `heading`, `page_numbers` and `boundary_reasoning`. \
-Use standard integers for the policy element serial numbers and ensure that serial numbering begins at 1. \
-Capture full headings of every policy element and do not shorten them. \
-Include every page number for which any part of the policy element appears. \
-In your boundary reasonings, explain why you are sure the respective policy element starts and ends on the page numbers you have included. \
-Ensure that you have extracted ALL the policy elements from the letter. \
-Finally, go back and extract the policy element summary breakdown again to ensure that you have included all policy elements fully and correctly.\
+The policy section starts with a header resembling "POLICY". \
+Return the element ID of this policy header in a JSON object with a single key `element_id`.\
 \n\n\
 Here is the all plan letter parsed to a JSON array:\
 \n\n\
-{json.dumps(json.loads(letter_parsed), separators=(',', ':'))}\
+{json.dumps(json.loads(letter_parsed), separators=(",", ":"))}\
+',
+        response_format={
+            "type": "json_object",
+        },
+    )
+
+    return json.dumps(
+        json.loads(
+            response.text,
+        ),
+        indent=4,
+    )
+
+
+def extract_letter_policy(letter_parsed: str, policy_boundary: str) -> str:
+    letter = json.loads(letter_parsed)
+    for i, element in enumerate(letter):
+        if element["element_id"] == policy_boundary:
+            return json.dumps(
+                letter[i:],
+                indent=4,
+            )
+
+
+def locate_subpolicy_boundaries(letter_policy: str) -> str:
+    response = llm.complete(
+        f"\
+You are an expert at locating all sub-policy boundaries within a healthcare all plan letter containing a policy. \
+You are given this letter in the form of a JSON array. \
+This letter contains either a single policy or multiple sub-policies. \
+If the letter contains multiple sub-policies, each sub-policy may be numbered with a numeral or roman numeral. \
+Some sub-policies may themselves include sub-sub-policies, each of which may itself start with a numbered heading. \
+Whenever you see sub-sub-policies, consider them part of the respective sub-policy. \
+Output an object of `boundaries` in JSON, containing an array with each element representing summary data pertaining to a single sub-policy boundary. \
+Every sub-policy boundary object must have the following keys: `serial_number`, `heading` and `element_id`. \
+Use standard integers for the sub-policy serial numbers and ensure that serial numbering begins at 1. \
+Capture full headings of every sub-policy and do not shorten them. \
+`element_id` must be the element ID of the final element that is part of the respective sub_policy. \
+If the letter only contains a single policy, then `boundaries` should be an empty array. \
+\n\n\
+Here is the all plan letter parsed to a JSON array:\
+\n\n\
+{json.dumps(json.loads(letter_policy), separators=(',', ':'))}\
 ",
         response_format={
             "type": "json_object",
         },
     )
 
-    return response.text
+    return json.dumps(
+        json.loads(
+            response.text,
+        ),
+        indent=4,
+    )
 
 
-def generate_policy_elements(letter_parsed: str, summary_breakdown: str) -> str:
-    letter = json.loads(letter_parsed)
-    summary = json.loads(summary_breakdown)["policy_elements"]
+def extract_letter_subpolicies(letter_policy: str, subpolicy_boundaries: str) -> str:
+    letter = json.loads(letter_policy)
+    boundaries = json.loads(subpolicy_boundaries)["boundaries"]
 
-    summary_extract = [
-        {
-            "serial_number": element["serial_number"],
-            "heading": element["heading"],
-            "boundary_reasoning": element["boundary_reasoning"],
-        }
-        for element in summary
-    ]
+    if not boundaries:
+        return letter_policy
 
-    policy_elements = []
+    subpolicies = []
 
-    for i in range(len(summary)):
-        page_numbers = summary[i]["page_numbers"] + [
-            max(summary[i]["page_numbers"]) + 1
-        ]  # summary breakdown sometimes misses final page
-        letter_extract = [
-            {
-                "text": paragraph["text"],
-                "type": paragraph["type"],
-                "element_id": paragraph["element_id"],
-                "parent_id": paragraph["parent_id"],
-            }
-            for paragraph in letter
-            if (paragraph["page_number"] in page_numbers)
-        ]
+    elements = []
+    subpolicy_index = 0
+    subpolicy_boundary = boundaries[subpolicy_index]["element_id"]
+    for element in letter:
+        elements += [element]
+        if element["element_id"] == subpolicy_boundary:
+            subpolicies += [
+                {
+                    "serial_number": boundaries[subpolicy_index]["serial_number"],
+                    "heading": boundaries[subpolicy_index]["heading"],
+                    "elements": elements,
+                },
+            ]
+            elements = []
+            subpolicy_index += 1
+            if subpolicy_index >= len(boundaries):
+                break
+            subpolicy_boundary = boundaries[subpolicy_index]["element_id"]
 
-        serial_number = i + 1
+    return json.dumps(subpolicies, indent=4)
 
+
+def extract_subpolicy_texts(letter_subpolicies: str) -> str:
+    subpolicies = json.loads(letter_subpolicies)
+
+    subpolicy_texts = []
+
+    for subpolicy in subpolicies:
         response = llm.complete(
             f"\
-You are an expert at extracting the entirety of a single policy element from a healthcare all plan letter containing a policy. \
-You are given the relevant pages of this letter in the form of a JSON array. \
-This letter may contain one or more policy elements. \
-If it contains multiple policy elements, each policy element usually has a heading numbered with a roman numeral. \
-Some policy elements may include sub-elements, each of which usually starts with a numbered heading. \
-Whenever you see sub-elements of a policy element, always consider them fully as part of the policy element. \
-Note that page number headers in the letter are at the start of each page. \
-You are also given a breakdown of the policy elements in JSON format. \
-Extract the policy element with serial number {serial_number} from the letter using the provided breakdown as a guide. \
-When extracting text, look out for footnote references. \
-Every time you encounter a numeric reference to a footnote, look up the footnote itself and extract it to the footnotes field of the output. \
-Footnotes themselves are generally prefixed with running numbers and appear at the end of the page where they are referenced. \
-Keep extracting the policy element until you are absolutely sure you have extracted all of it including all its sub-elements! \
-Output an object in JSON. \
-Your extracted policy element object must have the following keys: `serial_number`, `heading`, `text` and `footnotes`. \
-Use standard integers for the policy element serial number. \
-Capture the full heading of the extracted policy element and do not shorten it. \
-Extract all text from all list items and narratives that share parent IDs with other policy element texts. \
-Include all policy element and sub-element headings as part of the extracted text. \
-Make sure you do not miss any final text at the end! \
-The footnotes field should be a map of numeric keys to their respective footnote texts. \
-Now, go back and extract the policy element again to ensure that you have extracted it and its sub-elements fully and correctly.\
+You are an expert at extracting the entire text of a single sub-policy extracted from a healthcare all plan letter containing a policy. \
+You are given the relevant elements of this sub-policy in the form of a JSON array. \
+Extract the entire text of this sub-policy. \
+Output an object in JSON with the following keys: `serial_number`, `heading` and `text`. \
+Capture the full heading of the sub-policy and do not shorten it. \
+Extract all text for the sub-policy. \
+Here is the sub-policy extracted from the all-plan letter in the format of a JSON object:\
 \n\n\
-Here are the relevant pages of the all plan letter parsed to a JSON array:\
+{json.dumps(subpolicy, separators=(',', ':'))}\
 \n\n\
-{json.dumps(letter_extract, separators=(',', ':'))}\
-\n\n\
-And here is the breakdown of policy elements in JSON format:\
-\n\n\
-{json.dumps(summary_extract, separators=(',', ':'))}\
-\n\n\
-Now extract the policy element with serial number {serial_number} COMPLETELY!\
+Now extract all the text for this sub-policy.\
 ",
             response_format={
                 "type": "json_object",
@@ -166,9 +180,9 @@ Now extract the policy element with serial number {serial_number} COMPLETELY!\
         )
 
         policy_elememnt = json.loads(response.text)
-        policy_elements += [policy_elememnt]
+        subpolicy_texts += [policy_elememnt]
 
-    return json.dumps(policy_elements, indent=4)
+    return json.dumps(subpolicy_texts, indent=4)
 
 
 if __name__ == "__main__":
@@ -208,14 +222,34 @@ if __name__ == "__main__":
     ) as output:
         output.write(letter_parsed)
 
-    summary_breakdown = generate_summary_breakdown(letter_parsed)
+    policy_boundary = locate_policy_boundary(letter_parsed)
     with open(
         f"{letter_path.resolve()}_{timestamp}_2.json", "w", encoding="utf-8"
     ) as output:
-        output.write(summary_breakdown)
+        output.write(policy_boundary)
 
-    policy_elements = generate_policy_elements(letter_parsed, summary_breakdown)
+    letter_policy = extract_letter_policy(
+        letter_parsed, json.loads(policy_boundary)["element_id"]
+    )
     with open(
         f"{letter_path.resolve()}_{timestamp}_3.json", "w", encoding="utf-8"
     ) as output:
-        output.write(policy_elements)
+        output.write(letter_policy)
+
+    subpolicy_boundaries = locate_subpolicy_boundaries(letter_policy)
+    with open(
+        f"{letter_path.resolve()}_{timestamp}_4.json", "w", encoding="utf-8"
+    ) as output:
+        output.write(subpolicy_boundaries)
+
+    subpolicies = extract_letter_subpolicies(letter_policy, subpolicy_boundaries)
+    with open(
+        f"{letter_path.resolve()}_{timestamp}_5.json", "w", encoding="utf-8"
+    ) as output:
+        output.write(subpolicies)
+
+    subpolicy_texts = extract_subpolicy_texts(subpolicies)
+    with open(
+        f"{letter_path.resolve()}_{timestamp}_6.json", "w", encoding="utf-8"
+    ) as output:
+        output.write(subpolicy_texts)

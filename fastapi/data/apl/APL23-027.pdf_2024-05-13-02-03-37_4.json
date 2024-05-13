@@ -1,0 +1,74 @@
+{
+    "boundaries": [
+        {
+            "serial_number": 1,
+            "heading": "I. Benefits Requirements",
+            "element_id": "69d7ce25324893ec0dacae04db7daa59"
+        },
+        {
+            "serial_number": 2,
+            "heading": "II. Network Readiness Requirements",
+            "element_id": "dcbe4c5d29f6a09fe25e2e9d2aa31466"
+        },
+        {
+            "serial_number": 3,
+            "heading": "III. Leave of Absence or Bed Hold Requirements",
+            "element_id": "211d044ad88e98ad9f818a354b6aadfc"
+        },
+        {
+            "serial_number": 4,
+            "heading": "IV. Continuity of Care Requirements: Facility Placement",
+            "element_id": "8f60da1ed5cf6d466cf08b25d321027b"
+        },
+        {
+            "serial_number": 5,
+            "heading": "V. Continuity of Care Requirements: Medi-Cal Covered Services for Subacute Care Members with Existing Treatment Authorization Requests",
+            "element_id": "6bb4eb557396b17d789db9632084fb98"
+        },
+        {
+            "serial_number": 6,
+            "heading": "VI. The Preadmission Screening and Resident Review",
+            "element_id": "ae7eccfa73e42d7079e209a3dea00ffe"
+        },
+        {
+            "serial_number": 7,
+            "heading": "VII. Facility Payment",
+            "element_id": "8cec508b067096f3698e149a9d2fc1be"
+        },
+        {
+            "serial_number": 8,
+            "heading": "VIII. Payments for Medi-Cal Covered Services for Members Residing in a Subacute Care Facility",
+            "element_id": "9b56f15ae17b97c5aa12b50e6aec174d"
+        },
+        {
+            "serial_number": 9,
+            "heading": "IX. Payment Processes Including Timely Payment of Claims",
+            "element_id": "af187e522ca7ff844afba93f34c0c018"
+        },
+        {
+            "serial_number": 10,
+            "heading": "X. Population Health Management Requirements",
+            "element_id": "26b1f1a32e161ddc0d8c57ee764451e6"
+        },
+        {
+            "serial_number": 11,
+            "heading": "XI. Long-Term Services and Supports Liaison",
+            "element_id": "83a3ab98e44763b968874959e8bc2901"
+        },
+        {
+            "serial_number": 12,
+            "heading": "XII. MCP Quality Monitoring",
+            "element_id": "b80ebb4f382b6f49ed7c090f523bcbc9"
+        },
+        {
+            "serial_number": 13,
+            "heading": "XIII. Monitoring and Reporting",
+            "element_id": "d844be8bb540917928c5d19742f26bf4"
+        },
+        {
+            "serial_number": 14,
+            "heading": "XIV. Policies and Procedures",
+            "element_id": "ce8d80e7620b3bfd6fe49ced64d252e8"
+        }
+    ]
+}
